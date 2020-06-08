@@ -1,0 +1,121 @@
+@charset "utf-8";
+@import "~bulma/sass/utilities/functions.sass";
+
+$navy:            hsl(234, 82%, 17%);
+$blue:            hsl(213, 78%, 41%);
+$sky-blue:        hsl(213, 100%, 59%);
+$orange:          hsl(27, 100%, 50%);
+$purple:          hsl(265, 100%, 47%);
+$brown:           hsl(0, 100%, 25%);
+$pink:            hsl(303, 86%, 57%);
+
+// Some bulma colours
+$yellow:       hsl(48,  100%, 67%);
+$green:        hsl(141, 53%,  53%);
+$turquoise:    hsl(171, 100%, 41%);
+$cyan:         hsl(204, 71%,  53%);
+$red:          hsl(348, 86%, 61%);
+
+// Invert colors
+$navy-invert: findColorInvert($navy);
+$navy-light: findLightColor($navy);
+$navy-dark: findDarkColor($navy);
+
+$blue-invert: findColorInvert($blue);
+$blue-light: findLightColor($blue);
+$blue-dark: findDarkColor($blue);
+
+$sky-blue-invert: findColorInvert($sky-blue);
+$sky-blue-light: findLightColor($sky-blue);
+$sky-blue-dark: findDarkColor($sky-blue);
+
+$orange-invert: findColorInvert($orange);
+$orange-light: findLightColor($orange);
+$orange-dark: findDarkColor($orange);
+
+$purple-invert: findColorInvert($purple);
+$purple-light: findLightColor($purple);
+$purple-dark: findDarkColor($purple);
+
+$green-invert: findColorInvert($green);
+$green-light: findLightColor($green);
+$green-dark: findDarkColor($green);
+
+$turquoise-invert: findColorInvert($turquoise);
+$turquoise-light: findLightColor($turquoise);
+$turquoise-dark: findDarkColor($turquoise);
+
+$cyan-invert: findColorInvert($cyan);
+$cyan-light: findLightColor($cyan);
+$cyan-dark: findDarkColor($cyan);
+
+$red-invert: findColorInvert($red);
+$red-light: findLightColor($red);
+$red-dark: findDarkColor($red);
+
+$brown-invert: findColorInvert($brown);
+$brown-light: findLightColor($brown);
+$brown-dark: findDarkColor($brown);
+
+$pink-invert: findColorInvert($pink);
+$pink-light: findLightColor($pink);
+$pink-dark: findDarkColor($pink);
+
+$yellow-invert: findColorInvert($yellow);
+$yellow-light: findLightColor($yellow);
+$yellow-dark: findDarkColor($yellow);
+
+// Lists and maps
+$custom-colors: (
+  "navy": ($navy, $navy-invert, $navy-light, $navy-dark),
+  "blue": ($blue, $blue-invert, $blue-light, $blue-dark),
+  "sky-blue": ($sky-blue, $sky-blue-invert, $sky-blue-light, $sky-blue-dark),
+  "orange": ($orange, $orange-invert, $orange-light, $orange-dark),
+  "purple": ($purple, $purple-invert, $purple-light, $purple-dark),
+  "brown": ($brown, $brown-invert, $brown-light, $brown-dark),
+  "pink": ($pink, $pink-invert, $pink-light, $pink-dark),
+  "yellow": ($yellow, $yellow-invert, $yellow-light, $yellow-dark),
+  "green": ($green, $green-invert, $green-light, $green-dark),
+  "turquoise": ($turquoise, $turquoise-invert, $turquoise-light, $turquoise-dark),
+  "cyan": ($cyan, $cyan-invert, $cyan-light, $cyan-dark),
+  "red": ($red, $red-invert, $red-light, $red-dark),
+);
+
+$custom-shades: null;
+
+// FONTS
+
+// serifs
+$georgia:            Georgia, serif;
+$palatino-linotype: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$times-new-roman:   "Times New Roman", Times, serif;
+
+// sans-serif
+$arial: Arial, Helvetica, sans-serif;
+$arial-black: "Arial Black", Gadget, sans-serif;
+$impact: Impact, Charcoal, sans-serif;
+$lucida-sans-console: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+$tahoma: Tahoma, Geneva, sans-serif;
+$verdana: Verdana, Geneva, sans-serif;
+$roboto: Roboto, Arial, sans-serif;
+
+// Monospace
+$courier-new: "Courier New", Courier, monospace;
+$lucida-console: "Lucida Console", Monaco, monospace;
+
+$fonts: (
+  "georgia": $georgia,
+  "palatino-linotype": $palatino-linotype,
+  "times-new-roman": $times-new-roman,
+  "arial": $arial,
+  "arial-black": $arial-black,
+  "impact": $impact,
+  "lucida-sans-console": $lucida-sans-console,
+  "tahoma": $tahoma,
+  "verdana": $verdana,
+  "roboto": $roboto,
+  "courier-new": $courier-new,
+  "lucida-console": $lucida-console
+);
+
+@import "~bulma/bulma";
