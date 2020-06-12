@@ -16,6 +16,9 @@ $turquoise:    hsl(171, 100%, 41%);
 $cyan:         hsl(204, 71%,  53%);
 $red:          hsl(348, 86%, 61%);
 
+
+$primary: $brown;
+
 // Invert colors
 $navy-invert: findColorInvert($navy);
 $navy-light: findLightColor($navy);

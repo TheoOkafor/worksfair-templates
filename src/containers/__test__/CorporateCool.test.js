@@ -29,7 +29,7 @@ const arrangement = [
   },
 ];
 
-describe('PersonalPerfect.js', () => {
+describe('CorporateCool.js', () => {
   test('test that it renders correctly with the given data', () => {
     const component = render(
       <CorporateCool website={website} />

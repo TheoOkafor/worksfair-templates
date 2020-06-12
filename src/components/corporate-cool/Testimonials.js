@@ -1,9 +1,10 @@
 import React from 'react';
 
-import { website } from '../../utils';
+import { getOffset } from '../../utils';
 
-const Testimonials = () => {
-  const { testimonials, metadata } = website;
+const Testimonials = (props) => {
+  const { testimonials, metadata } = props.website;
+
   return (
     <section
       id="testimonials"
@@ -19,7 +20,7 @@ const Testimonials = () => {
           {testimonials.data.map((testimony, index) => (
           <div
             key={testimony.avatar+index}
-            className="column is-one-third"
+            className={`column is-one-third ${getOffset(testimonials.data.length, index)}`}
           >
             <div className="testimonial-block">
               <img alt="avatar" className="avatar" src={testimony.avatar} />

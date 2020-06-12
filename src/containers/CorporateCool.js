@@ -9,7 +9,7 @@ import Footer from '../components/corporate-cool/Footer';
 import About from '../components/corporate-cool/About';
 import { website } from '../utils';
 
-const MultiMuah = () => {
+const CorporateCool = () => {
   return (
     <>
       <Navbar website={website} />
@@ -23,4 +23,4 @@ const MultiMuah = () => {
   );
 };
 
-export default MultiMuah;
+export default CorporateCool;

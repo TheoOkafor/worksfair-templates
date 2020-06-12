@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`PersonalPerfect.js test that it renders correctly with the given data 1`] = `
+exports[`CorporateCool.js test that it renders correctly with the given data 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
@@ -285,7 +285,7 @@ Object {
             class="columns"
           >
             <div
-              class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+              class="column is-one-third-desktop "
             >
               <div
                 class="service-item animate-fadeUp border-color-pink"
@@ -308,7 +308,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+              class="column is-one-third-desktop "
             >
               <div
                 class="service-item animate-fadeUp border-color-pink"
@@ -331,7 +331,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+              class="column is-one-third-desktop "
             >
               <div
                 class="service-item animate-fadeUp border-color-pink"
@@ -552,7 +552,7 @@ Object {
             class="columns has-text-centered"
           >
             <div
-              class="column is-one-third"
+              class="column is-one-third is-offset-2"
             >
               <div
                 class="testimonial-block"
@@ -592,7 +592,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third"
+              class="column is-one-third "
             >
               <div
                 class="testimonial-block"
@@ -1073,7 +1073,7 @@ Object {
           class="columns"
         >
           <div
-            class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+            class="column is-one-third-desktop "
           >
             <div
               class="service-item animate-fadeUp border-color-pink"
@@ -1096,7 +1096,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+            class="column is-one-third-desktop "
           >
             <div
               class="service-item animate-fadeUp border-color-pink"
@@ -1119,7 +1119,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+            class="column is-one-third-desktop "
           >
             <div
               class="service-item animate-fadeUp border-color-pink"
@@ -1340,7 +1340,7 @@ Object {
           class="columns has-text-centered"
         >
           <div
-            class="column is-one-third"
+            class="column is-one-third is-offset-2"
           >
             <div
               class="testimonial-block"
@@ -1380,7 +1380,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third"
+            class="column is-one-third "
           >
             <div
               class="testimonial-block"
@@ -1633,7 +1633,7 @@ Object {
 }
 `;
 
-exports[`PersonalPerfect.js test that it renders correctly without some sections 1`] = `
+exports[`CorporateCool.js test that it renders correctly without some sections 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
@@ -1918,7 +1918,7 @@ Object {
             class="columns"
           >
             <div
-              class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+              class="column is-one-third-desktop "
             >
               <div
                 class="service-item animate-fadeUp border-color-pink"
@@ -1941,7 +1941,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+              class="column is-one-third-desktop "
             >
               <div
                 class="service-item animate-fadeUp border-color-pink"
@@ -1964,7 +1964,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+              class="column is-one-third-desktop "
             >
               <div
                 class="service-item animate-fadeUp border-color-pink"
@@ -2185,7 +2185,7 @@ Object {
             class="columns has-text-centered"
           >
             <div
-              class="column is-one-third"
+              class="column is-one-third is-offset-2"
             >
               <div
                 class="testimonial-block"
@@ -2225,7 +2225,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third"
+              class="column is-one-third "
             >
               <div
                 class="testimonial-block"
@@ -2706,7 +2706,7 @@ Object {
           class="columns"
         >
           <div
-            class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+            class="column is-one-third-desktop "
           >
             <div
               class="service-item animate-fadeUp border-color-pink"
@@ -2729,7 +2729,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+            class="column is-one-third-desktop "
           >
             <div
               class="service-item animate-fadeUp border-color-pink"
@@ -2752,7 +2752,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-half-tablet is-one-third-desktop is-one-third-widescreen"
+            class="column is-one-third-desktop "
           >
             <div
               class="service-item animate-fadeUp border-color-pink"
@@ -2973,7 +2973,7 @@ Object {
           class="columns has-text-centered"
         >
           <div
-            class="column is-one-third"
+            class="column is-one-third is-offset-2"
           >
             <div
               class="testimonial-block"
@@ -3013,7 +3013,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third"
+            class="column is-one-third "
           >
             <div
               class="testimonial-block"
