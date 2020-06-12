@@ -8,6 +8,7 @@ import {
 
 import './css/index.scss';
 import PersonalPerfect from './containers/PersonalPerfect';
+import MultiMuah from './containers/CorporateCool';
 import NotFound from './containers/NotFound';
 
 function App() {
@@ -17,6 +18,9 @@ function App() {
         <Switch>
           <Route exact path="/personal-perfect">
             <PersonalPerfect />
+          </Route>
+          <Route exact path="/corporate-cool">
+            <MultiMuah />
           </Route>
           <Route path="*">
             <NotFound />
