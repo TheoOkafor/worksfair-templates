@@ -3,7 +3,7 @@ export const website = {
     title: "Theo Okafor's Website",
     description: '',
     name: 'Theo Okafor',
-    themeColour: 'navy',
+    themeColour: 'pink',
     theme: 'personalPerfect',
     icon: '',
     tagline: 'Keep moving forward...',
@@ -58,6 +58,29 @@ export const website = {
     // clipArt: 'https://res.cloudinary.com/worksfair/image/upload/v1586765220/fkmraronkxjvmukoia8e.svg',
     clipArt:
       'https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png',
+    data: [
+      {
+        title: 'Building for the future',
+        subtitle:
+          'We have been responsible for some of the best buildings commissioned in Nigeria',
+        backgroundImage:
+          'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg',
+      },
+      {
+        title: 'With over 20 years of experience',
+        subtitle:
+          'We leverage our technical expertise and vest experience to give the best possible outcome',
+        backgroundImage:
+          'https://www.theabujatimes.com/wp-content/uploads/2019/09/Central-Bank-of-Nigeria-Lagos.jpg',
+      },
+      {
+        title: 'We put a roof on your head with a penny',
+        subtitle:
+          'We leverage our technical expertise and vest experience to give the best possible outcome',
+        backgroundImage:
+          'https://nigerianinfopedia.com.ng/wp-content/uploads/2020/05/cost-of-building-a-duplex-in-nigeria.jpeg',
+      },
+    ],
   },
   introduction: {
     enabled: true,
@@ -70,6 +93,56 @@ export const website = {
       startups, and collaborated with talented people to create
       digital products for both business and consumer use. 
       I am a very hardworking person and I love what I do.`,
+  },
+  about: {
+    title: 'about',
+    subtitle: 'Get to know some things about us',
+    left: {
+      image:
+        'https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg',
+      title: 'Company History',
+      content: `A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started.`,
+    },
+    right: {
+      image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg',
+      title: 'Company History',
+      content: ` 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
+      `,
+    },
+  },
+  services: {
+    title: 'Services',
+    subtitle: 'Some of the things we offer',
+    data: [
+      {
+        title: 'Construction',
+        subtitle:
+          'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
+        icon: 'building',
+        image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg'
+      },
+      {
+        title: 'Consultancy',
+        subtitle:
+          'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
+        icon: 'building-o',
+      },
+      {
+        title: 'Chips Manufacturing',
+        subtitle:
+          'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
+        icon: 'microchip',
+      },
+    ],
   },
   skills: {
     enabled: true,
@@ -134,7 +207,7 @@ export const website = {
   worksSettings: {
     enabled: true,
     colour: '',
-    title: 'My Recent Works',
+    title: 'Recent Works',
     subtitle: "Here are a few design projects I've worked on recently.",
     cto: {
       url: 'https://github.com/TheoOkafor',
@@ -197,7 +270,7 @@ export const website = {
     enabled: true,
     title: 'Start a project',
     subtitle: 'Interested in working with me?',
-    buttonText: 'Let\'s do this',
+    buttonText: "Let's do this",
   },
   footer: {
     socialMedia: {
@@ -222,4 +295,24 @@ export const website = {
       ],
     },
   },
+};
+
+/**
+ * a helper for adjusting the horizontal offset in dynamic columns
+ *
+ * @param {Number} length
+ * @param {Number} index
+ *
+ * @returns {String}
+ */
+export const getOffset = (length, index) => {
+  if (index !== 0) return '';
+  switch (length) {
+    case 1:
+      return 'is-offset-4';
+    case 2:
+      return 'is-offset-2';
+    default:
+      return '';
+  }
 };

@@ -1,27 +1,30 @@
 import React from 'react';
-import {
-  BrowserRouter as Router,
-
-  Switch,
-  Route,
-} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import './css/index.scss';
-import PersonalPerfect from './containers/PersonalPerfect';
-import NotFound from './containers/NotFound';
+const PersonalPerfect = React.lazy(() =>
+  import('./containers/PersonalPerfect')
+);
+const CorporateCool = React.lazy(() => import('./containers/CorporateCool'));
+const NotFound = React.lazy(() => import('./containers/NotFound'));
 
 function App() {
   return (
     <Router>
       <div className="App">
-        <Switch>
-          <Route exact path="/personal-perfect">
-            <PersonalPerfect />
-          </Route>
-          <Route path="*">
-            <NotFound />
-          </Route>
-        </Switch>
+        <React.Suspense fallback={<div>Loading...</div>}>
+          <Switch>
+            <Route exact path="/personal-perfect">
+              <PersonalPerfect />
+            </Route>
+            <Route exact path="/corporate-cool">
+              <CorporateCool />
+            </Route>
+            <Route path="*">
+              <NotFound />
+            </Route>
+          </Switch>
+        </React.Suspense>
       </div>
     </Router>
   );

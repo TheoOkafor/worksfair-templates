@@ -1,0 +1,56 @@
+$space-sizes: 5, 7, 10, 15, 20, 25, 30, 35, 40, 50, 60, 70, 80, 90, 100, 120, 150;
+
+@each $size in $space-sizes {
+  $px-size: $size + 0px;
+
+  // Margin
+  .margin-#{$size} {
+    margin: $px-size;
+  }
+  .margin-top-#{$size} {
+    margin-top: $px-size;
+  }
+  .margin-bottom-#{$size} {
+    margin-bottom: $px-size;
+  }
+  .margin-left-#{$size} {
+    margin-left: $px-size;
+  }
+  .margin-right-#{$size} {
+    margin-right: $px-size;
+  }
+  .margin-top-bottom-#{$size} {
+    margin-top: $px-size;
+    margin-bottom: $px-size;
+  }
+  .margin-left-right-#{$size} {
+    margin-left: $px-size;
+    margin-right: $px-size;
+  }
+
+  // Padding
+  .padding-#{$size} {
+    padding: $px-size;
+  }
+  .padding-top-#{$size} {
+    padding-top: $px-size;
+  }
+  .padding-bottom-#{$size} {
+    padding-bottom: $px-size;
+  }
+  .padding-left-#{$size} {
+    padding-left: $px-size;
+  }
+  .padding-right-#{$size} {
+    padding-right: $px-size;
+  }
+  .padding-top-bottom-#{$size} {
+    padding-top: $px-size;
+    padding-bottom: $px-size;
+  }
+  .padding-left-right-#{$size} {
+    padding-left: $px-size;
+    padding-right: $px-size;
+  }
+}
+
