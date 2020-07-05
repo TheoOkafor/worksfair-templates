@@ -1,12 +1,13 @@
-import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import './css/index.scss';
+import "./css/index.scss";
 const PersonalPerfect = React.lazy(() =>
-  import('./containers/PersonalPerfect')
+  import("./containers/PersonalPerfect")
 );
-const CorporateCool = React.lazy(() => import('./containers/CorporateCool'));
-const NotFound = React.lazy(() => import('./containers/NotFound'));
+const CorporateCool = React.lazy(() => import("./containers/CorporateCool"));
+const Diamond = React.lazy(() => import("./containers/Diamond"));
+const NotFound = React.lazy(() => import("./containers/NotFound"));
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
             </Route>
             <Route exact path="/corporate-cool">
               <CorporateCool />
+            </Route>
+            <Route exact path="/diamond">
+              <Diamond />
             </Route>
             <Route path="*">
               <NotFound />
