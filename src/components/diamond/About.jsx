@@ -1,9 +1,11 @@
 import React from "react";
 
 import { website } from "../../utils";
+import { templateAddons } from "../../utils/addons";
 
 const About = () => {
   const { metadata, about } = website;
+  const { aboutContent, aboutDesc } = templateAddons;
   return (
     <section
       className={`container is-transparent is-large section-about`}
@@ -13,16 +15,12 @@ const About = () => {
         <div className="column is-7 ">
           <h6 className="about-heading">{about.title}</h6>
           <p className="about-paragraph">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
-            ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
-            recusandae magni. Lorem ipsum dolor, sit amet consectetur
-            adipisicing elit. Possimus ullam doloribus deserunt officiis
-            blanditiis minus
+            {aboutDesc}
           </p>
         </div>
         <div className="column">
           <h2 className="about-head">{about.subtitle}</h2>
-          <p className="about-para">{about.desc}</p>
+          <p className="about-para">{aboutContent}</p>
           <div>
             <a href="" className="text-gold">
               More About Diamond

@@ -33,9 +33,8 @@ const Footer = ({ website }) => {
           <div className="column is-3">
             <h1 className="title is-size-4-touch">{metadata.name}</h1>
           </div>
-          <div className="column is-3"></div>
 
-          <div className=" column social-icons">
+          <div className="column is-9 social-icons">
             <p className="field">
               {footer.socialMedia.data.map(renderSocialMedia)}
             </p>

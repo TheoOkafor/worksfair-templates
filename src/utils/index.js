@@ -178,20 +178,6 @@ export const website = {
     ],
   },
 
-  about: {
-    title: "About Us",
-    aboutdesc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
-    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
-    recusandae magni. Lorem ipsum dolor, sit amet consectetur
-    adipisicing elit. Possimus ullam doloribus deserunt officiis
-    blanditiis minus`,
-    subtitle: `Best Tech Innovation in Nigeria`,
-    desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
-    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
-    recusandae magni. Lorem ipsum dolor, sit amet consectetur
-    adipisicing elit.`,
-  },
-
   teams: {
     title: "Our Team",
     subtitle: "Exceptional Talent",
