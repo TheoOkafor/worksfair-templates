@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import { getOffset } from "../../utils";
+import { getOffset } from '../../utils';
 
 const Services = (props) => {
   const { metadata, offers } = props.website;
@@ -19,7 +19,7 @@ const Services = (props) => {
                 <div className={`column is-4 title-area`}>
                   <h1 className="title-heading">{item.title}</h1>
                   <div>
-                    <a href="" className="text-gold">
+                    <a href="" className="has-text-gold has-text-weight-bold">
                       {item.tag}
                     </a>
                     <img

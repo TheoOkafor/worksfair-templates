@@ -1,21 +1,21 @@
 @charset "utf-8";
 @import "~bulma/sass/utilities/functions.sass";
 
-$navy:            hsl(234, 82%, 17%);
-$blue:            hsl(213, 78%, 41%);
-$sky-blue:        hsl(213, 100%, 59%);
-$orange:          hsl(27, 100%, 50%);
-$purple:          hsl(265, 100%, 47%);
-$brown:           hsl(0, 100%, 25%);
-$pink:            hsl(303, 86%, 57%);
+$navy: hsl(234, 82%, 17%);
+$blue: hsl(213, 78%, 41%);
+$sky-blue: hsl(213, 100%, 59%);
+$orange: hsl(27, 100%, 50%);
+$purple: hsl(265, 100%, 47%);
+$brown: hsl(0, 100%, 25%);
+$pink: hsl(303, 86%, 57%);
+$gold: hsl(43, 76%, 42%);
 
 // Some bulma colours
-$yellow:       hsl(48,  100%, 67%);
-$green:        hsl(141, 53%,  53%);
-$turquoise:    hsl(171, 100%, 41%);
-$cyan:         hsl(204, 71%,  53%);
-$red:          hsl(348, 86%, 61%);
-
+$yellow: hsl(48, 100%, 67%);
+$green: hsl(141, 53%, 53%);
+$turquoise: hsl(171, 100%, 41%);
+$cyan: hsl(204, 71%, 53%);
+$red: hsl(348, 86%, 61%);
 
 $primary: $brown;
 
@@ -68,20 +68,90 @@ $yellow-invert: findColorInvert($yellow);
 $yellow-light: findLightColor($yellow);
 $yellow-dark: findDarkColor($yellow);
 
+$gold-invert: findColorInvert($gold);
+$gold-light: findLightColor($gold);
+$gold-dark: findDarkColor($gold);
+
 // Lists and maps
 $custom-colors: (
-  "navy": ($navy, $navy-invert, $navy-light, $navy-dark),
-  "blue": ($blue, $blue-invert, $blue-light, $blue-dark),
-  "sky-blue": ($sky-blue, $sky-blue-invert, $sky-blue-light, $sky-blue-dark),
-  "orange": ($orange, $orange-invert, $orange-light, $orange-dark),
-  "purple": ($purple, $purple-invert, $purple-light, $purple-dark),
-  "brown": ($brown, $brown-invert, $brown-light, $brown-dark),
-  "pink": ($pink, $pink-invert, $pink-light, $pink-dark),
-  "yellow": ($yellow, $yellow-invert, $yellow-light, $yellow-dark),
-  "green": ($green, $green-invert, $green-light, $green-dark),
-  "turquoise": ($turquoise, $turquoise-invert, $turquoise-light, $turquoise-dark),
-  "cyan": ($cyan, $cyan-invert, $cyan-light, $cyan-dark),
-  "red": ($red, $red-invert, $red-light, $red-dark),
+  "navy": (
+    $navy,
+    $navy-invert,
+    $navy-light,
+    $navy-dark,
+  ),
+  "blue": (
+    $blue,
+    $blue-invert,
+    $blue-light,
+    $blue-dark,
+  ),
+  "sky-blue": (
+    $sky-blue,
+    $sky-blue-invert,
+    $sky-blue-light,
+    $sky-blue-dark,
+  ),
+  "orange": (
+    $orange,
+    $orange-invert,
+    $orange-light,
+    $orange-dark,
+  ),
+  "purple": (
+    $purple,
+    $purple-invert,
+    $purple-light,
+    $purple-dark,
+  ),
+  "brown": (
+    $brown,
+    $brown-invert,
+    $brown-light,
+    $brown-dark,
+  ),
+  "pink": (
+    $pink,
+    $pink-invert,
+    $pink-light,
+    $pink-dark,
+  ),
+  "yellow": (
+    $yellow,
+    $yellow-invert,
+    $yellow-light,
+    $yellow-dark,
+  ),
+  "green": (
+    $green,
+    $green-invert,
+    $green-light,
+    $green-dark,
+  ),
+  "turquoise": (
+    $turquoise,
+    $turquoise-invert,
+    $turquoise-light,
+    $turquoise-dark,
+  ),
+  "cyan": (
+    $cyan,
+    $cyan-invert,
+    $cyan-light,
+    $cyan-dark,
+  ),
+  "red": (
+    $red,
+    $red-invert,
+    $red-light,
+    $red-dark,
+  ),
+  "gold": (
+    $gold,
+    $gold-invert,
+    $gold-light,
+    $gold-dark,
+  ),
 );
 
 $custom-shades: null;
@@ -89,9 +159,9 @@ $custom-shades: null;
 // FONTS
 
 // serifs
-$georgia:            Georgia, serif;
+$georgia: Georgia, serif;
 $palatino-linotype: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$times-new-roman:   "Times New Roman", Times, serif;
+$times-new-roman: "Times New Roman", Times, serif;
 
 // sans-serif
 $arial: Arial, Helvetica, sans-serif;
@@ -118,7 +188,7 @@ $fonts: (
   "verdana": $verdana,
   "roboto": $roboto,
   "courier-new": $courier-new,
-  "lucida-console": $lucida-console
+  "lucida-console": $lucida-console,
 );
 
 @import "~bulma/bulma";

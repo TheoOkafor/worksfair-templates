@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import { website } from "../../utils";
+import { website } from '../../utils';
 
 const Hero = () => {
   const { metadata, hero } = website;
@@ -20,7 +20,7 @@ const Hero = () => {
             recusandae magni.
           </h2>
           <div>
-            <a href="" className="text-gold">
+            <a href="" className="has-text-gold has-text-weight-bold">
               Discover Diamond
             </a>
             <hr className="hr-link" />
