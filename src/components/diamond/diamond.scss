@@ -230,6 +230,7 @@ html {
   font-size: 50px;
   margin: 80px 0;
   text-align: center;
+  padding: 20px;
 }
 
 // footer section
@@ -249,6 +250,24 @@ html {
 
 .copyright {
   margin-top: 40px;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .feat {
+    margin-left: 30px;
+  }
+
+  // .offers {
+  //   margin-top: 300px;
+  // }
+
+  .carousel-item {
+    height: 768px !important;
+  }
+
+  .carousel-nav {
+    margin-top: 15px !important;
+  }
 }
 
 @media (max-width: 600px) {
@@ -291,16 +310,24 @@ html {
     padding: 1em;
   }
 
+  .quote {
+    font-weight: bold;
+    font-size: 40px;
+    margin: 60px 0;
+    text-align: center;
+    padding: 30px;
+  }
+
   // footer section
 
-  // .footer-link {
-  //   margin-right: 30px;
-  //   margin-bottom: 25px;
-  // }
+  .footer-link {
+    margin-right: 10px;
+    margin-bottom: 25px;
+  }
 
-  // .footer-link:nth-child(2) {
-  //   margin-right: 100px;
-  // }
+  .footer-link:nth-child(2) {
+    margin-right: 120px;
+  }
 
   // .social-icons {
   //   margin-left: 100px;
@@ -312,46 +339,6 @@ html {
 }
 
 // slider styles
-
-// #slider {
-//   overflow: hidden;
-// }
-// #slider figure {
-//   position: relative;
-//   width: 500%;
-//   margin: 0;
-//   left: 0;
-//   animation: 20s slider infinite;
-// }
-// #slider figure .slide {
-//   float: left;
-//   width: 20%;
-// }
-
-// @keyframes slider {
-//   0% {
-//     left: 0;
-//   }
-//   30% {
-//     left: 0;
-//   }
-//   35% {
-//     left: -100%;
-//   }
-//   65% {
-//     left: -100%;
-//   }
-//   70% {
-//     left: -200%;
-//   }
-//   95% {
-//     left: -200%;
-//   }
-
-//   100% {
-//     left: -300%;
-//   }
-// }
 
 input[name='carousel'] {
   display: none;
