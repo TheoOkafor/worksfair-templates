@@ -53,11 +53,17 @@ export const website = {
     colour: 'none',
     title: 'Software Engineer & Mentor',
     subtitle: `I am a fullstack software engineer`,
+    mainDescription: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
+    porro dicta velit eaque asperiores`,
+    description: ` Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni.`,
     avatar:
       'https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg',
     // clipArt: 'https://res.cloudinary.com/worksfair/image/upload/v1586765220/fkmraronkxjvmukoia8e.svg',
     clipArt:
       'https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png',
+    heroImage: 'https://trium.ng/public/images/bg-img-1.png',
     data: [
       {
         title: 'Building for the future',
@@ -95,7 +101,7 @@ export const website = {
       I am a very hardworking person and I love what I do.`,
   },
   about: {
-    title: 'about',
+    title: 'About Us',
     subtitle: 'Get to know some things about us',
     left: {
       image:

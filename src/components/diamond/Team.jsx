@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Team = (props) => {
-  const { teams, metadata } = props.website;
+  const { teams } = props.website;
 
   return (
     <section className="section offers " id="team">
@@ -15,7 +15,7 @@ const Team = (props) => {
             <h2 className="subtitle">{teams.subtitle}</h2>
             <p>{teams.desc}</p>
             <div className="margin-top-70">
-              <a href="" className="has-text-gold has-text-weight-bold">
+              <a href="/#" className="has-text-gold has-text-weight-bold">
                 {teams.linkdesc}
               </a>
               <hr className="hr-link" />

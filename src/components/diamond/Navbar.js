@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import { Link } from "react-router-dom";
-import { website } from "../../utils";
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
+import { website } from '../../utils';
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -8,7 +8,7 @@ const Navbar = () => {
   const { metadata, navbar } = website;
   return (
     <header className={`navbar is-transparent container`}>
-      <div className={open ? "nav-open" : "hide"}>
+      <div className={open ? 'nav-open' : 'hide'}>
         <button
           className={`nav-toggle has-text-${website.metadata.themeColour}`}
           onClick={() => setOpen(!open)}
@@ -56,9 +56,7 @@ const Navbar = () => {
               height="48"
             />
           ) : (
-            <h2
-              className={`webpage-title is-size-4 has-text-${website.metadata.themeColour}`}
-            >
+            <h2 className={`webpage-title is-size-4 has-text-black`}>
               <strong>{metadata.name}</strong>
             </h2>
           )}

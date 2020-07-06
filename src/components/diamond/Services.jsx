@@ -3,7 +3,7 @@ import React from 'react';
 import { getOffset } from '../../utils';
 
 const Services = (props) => {
-  const { metadata, offers } = props.website;
+  const { offers } = props.website;
   return (
     <section className="section offers" id="offers">
       <div className="container ">
@@ -19,7 +19,7 @@ const Services = (props) => {
                 <div className={`column is-4 title-area`}>
                   <h1 className="title-heading">{item.title}</h1>
                   <div>
-                    <a href="" className="has-text-gold has-text-weight-bold">
+                    <a href="/#" className="has-text-gold has-text-weight-bold">
                       {item.tag}
                     </a>
                     <img
@@ -35,7 +35,12 @@ const Services = (props) => {
                   <p className="about-para">{item.desc}</p>
                 </div>
               </div>
-              <img src={item.src} alt="" width="100%" className="service-img" />
+              <img
+                src={item.src}
+                alt="service"
+                width="100%"
+                className="service-img"
+              />
             </div>
           ))}
         </div>

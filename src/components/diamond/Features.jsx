@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
-import { website } from "../../utils";
+import { website } from '../../utils';
 
 const Features = () => {
-  const { metadata, features } = website;
+  const { features } = website;
   return (
     <section className={`features is-large`} id="features">
       <div className="slider is-full-width">
@@ -37,7 +37,7 @@ const Features = () => {
                 </div>
 
                 <div className="container feat feat-bottom">
-                  <a href="" className="text-black">
+                  <a href="/#" className="text-black">
                     {item.linkdesc}
                   </a>
                   <hr className="feat-link" />

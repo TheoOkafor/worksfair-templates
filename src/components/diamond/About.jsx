@@ -4,7 +4,7 @@ import { website } from '../../utils';
 import { templateAddons } from '../../utils/addons';
 
 const About = () => {
-  const { metadata, about } = website;
+  const { about } = website;
   const { aboutContent, aboutDesc } = templateAddons;
   return (
     <section
@@ -20,7 +20,7 @@ const About = () => {
           <h2 className="about-head">{about.subtitle}</h2>
           <p className="about-para">{aboutContent}</p>
           <div>
-            <a href="" className="has-text-gold has-text-weight-bold">
+            <a href="/#" className="has-text-gold has-text-weight-bold">
               More About Diamond
             </a>
             <hr className="hr-link" />

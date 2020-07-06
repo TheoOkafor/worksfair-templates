@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 const Quote = (props) => {
-  const { quote, metadata } = props.website;
+  const { quote } = props.website;
 
   return (
     <section className="section  ">

@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const renderSocialMedia = (media, index) => (
   <a
@@ -8,7 +8,7 @@ const renderSocialMedia = (media, index) => (
     rel="noopener noreferrer"
     key={media.url + index}
   >
-    <i className={`fa fa-${media.name}`} />{" "}
+    <i className={`fa fa-${media.name}`} />{' '}
     <span className="social-name"> {media.name} </span>
   </a>
 );
@@ -34,14 +34,14 @@ const Footer = ({ website }) => {
             <h1 className="title is-size-4-touch">{metadata.name}</h1>
           </div>
 
-          <div className="column is-9 social-icons">
-            <p className="field">
+          <div className="column is-8 social-icons">
+            <p className="footer-SM">
               {footer.socialMedia.data.map(renderSocialMedia)}
             </p>
           </div>
         </div>
         <div className="copyright  has-text-centered">
-          Design with love by <a href="https://worksfair.com/">Worksfair</a>{" "}
+          Design with love by <a href="https://worksfair.com/">Worksfair</a>{' '}
           <span
             className="icon has-white-text"
             // style="vertical-align:middle;"

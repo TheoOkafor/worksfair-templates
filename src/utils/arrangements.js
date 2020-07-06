@@ -33,7 +33,7 @@ export const arrangement = {
     {
       id: 'hero',
       name: 'Hero',
-      addons: ['heroCarousel',],
+      addons: ['heroCarousel'],
     },
     {
       id: 'about',
@@ -63,20 +63,20 @@ export const arrangement = {
       addons: ['aboutDesc', 'aboutContent'],
     },
     {
-      id: 'worksSettings',
-      name: 'Works',
+      id: 'services',
+      name: 'Services',
     },
     {
-      id: 'clients',
-      name: 'Clients',
+      id: 'features',
+      name: 'Features',
     },
     {
-      id: 'testimonials',
-      name: 'testimonials',
+      id: 'team',
+      name: 'team',
     },
     {
-      id: 'callToAction',
-      name: 'Call to action',
+      id: 'quote',
+      name: 'Quote',
     },
   ],
 };

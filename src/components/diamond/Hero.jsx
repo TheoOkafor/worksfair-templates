@@ -3,24 +3,17 @@ import React from 'react';
 import { website } from '../../utils';
 
 const Hero = () => {
-  const { metadata, hero } = website;
+  const { hero } = website;
   return (
     <section className={`hero is-transparent is-large`}>
       <hr className="nav-hr" />
 
       <div className="columns">
-        <div className="column is-7 banner-text">
-          <h1 className="banner-heading">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
-            porro dicta velit eaque asperiores
-          </h1>
-          <h2 className="banner-sub-heading">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
-            ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
-            recusandae magni.
-          </h2>
+        <div className="column is-6.5 banner-text">
+          <h1 className="banner-heading">{hero.mainDescription}</h1>
+          <h2 className="banner-sub-heading">{hero.description}</h2>
           <div>
-            <a href="" className="has-text-gold has-text-weight-bold">
+            <a href="/#" className="has-text-gold has-text-weight-bold">
               Discover Diamond
             </a>
             <hr className="hr-link" />
@@ -29,10 +22,10 @@ const Hero = () => {
         <div className="column">
           <img
             className="banner-img"
-            src="https://bit.ly/31w7nGK"
-            alt="Banner Image"
+            src={hero.heroImage}
+            alt="Banner"
             width="100%"
-            height="900px"
+            height="800"
           />
         </div>
       </div>

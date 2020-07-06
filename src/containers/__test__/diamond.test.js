@@ -1,7 +1,7 @@
 import React from 'react';
 import { cleanup, render } from '@testing-library/react';
 
-import PersonalPerfect from '../Diamond';
+import Diamond from '../Diamond';
 import { website } from '../../utils';
 
 afterEach(cleanup);
@@ -12,20 +12,25 @@ const arrangement = [
     name: 'Hero',
   },
   {
-    id: 'introduction',
-    name: 'Introduction',
+    id: 'about',
+    name: 'About',
+    addons: ['aboutDesc', 'aboutContent'],
   },
   {
-    id: 'worksSettings',
-    name: 'Works',
+    id: 'services',
+    name: 'Services',
   },
   {
-    id: 'testimonials',
-    name: 'testimonials',
+    id: 'features',
+    name: 'Features',
   },
   {
-    id: 'callToAction',
-    name: 'Call to action',
+    id: 'team',
+    name: 'team',
+  },
+  {
+    id: 'quote',
+    name: 'Quote',
   },
 ];
 
