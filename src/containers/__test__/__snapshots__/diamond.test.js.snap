@@ -1,0 +1,3139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Diamond.js test that it renders correctly with the given data 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <header
+        class="navbar is-transparent container"
+      >
+        <div
+          class="hide"
+        >
+          <button
+            aria-label="toggle navigation"
+            class="nav-toggle has-text-pink"
+          >
+            <span
+              class="hamburger"
+            />
+          </button>
+          <nav
+            class="navv"
+          >
+            <ul
+              class="nav__list"
+            >
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/diamond"
+                >
+                  Home.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#offers"
+                >
+                  My Services.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#about"
+                >
+                  About Us.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#features"
+                >
+                  Featured Ventures.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#team"
+                >
+                  Team.
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div
+          class="navbar-brand"
+        >
+          <a
+            class="navbar-item"
+            href="/"
+          >
+            <h2
+              class="webpage-title is-size-4 has-text-black"
+            >
+              <strong>
+                Theo Okafor
+              </strong>
+            </h2>
+          </a>
+        </div>
+      </header>
+      <section
+        class="hero is-transparent is-large"
+      >
+        <hr
+          class="nav-hr"
+        />
+        <div
+          class="columns"
+        >
+          <div
+            class="column is-6.5 banner-text"
+          >
+            <h1
+              class="banner-heading"
+            >
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
+    porro dicta velit eaque asperiores
+            </h1>
+            <h2
+              class="banner-sub-heading"
+            >
+               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni.
+            </h2>
+            <div>
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="/#"
+              >
+                Discover Diamond
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+          <div
+            class="column"
+          >
+            <img
+              alt="Banner"
+              class="banner-img"
+              height="800"
+              src="https://trium.ng/public/images/bg-img-1.png"
+              width="100%"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="container is-transparent is-large section-about"
+        id="about"
+      >
+        <div
+          class="columns about-us"
+        >
+          <div
+            class="column is-7 "
+          >
+            <h6
+              class="about-heading"
+            >
+              About Us
+            </h6>
+            <p
+              class="about-paragraph"
+            >
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+            </p>
+          </div>
+          <div
+            class="column"
+          >
+            <h2
+              class="about-head"
+            >
+              Get to know some things about us
+            </h2>
+            <p
+              class="about-para"
+            >
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+            </p>
+            <div>
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="/#"
+              >
+                More About Diamond
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section offers"
+        id="offers"
+      >
+        <div
+          class="container "
+        >
+          <h6
+            class="about-head"
+          >
+            What We Do
+          </h6>
+          <hr
+            class="offers-hr"
+          />
+          <div
+            class=""
+          >
+            <div
+              class=" "
+            >
+              <div
+                class="columns"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Build
+                  </h1>
+                  <div>
+                    <a
+                      class="has-text-gold has-text-weight-bold"
+                      href="/#"
+                    >
+                      Discover More
+                    </a>
+                    <img
+                      alt=""
+                      class="arrow"
+                      height="25"
+                      src="https://trium.ng/public/images/arrow.png"
+                      width="25"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://trium.ng/public/images/brooke-cagle.png"
+                width="100%"
+              />
+            </div>
+            <div
+              class=" "
+            >
+              <div
+                class="columns"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Launch
+                  </h1>
+                  <div>
+                    <a
+                      class="has-text-gold has-text-weight-bold"
+                      href="/#"
+                    >
+                      Discover More
+                    </a>
+                    <img
+                      alt=""
+                      class="arrow"
+                      height="25"
+                      src="https://trium.ng/public/images/arrow.png"
+                      width="25"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://trium.ng/public/images/section-2.png"
+                width="100%"
+              />
+            </div>
+            <div
+              class=" "
+            >
+              <div
+                class="columns"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Scale
+                  </h1>
+                  <div>
+                    <a
+                      class="has-text-gold has-text-weight-bold"
+                      href="/#"
+                    >
+                      Discover More
+                    </a>
+                    <img
+                      alt=""
+                      class="arrow"
+                      height="25"
+                      src="https://trium.ng/public/images/arrow.png"
+                      width="25"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://trium.ng/public/images/section-3.png"
+                width="100%"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="features is-large"
+        id="features"
+      >
+        <div
+          class="slider is-full-width"
+        >
+          <input
+            checked=""
+            id="carousel-1"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-3"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <div
+            class="carousel-slides"
+          >
+            <div
+              class="carousel-inner"
+            >
+              <div
+                class="carousel-item"
+                style="background-image: url(https://trium.ng/public/images/sparkle.png);"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head"
+                  >
+                    Featured Ventures
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading"
+                  >
+                    Sparkle
+                  </h2>
+                  <p
+                    class="about-para feat-para"
+                  >
+                    Sparkle is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="text-black"
+                    href="/#"
+                  >
+                    More About Sparkle
+                  </a>
+                  <hr
+                    class="feat-link"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+                style="background-image: url(https://trium.ng/public/images/Light.png);"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head"
+                  >
+                    Featured Ventures
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading"
+                  >
+                    Light
+                  </h2>
+                  <p
+                    class="about-para feat-para"
+                  >
+                    Light is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="text-black"
+                    href="/#"
+                  >
+                    More About Light
+                  </a>
+                  <hr
+                    class="feat-link"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+                style="background-image: url(https://trium.ng/public/images/clane.png);"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head"
+                  >
+                    Featured Ventures
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading"
+                  >
+                    Clane
+                  </h2>
+                  <p
+                    class="about-para feat-para"
+                  >
+                    Clane is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="text-black"
+                    href="/#"
+                  >
+                    More About Clane
+                  </a>
+                  <hr
+                    class="feat-link"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-nav"
+          >
+            <label
+              for="carousel-1"
+            />
+            <label
+              for="carousel-2"
+            />
+            <label
+              for="carousel-3"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="section offers "
+        id="team"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class=" columns"
+          >
+            <div
+              class="margin-bottom-50 has-text-centered column is-6"
+            >
+              <img
+                alt=""
+                src="https://trium.ng/public/images/linkedin-sales.png"
+              />
+            </div>
+            <div
+              class="column margin-left-50"
+            >
+              <h6
+                class="title is-spaced about-head"
+              >
+                Our Team
+              </h6>
+              <h2
+                class="subtitle"
+              >
+                Exceptional Talent
+              </h2>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+              </p>
+              <div
+                class="margin-top-70"
+              >
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="/#"
+                >
+                  Join Our Team
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section  "
+      >
+        <div
+          class="container"
+        >
+          <h1
+            class="quote"
+          >
+            "We help Africa's most innovative tech startups grow quickly."
+          </h1>
+        </div>
+      </section>
+      <footer
+        class="section is-full-width is-black  "
+      >
+        <div
+          class="container is-narrow"
+        >
+          <h1
+            class="is-size-4"
+          />
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column is-3"
+            >
+              <h1
+                class="title is-size-4-touch"
+              >
+                Theo Okafor
+              </h1>
+            </div>
+            <div
+              class="column is-8 social-icons"
+            >
+              <p
+                class="footer-SM"
+              >
+                <a
+                  class="footer-link is-medium"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    twitter
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    github
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    linkedin
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    facebook
+                     
+                  </span>
+                </a>
+              </p>
+            </div>
+          </div>
+          <div
+            class="copyright  has-text-centered"
+          >
+            Design with love by 
+            <a
+              href="https://worksfair.com/"
+            >
+              Worksfair
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+          <div
+            class="made-by-bulma has-text-centered"
+          >
+            <a
+              href="https://bulma.io"
+            >
+              <img
+                alt="Made with Bulma"
+                height="31"
+                src="https://bulma.io/images/made-with-bulma--white.png"
+                width="163"
+              />
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>,
+  "container": <div>
+    <header
+      class="navbar is-transparent container"
+    >
+      <div
+        class="hide"
+      >
+        <button
+          aria-label="toggle navigation"
+          class="nav-toggle has-text-pink"
+        >
+          <span
+            class="hamburger"
+          />
+        </button>
+        <nav
+          class="navv"
+        >
+          <ul
+            class="nav__list"
+          >
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="/diamond"
+              >
+                Home.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#offers"
+              >
+                My Services.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#about"
+              >
+                About Us.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#features"
+              >
+                Featured Ventures.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#team"
+              >
+                Team.
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <div
+        class="navbar-brand"
+      >
+        <a
+          class="navbar-item"
+          href="/"
+        >
+          <h2
+            class="webpage-title is-size-4 has-text-black"
+          >
+            <strong>
+              Theo Okafor
+            </strong>
+          </h2>
+        </a>
+      </div>
+    </header>
+    <section
+      class="hero is-transparent is-large"
+    >
+      <hr
+        class="nav-hr"
+      />
+      <div
+        class="columns"
+      >
+        <div
+          class="column is-6.5 banner-text"
+        >
+          <h1
+            class="banner-heading"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
+    porro dicta velit eaque asperiores
+          </h1>
+          <h2
+            class="banner-sub-heading"
+          >
+             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni.
+          </h2>
+          <div>
+            <a
+              class="has-text-gold has-text-weight-bold"
+              href="/#"
+            >
+              Discover Diamond
+            </a>
+            <hr
+              class="hr-link"
+            />
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <img
+            alt="Banner"
+            class="banner-img"
+            height="800"
+            src="https://trium.ng/public/images/bg-img-1.png"
+            width="100%"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="container is-transparent is-large section-about"
+      id="about"
+    >
+      <div
+        class="columns about-us"
+      >
+        <div
+          class="column is-7 "
+        >
+          <h6
+            class="about-heading"
+          >
+            About Us
+          </h6>
+          <p
+            class="about-paragraph"
+          >
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+          </p>
+        </div>
+        <div
+          class="column"
+        >
+          <h2
+            class="about-head"
+          >
+            Get to know some things about us
+          </h2>
+          <p
+            class="about-para"
+          >
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+          </p>
+          <div>
+            <a
+              class="has-text-gold has-text-weight-bold"
+              href="/#"
+            >
+              More About Diamond
+            </a>
+            <hr
+              class="hr-link"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section offers"
+      id="offers"
+    >
+      <div
+        class="container "
+      >
+        <h6
+          class="about-head"
+        >
+          What We Do
+        </h6>
+        <hr
+          class="offers-hr"
+        />
+        <div
+          class=""
+        >
+          <div
+            class=" "
+          >
+            <div
+              class="columns"
+            >
+              <div
+                class="column is-4 title-area"
+              >
+                <h1
+                  class="title-heading"
+                >
+                  Build
+                </h1>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Discover More
+                  </a>
+                  <img
+                    alt=""
+                    class="arrow"
+                    height="25"
+                    src="https://trium.ng/public/images/arrow.png"
+                    width="25"
+                  />
+                </div>
+              </div>
+              <div
+                class="column is-8 desc-area"
+              >
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                </p>
+              </div>
+            </div>
+            <img
+              alt="service"
+              class="service-img"
+              src="https://trium.ng/public/images/brooke-cagle.png"
+              width="100%"
+            />
+          </div>
+          <div
+            class=" "
+          >
+            <div
+              class="columns"
+            >
+              <div
+                class="column is-4 title-area"
+              >
+                <h1
+                  class="title-heading"
+                >
+                  Launch
+                </h1>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Discover More
+                  </a>
+                  <img
+                    alt=""
+                    class="arrow"
+                    height="25"
+                    src="https://trium.ng/public/images/arrow.png"
+                    width="25"
+                  />
+                </div>
+              </div>
+              <div
+                class="column is-8 desc-area"
+              >
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                </p>
+              </div>
+            </div>
+            <img
+              alt="service"
+              class="service-img"
+              src="https://trium.ng/public/images/section-2.png"
+              width="100%"
+            />
+          </div>
+          <div
+            class=" "
+          >
+            <div
+              class="columns"
+            >
+              <div
+                class="column is-4 title-area"
+              >
+                <h1
+                  class="title-heading"
+                >
+                  Scale
+                </h1>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Discover More
+                  </a>
+                  <img
+                    alt=""
+                    class="arrow"
+                    height="25"
+                    src="https://trium.ng/public/images/arrow.png"
+                    width="25"
+                  />
+                </div>
+              </div>
+              <div
+                class="column is-8 desc-area"
+              >
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                </p>
+              </div>
+            </div>
+            <img
+              alt="service"
+              class="service-img"
+              src="https://trium.ng/public/images/section-3.png"
+              width="100%"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="features is-large"
+      id="features"
+    >
+      <div
+        class="slider is-full-width"
+      >
+        <input
+          checked=""
+          id="carousel-1"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-3"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <div
+          class="carousel-slides"
+        >
+          <div
+            class="carousel-inner"
+          >
+            <div
+              class="carousel-item"
+              style="background-image: url(https://trium.ng/public/images/sparkle.png);"
+            >
+              <div
+                class="container feat features-head"
+              >
+                <h6
+                  class="about-head"
+                >
+                  Featured Ventures
+                </h6>
+                <hr
+                  class="offers-hr"
+                />
+              </div>
+              <div
+                class="container feat feat-main"
+              >
+                <h2
+                  class="title-heading"
+                >
+                  Sparkle
+                </h2>
+                <p
+                  class="about-para feat-para"
+                >
+                  Sparkle is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                </p>
+              </div>
+              <div
+                class="container feat feat-bottom"
+              >
+                <a
+                  class="text-black"
+                  href="/#"
+                >
+                  More About Sparkle
+                </a>
+                <hr
+                  class="feat-link"
+                />
+              </div>
+            </div>
+            <div
+              class="carousel-item"
+              style="background-image: url(https://trium.ng/public/images/Light.png);"
+            >
+              <div
+                class="container feat features-head"
+              >
+                <h6
+                  class="about-head"
+                >
+                  Featured Ventures
+                </h6>
+                <hr
+                  class="offers-hr"
+                />
+              </div>
+              <div
+                class="container feat feat-main"
+              >
+                <h2
+                  class="title-heading"
+                >
+                  Light
+                </h2>
+                <p
+                  class="about-para feat-para"
+                >
+                  Light is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                </p>
+              </div>
+              <div
+                class="container feat feat-bottom"
+              >
+                <a
+                  class="text-black"
+                  href="/#"
+                >
+                  More About Light
+                </a>
+                <hr
+                  class="feat-link"
+                />
+              </div>
+            </div>
+            <div
+              class="carousel-item"
+              style="background-image: url(https://trium.ng/public/images/clane.png);"
+            >
+              <div
+                class="container feat features-head"
+              >
+                <h6
+                  class="about-head"
+                >
+                  Featured Ventures
+                </h6>
+                <hr
+                  class="offers-hr"
+                />
+              </div>
+              <div
+                class="container feat feat-main"
+              >
+                <h2
+                  class="title-heading"
+                >
+                  Clane
+                </h2>
+                <p
+                  class="about-para feat-para"
+                >
+                  Clane is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                </p>
+              </div>
+              <div
+                class="container feat feat-bottom"
+              >
+                <a
+                  class="text-black"
+                  href="/#"
+                >
+                  More About Clane
+                </a>
+                <hr
+                  class="feat-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="carousel-nav"
+        >
+          <label
+            for="carousel-1"
+          />
+          <label
+            for="carousel-2"
+          />
+          <label
+            for="carousel-3"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="section offers "
+      id="team"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class=" columns"
+        >
+          <div
+            class="margin-bottom-50 has-text-centered column is-6"
+          >
+            <img
+              alt=""
+              src="https://trium.ng/public/images/linkedin-sales.png"
+            />
+          </div>
+          <div
+            class="column margin-left-50"
+          >
+            <h6
+              class="title is-spaced about-head"
+            >
+              Our Team
+            </h6>
+            <h2
+              class="subtitle"
+            >
+              Exceptional Talent
+            </h2>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+            </p>
+            <div
+              class="margin-top-70"
+            >
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="/#"
+              >
+                Join Our Team
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section  "
+    >
+      <div
+        class="container"
+      >
+        <h1
+          class="quote"
+        >
+          "We help Africa's most innovative tech startups grow quickly."
+        </h1>
+      </div>
+    </section>
+    <footer
+      class="section is-full-width is-black  "
+    >
+      <div
+        class="container is-narrow"
+      >
+        <h1
+          class="is-size-4"
+        />
+        <div
+          class="columns is-centered"
+        >
+          <div
+            class="column is-3"
+          >
+            <h1
+              class="title is-size-4-touch"
+            >
+              Theo Okafor
+            </h1>
+          </div>
+          <div
+            class="column is-8 social-icons"
+          >
+            <p
+              class="footer-SM"
+            >
+              <a
+                class="footer-link is-medium"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  twitter
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  github
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  linkedin
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  facebook
+                   
+                </span>
+              </a>
+            </p>
+          </div>
+        </div>
+        <div
+          class="copyright  has-text-centered"
+        >
+          Design with love by 
+          <a
+            href="https://worksfair.com/"
+          >
+            Worksfair
+          </a>
+           
+          <span
+            class="icon has-white-text"
+          >
+            <i
+              class="fa fa-copyright"
+            />
+          </span>
+          2020
+        </div>
+        <div
+          class="made-by-bulma has-text-centered"
+        >
+          <a
+            href="https://bulma.io"
+          >
+            <img
+              alt="Made with Bulma"
+              height="31"
+              src="https://bulma.io/images/made-with-bulma--white.png"
+              width="163"
+            />
+          </a>
+        </div>
+      </div>
+    </footer>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Diamond.js test that it renders correctly without some sections 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <header
+        class="navbar is-transparent container"
+      >
+        <div
+          class="hide"
+        >
+          <button
+            aria-label="toggle navigation"
+            class="nav-toggle has-text-pink"
+          >
+            <span
+              class="hamburger"
+            />
+          </button>
+          <nav
+            class="navv"
+          >
+            <ul
+              class="nav__list"
+            >
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/diamond"
+                >
+                  Home.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#offers"
+                >
+                  My Services.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#about"
+                >
+                  About Us.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#features"
+                >
+                  Featured Ventures.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#team"
+                >
+                  Team.
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div
+          class="navbar-brand"
+        >
+          <a
+            class="navbar-item"
+            href="/"
+          >
+            <h2
+              class="webpage-title is-size-4 has-text-black"
+            >
+              <strong>
+                Theo Okafor
+              </strong>
+            </h2>
+          </a>
+        </div>
+      </header>
+      <section
+        class="hero is-transparent is-large"
+      >
+        <hr
+          class="nav-hr"
+        />
+        <div
+          class="columns"
+        >
+          <div
+            class="column is-6.5 banner-text"
+          >
+            <h1
+              class="banner-heading"
+            >
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
+    porro dicta velit eaque asperiores
+            </h1>
+            <h2
+              class="banner-sub-heading"
+            >
+               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni.
+            </h2>
+            <div>
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="/#"
+              >
+                Discover Diamond
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+          <div
+            class="column"
+          >
+            <img
+              alt="Banner"
+              class="banner-img"
+              height="800"
+              src="https://trium.ng/public/images/bg-img-1.png"
+              width="100%"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="container is-transparent is-large section-about"
+        id="about"
+      >
+        <div
+          class="columns about-us"
+        >
+          <div
+            class="column is-7 "
+          >
+            <h6
+              class="about-heading"
+            >
+              About Us
+            </h6>
+            <p
+              class="about-paragraph"
+            >
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+            </p>
+          </div>
+          <div
+            class="column"
+          >
+            <h2
+              class="about-head"
+            >
+              Get to know some things about us
+            </h2>
+            <p
+              class="about-para"
+            >
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+            </p>
+            <div>
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="/#"
+              >
+                More About Diamond
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section offers"
+        id="offers"
+      >
+        <div
+          class="container "
+        >
+          <h6
+            class="about-head"
+          >
+            What We Do
+          </h6>
+          <hr
+            class="offers-hr"
+          />
+          <div
+            class=""
+          >
+            <div
+              class=" "
+            >
+              <div
+                class="columns"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Build
+                  </h1>
+                  <div>
+                    <a
+                      class="has-text-gold has-text-weight-bold"
+                      href="/#"
+                    >
+                      Discover More
+                    </a>
+                    <img
+                      alt=""
+                      class="arrow"
+                      height="25"
+                      src="https://trium.ng/public/images/arrow.png"
+                      width="25"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://trium.ng/public/images/brooke-cagle.png"
+                width="100%"
+              />
+            </div>
+            <div
+              class=" "
+            >
+              <div
+                class="columns"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Launch
+                  </h1>
+                  <div>
+                    <a
+                      class="has-text-gold has-text-weight-bold"
+                      href="/#"
+                    >
+                      Discover More
+                    </a>
+                    <img
+                      alt=""
+                      class="arrow"
+                      height="25"
+                      src="https://trium.ng/public/images/arrow.png"
+                      width="25"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://trium.ng/public/images/section-2.png"
+                width="100%"
+              />
+            </div>
+            <div
+              class=" "
+            >
+              <div
+                class="columns"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Scale
+                  </h1>
+                  <div>
+                    <a
+                      class="has-text-gold has-text-weight-bold"
+                      href="/#"
+                    >
+                      Discover More
+                    </a>
+                    <img
+                      alt=""
+                      class="arrow"
+                      height="25"
+                      src="https://trium.ng/public/images/arrow.png"
+                      width="25"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://trium.ng/public/images/section-3.png"
+                width="100%"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="features is-large"
+        id="features"
+      >
+        <div
+          class="slider is-full-width"
+        >
+          <input
+            checked=""
+            id="carousel-1"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-3"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <div
+            class="carousel-slides"
+          >
+            <div
+              class="carousel-inner"
+            >
+              <div
+                class="carousel-item"
+                style="background-image: url(https://trium.ng/public/images/sparkle.png);"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head"
+                  >
+                    Featured Ventures
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading"
+                  >
+                    Sparkle
+                  </h2>
+                  <p
+                    class="about-para feat-para"
+                  >
+                    Sparkle is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="text-black"
+                    href="/#"
+                  >
+                    More About Sparkle
+                  </a>
+                  <hr
+                    class="feat-link"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+                style="background-image: url(https://trium.ng/public/images/Light.png);"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head"
+                  >
+                    Featured Ventures
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading"
+                  >
+                    Light
+                  </h2>
+                  <p
+                    class="about-para feat-para"
+                  >
+                    Light is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="text-black"
+                    href="/#"
+                  >
+                    More About Light
+                  </a>
+                  <hr
+                    class="feat-link"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+                style="background-image: url(https://trium.ng/public/images/clane.png);"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head"
+                  >
+                    Featured Ventures
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading"
+                  >
+                    Clane
+                  </h2>
+                  <p
+                    class="about-para feat-para"
+                  >
+                    Clane is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="text-black"
+                    href="/#"
+                  >
+                    More About Clane
+                  </a>
+                  <hr
+                    class="feat-link"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-nav"
+          >
+            <label
+              for="carousel-1"
+            />
+            <label
+              for="carousel-2"
+            />
+            <label
+              for="carousel-3"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="section offers "
+        id="team"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class=" columns"
+          >
+            <div
+              class="margin-bottom-50 has-text-centered column is-6"
+            >
+              <img
+                alt=""
+                src="https://trium.ng/public/images/linkedin-sales.png"
+              />
+            </div>
+            <div
+              class="column margin-left-50"
+            >
+              <h6
+                class="title is-spaced about-head"
+              >
+                Our Team
+              </h6>
+              <h2
+                class="subtitle"
+              >
+                Exceptional Talent
+              </h2>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+              </p>
+              <div
+                class="margin-top-70"
+              >
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="/#"
+                >
+                  Join Our Team
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section  "
+      >
+        <div
+          class="container"
+        >
+          <h1
+            class="quote"
+          >
+            "We help Africa's most innovative tech startups grow quickly."
+          </h1>
+        </div>
+      </section>
+      <footer
+        class="section is-full-width is-black  "
+      >
+        <div
+          class="container is-narrow"
+        >
+          <h1
+            class="is-size-4"
+          />
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column is-3"
+            >
+              <h1
+                class="title is-size-4-touch"
+              >
+                Theo Okafor
+              </h1>
+            </div>
+            <div
+              class="column is-8 social-icons"
+            >
+              <p
+                class="footer-SM"
+              >
+                <a
+                  class="footer-link is-medium"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    twitter
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    github
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    linkedin
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    facebook
+                     
+                  </span>
+                </a>
+              </p>
+            </div>
+          </div>
+          <div
+            class="copyright  has-text-centered"
+          >
+            Design with love by 
+            <a
+              href="https://worksfair.com/"
+            >
+              Worksfair
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+          <div
+            class="made-by-bulma has-text-centered"
+          >
+            <a
+              href="https://bulma.io"
+            >
+              <img
+                alt="Made with Bulma"
+                height="31"
+                src="https://bulma.io/images/made-with-bulma--white.png"
+                width="163"
+              />
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>,
+  "container": <div>
+    <header
+      class="navbar is-transparent container"
+    >
+      <div
+        class="hide"
+      >
+        <button
+          aria-label="toggle navigation"
+          class="nav-toggle has-text-pink"
+        >
+          <span
+            class="hamburger"
+          />
+        </button>
+        <nav
+          class="navv"
+        >
+          <ul
+            class="nav__list"
+          >
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="/diamond"
+              >
+                Home.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#offers"
+              >
+                My Services.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#about"
+              >
+                About Us.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#features"
+              >
+                Featured Ventures.
+              </a>
+            </li>
+            <li
+              class="nav__item"
+            >
+              <a
+                class="nav__link"
+                href="#team"
+              >
+                Team.
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <div
+        class="navbar-brand"
+      >
+        <a
+          class="navbar-item"
+          href="/"
+        >
+          <h2
+            class="webpage-title is-size-4 has-text-black"
+          >
+            <strong>
+              Theo Okafor
+            </strong>
+          </h2>
+        </a>
+      </div>
+    </header>
+    <section
+      class="hero is-transparent is-large"
+    >
+      <hr
+        class="nav-hr"
+      />
+      <div
+        class="columns"
+      >
+        <div
+          class="column is-6.5 banner-text"
+        >
+          <h1
+            class="banner-heading"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
+    porro dicta velit eaque asperiores
+          </h1>
+          <h2
+            class="banner-sub-heading"
+          >
+             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni.
+          </h2>
+          <div>
+            <a
+              class="has-text-gold has-text-weight-bold"
+              href="/#"
+            >
+              Discover Diamond
+            </a>
+            <hr
+              class="hr-link"
+            />
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <img
+            alt="Banner"
+            class="banner-img"
+            height="800"
+            src="https://trium.ng/public/images/bg-img-1.png"
+            width="100%"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="container is-transparent is-large section-about"
+      id="about"
+    >
+      <div
+        class="columns about-us"
+      >
+        <div
+          class="column is-7 "
+        >
+          <h6
+            class="about-heading"
+          >
+            About Us
+          </h6>
+          <p
+            class="about-paragraph"
+          >
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+          </p>
+        </div>
+        <div
+          class="column"
+        >
+          <h2
+            class="about-head"
+          >
+            Get to know some things about us
+          </h2>
+          <p
+            class="about-para"
+          >
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+          </p>
+          <div>
+            <a
+              class="has-text-gold has-text-weight-bold"
+              href="/#"
+            >
+              More About Diamond
+            </a>
+            <hr
+              class="hr-link"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section offers"
+      id="offers"
+    >
+      <div
+        class="container "
+      >
+        <h6
+          class="about-head"
+        >
+          What We Do
+        </h6>
+        <hr
+          class="offers-hr"
+        />
+        <div
+          class=""
+        >
+          <div
+            class=" "
+          >
+            <div
+              class="columns"
+            >
+              <div
+                class="column is-4 title-area"
+              >
+                <h1
+                  class="title-heading"
+                >
+                  Build
+                </h1>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Discover More
+                  </a>
+                  <img
+                    alt=""
+                    class="arrow"
+                    height="25"
+                    src="https://trium.ng/public/images/arrow.png"
+                    width="25"
+                  />
+                </div>
+              </div>
+              <div
+                class="column is-8 desc-area"
+              >
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                </p>
+              </div>
+            </div>
+            <img
+              alt="service"
+              class="service-img"
+              src="https://trium.ng/public/images/brooke-cagle.png"
+              width="100%"
+            />
+          </div>
+          <div
+            class=" "
+          >
+            <div
+              class="columns"
+            >
+              <div
+                class="column is-4 title-area"
+              >
+                <h1
+                  class="title-heading"
+                >
+                  Launch
+                </h1>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Discover More
+                  </a>
+                  <img
+                    alt=""
+                    class="arrow"
+                    height="25"
+                    src="https://trium.ng/public/images/arrow.png"
+                    width="25"
+                  />
+                </div>
+              </div>
+              <div
+                class="column is-8 desc-area"
+              >
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                </p>
+              </div>
+            </div>
+            <img
+              alt="service"
+              class="service-img"
+              src="https://trium.ng/public/images/section-2.png"
+              width="100%"
+            />
+          </div>
+          <div
+            class=" "
+          >
+            <div
+              class="columns"
+            >
+              <div
+                class="column is-4 title-area"
+              >
+                <h1
+                  class="title-heading"
+                >
+                  Scale
+                </h1>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Discover More
+                  </a>
+                  <img
+                    alt=""
+                    class="arrow"
+                    height="25"
+                    src="https://trium.ng/public/images/arrow.png"
+                    width="25"
+                  />
+                </div>
+              </div>
+              <div
+                class="column is-8 desc-area"
+              >
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.
+                </p>
+              </div>
+            </div>
+            <img
+              alt="service"
+              class="service-img"
+              src="https://trium.ng/public/images/section-3.png"
+              width="100%"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="features is-large"
+      id="features"
+    >
+      <div
+        class="slider is-full-width"
+      >
+        <input
+          checked=""
+          id="carousel-1"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-3"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <div
+          class="carousel-slides"
+        >
+          <div
+            class="carousel-inner"
+          >
+            <div
+              class="carousel-item"
+              style="background-image: url(https://trium.ng/public/images/sparkle.png);"
+            >
+              <div
+                class="container feat features-head"
+              >
+                <h6
+                  class="about-head"
+                >
+                  Featured Ventures
+                </h6>
+                <hr
+                  class="offers-hr"
+                />
+              </div>
+              <div
+                class="container feat feat-main"
+              >
+                <h2
+                  class="title-heading"
+                >
+                  Sparkle
+                </h2>
+                <p
+                  class="about-para feat-para"
+                >
+                  Sparkle is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                </p>
+              </div>
+              <div
+                class="container feat feat-bottom"
+              >
+                <a
+                  class="text-black"
+                  href="/#"
+                >
+                  More About Sparkle
+                </a>
+                <hr
+                  class="feat-link"
+                />
+              </div>
+            </div>
+            <div
+              class="carousel-item"
+              style="background-image: url(https://trium.ng/public/images/Light.png);"
+            >
+              <div
+                class="container feat features-head"
+              >
+                <h6
+                  class="about-head"
+                >
+                  Featured Ventures
+                </h6>
+                <hr
+                  class="offers-hr"
+                />
+              </div>
+              <div
+                class="container feat feat-main"
+              >
+                <h2
+                  class="title-heading"
+                >
+                  Light
+                </h2>
+                <p
+                  class="about-para feat-para"
+                >
+                  Light is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                </p>
+              </div>
+              <div
+                class="container feat feat-bottom"
+              >
+                <a
+                  class="text-black"
+                  href="/#"
+                >
+                  More About Light
+                </a>
+                <hr
+                  class="feat-link"
+                />
+              </div>
+            </div>
+            <div
+              class="carousel-item"
+              style="background-image: url(https://trium.ng/public/images/clane.png);"
+            >
+              <div
+                class="container feat features-head"
+              >
+                <h6
+                  class="about-head"
+                >
+                  Featured Ventures
+                </h6>
+                <hr
+                  class="offers-hr"
+                />
+              </div>
+              <div
+                class="container feat feat-main"
+              >
+                <h2
+                  class="title-heading"
+                >
+                  Clane
+                </h2>
+                <p
+                  class="about-para feat-para"
+                >
+                  Clane is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.
+                </p>
+              </div>
+              <div
+                class="container feat feat-bottom"
+              >
+                <a
+                  class="text-black"
+                  href="/#"
+                >
+                  More About Clane
+                </a>
+                <hr
+                  class="feat-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="carousel-nav"
+        >
+          <label
+            for="carousel-1"
+          />
+          <label
+            for="carousel-2"
+          />
+          <label
+            for="carousel-3"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="section offers "
+      id="team"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class=" columns"
+        >
+          <div
+            class="margin-bottom-50 has-text-centered column is-6"
+          >
+            <img
+              alt=""
+              src="https://trium.ng/public/images/linkedin-sales.png"
+            />
+          </div>
+          <div
+            class="column margin-left-50"
+          >
+            <h6
+              class="title is-spaced about-head"
+            >
+              Our Team
+            </h6>
+            <h2
+              class="subtitle"
+            >
+              Exceptional Talent
+            </h2>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+            </p>
+            <div
+              class="margin-top-70"
+            >
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="/#"
+              >
+                Join Our Team
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section  "
+    >
+      <div
+        class="container"
+      >
+        <h1
+          class="quote"
+        >
+          "We help Africa's most innovative tech startups grow quickly."
+        </h1>
+      </div>
+    </section>
+    <footer
+      class="section is-full-width is-black  "
+    >
+      <div
+        class="container is-narrow"
+      >
+        <h1
+          class="is-size-4"
+        />
+        <div
+          class="columns is-centered"
+        >
+          <div
+            class="column is-3"
+          >
+            <h1
+              class="title is-size-4-touch"
+            >
+              Theo Okafor
+            </h1>
+          </div>
+          <div
+            class="column is-8 social-icons"
+          >
+            <p
+              class="footer-SM"
+            >
+              <a
+                class="footer-link is-medium"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  twitter
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  github
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  linkedin
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  facebook
+                   
+                </span>
+              </a>
+            </p>
+          </div>
+        </div>
+        <div
+          class="copyright  has-text-centered"
+        >
+          Design with love by 
+          <a
+            href="https://worksfair.com/"
+          >
+            Worksfair
+          </a>
+           
+          <span
+            class="icon has-white-text"
+          >
+            <i
+              class="fa fa-copyright"
+            />
+          </span>
+          2020
+        </div>
+        <div
+          class="made-by-bulma has-text-centered"
+        >
+          <a
+            href="https://bulma.io"
+          >
+            <img
+              alt="Made with Bulma"
+              height="31"
+              src="https://bulma.io/images/made-with-bulma--white.png"
+              width="163"
+            />
+          </a>
+        </div>
+      </div>
+    </footer>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
