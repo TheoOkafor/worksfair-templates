@@ -21,7 +21,7 @@
     "start": "react-scripts start",
     "dev": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test jest",
+    "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "test:coveralls": "jest --coverage && coveralls < coverage/lcov.info | coveralls",
