@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [![Build Status](https://travis-ci.com/TheoOkafor/worksfair-templates.svg?branch=develop)](https://travis-ci.com/TheoOkafor/worksfair-templates)
+[![Coverage Status](https://coveralls.io/repos/github/TheoOkafor/worksfair-templates/badge.svg?branch=develop)](https://coveralls.io/github/TheoOkafor/worksfair-templates?branch=develop)
 
 ## Available Scripts
 
