@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Build Status](https://travis-ci.com/TheoOkafor/worksfair-templates.svg?branch=develop)](https://travis-ci.com/TheoOkafor/worksfair-templates)
 [![Coverage Status](https://coveralls.io/repos/github/TheoOkafor/worksfair-templates/badge.svg?branch=develop)](https://coveralls.io/github/TheoOkafor/worksfair-templates?branch=develop)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d9380d6-4211-4310-bf7d-6ca44ba6445e/deploy-status)](https://app.netlify.com/sites/worksfair-templates/deploys)
 
 ## Available Scripts
 
