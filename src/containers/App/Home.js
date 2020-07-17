@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { templates } from '../../utils/templates';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
   return (
@@ -24,9 +25,9 @@ const Home = () => {
               </div>
               <div id="navbarMenuHeroA" className="navbar-menu">
                 <div className="navbar-end">
-                  <a href="/" className="navbar-item is-active">
+                  <Link to="/" className="navbar-item is-active">
                     Home
-                  </a>
+                  </Link>
                   <span className="navbar-item">
                     <a
                       href="https://github.com/TheoOkafor/worksfair-templates"
@@ -65,7 +66,7 @@ const Home = () => {
               <ul>
                 {templates.map((template) => (
                   <li key={template.name} className="mt-4">
-                    <a href={`/${template.name}`}>{template.title}</a>
+                    <Link to={`/${template.name}`}>{template.title}</Link>
                     <br />
                     <span className="has-text-grey">
                       Contributor -{' '}
