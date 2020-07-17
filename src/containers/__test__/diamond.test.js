@@ -36,7 +36,9 @@ const arrangement = [
 
 describe('Diamond.js', () => {
   test('test that it renders correctly with the given data', () => {
-    const component = render(<Diamond website={website} />);
+    const component = render(
+      <Diamond website={website} />
+    );
     expect(component).toMatchSnapshot();
   });
 

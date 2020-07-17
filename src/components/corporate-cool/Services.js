@@ -1,7 +1,5 @@
 import React from 'react';
 
-import { getOffset } from '../../utils';
-
 const Services = (props) => {
   const { metadata, services } = props.website;
   return (
@@ -15,13 +13,10 @@ const Services = (props) => {
           </h1>
           <h2 className="subtitle">{services.subtitle}</h2>
         </div>
-        <div className="columns">
+        <div className="columns is-centered">
           {services.data.map((item, index) => (
             <div
-              className={`column is-one-third-desktop ${getOffset(
-                services.data.length,
-                index
-              )}`}
+              className={`column is-one-third-desktop`}
               key={item.title + index}
             >
               <div

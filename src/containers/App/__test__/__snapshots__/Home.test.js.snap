@@ -1,0 +1,490 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home.js test that it renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <section
+          class="hero is-blue is-medium"
+        >
+          <div
+            class="hero-head"
+          >
+            <nav
+              class="navbar"
+            >
+              <div
+                class="container"
+              >
+                <div
+                  class="navbar-brand"
+                >
+                  <h1
+                    class="subtitle mt-4"
+                  >
+                    <b>
+                      Worksfair Templates
+                    </b>
+                  </h1>
+                  <span
+                    class="navbar-burger burger"
+                    data-target="navbarMenuHeroA"
+                  >
+                    <span />
+                    <span />
+                    <span />
+                  </span>
+                </div>
+                <div
+                  class="navbar-menu"
+                  id="navbarMenuHeroA"
+                >
+                  <div
+                    class="navbar-end"
+                  >
+                    <a
+                      class="navbar-item is-active"
+                      href="/"
+                    >
+                      Home
+                    </a>
+                    <span
+                      class="navbar-item"
+                    >
+                      <a
+                        class="button is-blue is-inverted"
+                        href="https://github.com/TheoOkafor/worksfair-templates"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                      >
+                        <span
+                          class="icon"
+                        >
+                          <i
+                            class="fa fa-github"
+                          />
+                        </span>
+                        <span>
+                          Github
+                        </span>
+                      </a>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div
+            class="hero-body"
+          >
+            <div
+              class="container has-text-centered"
+            >
+              <h1
+                class="title"
+              >
+                Welcome to Worksfair templates
+              </h1>
+              <h2
+                class="subtitle"
+              >
+                This is a collection of ReactJS-based open-source templates. built with Bulma CSS Library
+              </h2>
+            </div>
+          </div>
+          <div
+            class="hero-foot"
+          />
+        </section>
+        <footer
+          class="footer is-large is-light"
+        >
+          <div
+            class="columns mb-5"
+            style="justify-content: center;"
+          >
+            <div
+              class="column is-4"
+            >
+              <h3
+                class="subtitle has-text-centered"
+              >
+                Available Templates
+              </h3>
+              <div
+                class="content box"
+              >
+                <ul>
+                  <li
+                    class="mt-4"
+                  >
+                    <a
+                      href="/personal-perfect"
+                    >
+                      Personal Perfect Template
+                    </a>
+                    <br />
+                    <span
+                      class="has-text-grey"
+                    >
+                      Contributor -
+                       
+                      <a
+                        class="has-text-grey"
+                        href="https://github.com/TheoOkafor"
+                      >
+                        <span
+                          class="has-text-grey-dark"
+                        >
+                          Theo Okafor
+                        </span>
+                      </a>
+                    </span>
+                  </li>
+                  <li
+                    class="mt-4"
+                  >
+                    <a
+                      href="/corporate-cool"
+                    >
+                      Corporate Cool Template
+                    </a>
+                    <br />
+                    <span
+                      class="has-text-grey"
+                    >
+                      Contributor -
+                       
+                      <a
+                        class="has-text-grey"
+                        href="https://github.com/TheoOkafor"
+                      >
+                        <span
+                          class="has-text-grey-dark"
+                        >
+                          Theo Okafor
+                        </span>
+                      </a>
+                    </span>
+                  </li>
+                  <li
+                    class="mt-4"
+                  >
+                    <a
+                      href="/diamond"
+                    >
+                      Diamond Template
+                    </a>
+                    <br />
+                    <span
+                      class="has-text-grey"
+                    >
+                      Contributor -
+                       
+                      <a
+                        class="has-text-grey"
+                        href="https://github.com/brendagold"
+                      >
+                        <span
+                          class="has-text-grey-dark"
+                        >
+                          Brenda Chukwuma
+                        </span>
+                      </a>
+                    </span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div
+            class="has-text-centered"
+          >
+            <div
+              class="copyright"
+            >
+              Worksfair Templates
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <section
+        class="hero is-blue is-medium"
+      >
+        <div
+          class="hero-head"
+        >
+          <nav
+            class="navbar"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="navbar-brand"
+              >
+                <h1
+                  class="subtitle mt-4"
+                >
+                  <b>
+                    Worksfair Templates
+                  </b>
+                </h1>
+                <span
+                  class="navbar-burger burger"
+                  data-target="navbarMenuHeroA"
+                >
+                  <span />
+                  <span />
+                  <span />
+                </span>
+              </div>
+              <div
+                class="navbar-menu"
+                id="navbarMenuHeroA"
+              >
+                <div
+                  class="navbar-end"
+                >
+                  <a
+                    class="navbar-item is-active"
+                    href="/"
+                  >
+                    Home
+                  </a>
+                  <span
+                    class="navbar-item"
+                  >
+                    <a
+                      class="button is-blue is-inverted"
+                      href="https://github.com/TheoOkafor/worksfair-templates"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      <span
+                        class="icon"
+                      >
+                        <i
+                          class="fa fa-github"
+                        />
+                      </span>
+                      <span>
+                        Github
+                      </span>
+                    </a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+        <div
+          class="hero-body"
+        >
+          <div
+            class="container has-text-centered"
+          >
+            <h1
+              class="title"
+            >
+              Welcome to Worksfair templates
+            </h1>
+            <h2
+              class="subtitle"
+            >
+              This is a collection of ReactJS-based open-source templates. built with Bulma CSS Library
+            </h2>
+          </div>
+        </div>
+        <div
+          class="hero-foot"
+        />
+      </section>
+      <footer
+        class="footer is-large is-light"
+      >
+        <div
+          class="columns mb-5"
+          style="justify-content: center;"
+        >
+          <div
+            class="column is-4"
+          >
+            <h3
+              class="subtitle has-text-centered"
+            >
+              Available Templates
+            </h3>
+            <div
+              class="content box"
+            >
+              <ul>
+                <li
+                  class="mt-4"
+                >
+                  <a
+                    href="/personal-perfect"
+                  >
+                    Personal Perfect Template
+                  </a>
+                  <br />
+                  <span
+                    class="has-text-grey"
+                  >
+                    Contributor -
+                     
+                    <a
+                      class="has-text-grey"
+                      href="https://github.com/TheoOkafor"
+                    >
+                      <span
+                        class="has-text-grey-dark"
+                      >
+                        Theo Okafor
+                      </span>
+                    </a>
+                  </span>
+                </li>
+                <li
+                  class="mt-4"
+                >
+                  <a
+                    href="/corporate-cool"
+                  >
+                    Corporate Cool Template
+                  </a>
+                  <br />
+                  <span
+                    class="has-text-grey"
+                  >
+                    Contributor -
+                     
+                    <a
+                      class="has-text-grey"
+                      href="https://github.com/TheoOkafor"
+                    >
+                      <span
+                        class="has-text-grey-dark"
+                      >
+                        Theo Okafor
+                      </span>
+                    </a>
+                  </span>
+                </li>
+                <li
+                  class="mt-4"
+                >
+                  <a
+                    href="/diamond"
+                  >
+                    Diamond Template
+                  </a>
+                  <br />
+                  <span
+                    class="has-text-grey"
+                  >
+                    Contributor -
+                     
+                    <a
+                      class="has-text-grey"
+                      href="https://github.com/brendagold"
+                    >
+                      <span
+                        class="has-text-grey-dark"
+                      >
+                        Brenda Chukwuma
+                      </span>
+                    </a>
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div
+          class="has-text-centered"
+        >
+          <div
+            class="copyright"
+          >
+            Worksfair Templates
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

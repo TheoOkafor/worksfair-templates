@@ -22,7 +22,7 @@ Object {
                 href="/"
               >
                 <h2
-                  class="webpage-title is-size-4 has-text-pink"
+                  class="webpage-title is-size-4 has-text-gold"
                 >
                   <strong>
                     Theo Okafor
@@ -62,7 +62,7 @@ Object {
                   class="navbar-item"
                 >
                   <a
-                    class="button is-pink is-outlined is-rounded"
+                    class="button is-gold is-outlined is-rounded"
                     href="#works"
                   >
                     Checkout my works
@@ -122,7 +122,7 @@ Object {
           <section
             class="section 
       is-small
-      is-pink
+      is-gold
       has-text-centered is-long"
           >
             <div
@@ -182,7 +182,7 @@ Object {
                         I value simple designs and structure. I design for the future.
                       </p>
                       <p
-                        class="list-title has-text-pink has-text-weight-normal"
+                        class="list-title has-text-gold has-text-weight-normal"
                       >
                         Things I enjoy designing
                         :
@@ -191,7 +191,7 @@ Object {
                         UX, UI, Web, Mobile, Apps, Logos
                       </p>
                       <p
-                        class="list-title has-text-pink has-text-weight-normal"
+                        class="list-title has-text-gold has-text-weight-normal"
                       >
                         Design Tools:
                       </p>
@@ -211,7 +211,7 @@ Object {
                         I build web applications using easy-to-figure design patterns.
                       </p>
                       <p
-                        class="list-title has-text-pink has-text-weight-normal"
+                        class="list-title has-text-gold has-text-weight-normal"
                       >
                         Languages I speak
                         :
@@ -220,7 +220,7 @@ Object {
                         HTML, CSS, Sass, JavaScript
                       </p>
                       <p
-                        class="list-title has-text-pink has-text-weight-normal"
+                        class="list-title has-text-gold has-text-weight-normal"
                       >
                         Dev Tools:
                       </p>
@@ -240,7 +240,7 @@ Object {
                         I have an extensive fullstack experience and skills.
                       </p>
                       <p
-                        class="list-title has-text-pink has-text-weight-normal"
+                        class="list-title has-text-gold has-text-weight-normal"
                       >
                         Languages I speak (plus frontend skills)
                         :
@@ -249,7 +249,7 @@ Object {
                         NodeJS, Python, Java
                       </p>
                       <p
-                        class="list-title has-text-pink has-text-weight-normal"
+                        class="list-title has-text-gold has-text-weight-normal"
                       >
                         Dev Tools: 
                       </p>
@@ -307,7 +307,7 @@ Object {
                           A platform that enables collaboration amongst businesses and works
                         </h1>
                         <a
-                          class="button is-pink-invert is-outlined is-rounded cto"
+                          class="button is-gold-invert is-outlined is-rounded cto"
                           href="http://www.worksfair.com/works/undefined"
                           rel="noopener noreferrer"
                           style="margin: 0px auto;"
@@ -326,7 +326,7 @@ Object {
                         </a>
                       </figcaption>
                       <div
-                        class="overlay has-background-pink"
+                        class="overlay has-background-gold"
                       />
                     </figure>
                   </div>
@@ -351,7 +351,7 @@ Object {
                           A platform for growing businesses and skilled professionals.
                         </h1>
                         <a
-                          class="button is-pink-invert is-outlined is-rounded cto"
+                          class="button is-gold-invert is-outlined is-rounded cto"
                           href="http://www.worksfair.com/works/undefined"
                           rel="noopener noreferrer"
                           style="margin: 0px auto;"
@@ -370,7 +370,7 @@ Object {
                         </a>
                       </figcaption>
                       <div
-                        class="overlay has-background-pink"
+                        class="overlay has-background-gold"
                       />
                     </figure>
                   </div>
@@ -395,7 +395,7 @@ Object {
                           A platform for searching for works that interests you
                         </h1>
                         <a
-                          class="button is-pink-invert is-outlined is-rounded cto"
+                          class="button is-gold-invert is-outlined is-rounded cto"
                           href="http://www.worksfair.com/works/undefined"
                           rel="noopener noreferrer"
                           style="margin: 0px auto;"
@@ -414,7 +414,7 @@ Object {
                         </a>
                       </figcaption>
                       <div
-                        class="overlay has-background-pink"
+                        class="overlay has-background-gold"
                       />
                     </figure>
                   </div>
@@ -427,7 +427,7 @@ Object {
                   class="column"
                 >
                   <a
-                    class="button is-pink is-outlined is-rounded is-medium"
+                    class="button is-gold is-outlined is-rounded is-medium"
                     href="https://github.com/TheoOkafor"
                   >
                     <span>
@@ -640,11 +640,11 @@ Object {
                       class="carousel-nav"
                     >
                       <label
-                        class="has-background-pink"
+                        class="has-background-gold"
                         for="carousel-1"
                       />
                       <label
-                        class="has-background-pink"
+                        class="has-background-gold"
                         for="carousel-2"
                       />
                     </div>
@@ -656,7 +656,7 @@ Object {
         </div>
         <div>
           <section
-            class="section call-to-action is-pink has-text-centered"
+            class="section call-to-action is-gold has-text-centered"
           >
             <div
               class="container is-narrow"
@@ -687,7 +687,7 @@ Object {
                     class="column level-item"
                   >
                     <a
-                      class="button is-pink is-outlined is-rounded is-medium"
+                      class="button is-gold is-outlined is-rounded is-medium"
                       href="mailto:?subject=Website: Collaboration Request"
                       target="_top"
                     >
@@ -700,7 +700,7 @@ Object {
           </section>
         </div>
         <footer
-          class="section is-pink is-small has-text-centered"
+          class="section is-gold is-small has-text-centered"
         >
           <div
             class="container is-narrow"
@@ -820,7 +820,7 @@ Object {
               href="/"
             >
               <h2
-                class="webpage-title is-size-4 has-text-pink"
+                class="webpage-title is-size-4 has-text-gold"
               >
                 <strong>
                   Theo Okafor
@@ -860,7 +860,7 @@ Object {
                 class="navbar-item"
               >
                 <a
-                  class="button is-pink is-outlined is-rounded"
+                  class="button is-gold is-outlined is-rounded"
                   href="#works"
                 >
                   Checkout my works
@@ -920,7 +920,7 @@ Object {
         <section
           class="section 
       is-small
-      is-pink
+      is-gold
       has-text-centered is-long"
         >
           <div
@@ -980,7 +980,7 @@ Object {
                       I value simple designs and structure. I design for the future.
                     </p>
                     <p
-                      class="list-title has-text-pink has-text-weight-normal"
+                      class="list-title has-text-gold has-text-weight-normal"
                     >
                       Things I enjoy designing
                       :
@@ -989,7 +989,7 @@ Object {
                       UX, UI, Web, Mobile, Apps, Logos
                     </p>
                     <p
-                      class="list-title has-text-pink has-text-weight-normal"
+                      class="list-title has-text-gold has-text-weight-normal"
                     >
                       Design Tools:
                     </p>
@@ -1009,7 +1009,7 @@ Object {
                       I build web applications using easy-to-figure design patterns.
                     </p>
                     <p
-                      class="list-title has-text-pink has-text-weight-normal"
+                      class="list-title has-text-gold has-text-weight-normal"
                     >
                       Languages I speak
                       :
@@ -1018,7 +1018,7 @@ Object {
                       HTML, CSS, Sass, JavaScript
                     </p>
                     <p
-                      class="list-title has-text-pink has-text-weight-normal"
+                      class="list-title has-text-gold has-text-weight-normal"
                     >
                       Dev Tools:
                     </p>
@@ -1038,7 +1038,7 @@ Object {
                       I have an extensive fullstack experience and skills.
                     </p>
                     <p
-                      class="list-title has-text-pink has-text-weight-normal"
+                      class="list-title has-text-gold has-text-weight-normal"
                     >
                       Languages I speak (plus frontend skills)
                       :
@@ -1047,7 +1047,7 @@ Object {
                       NodeJS, Python, Java
                     </p>
                     <p
-                      class="list-title has-text-pink has-text-weight-normal"
+                      class="list-title has-text-gold has-text-weight-normal"
                     >
                       Dev Tools: 
                     </p>
@@ -1105,7 +1105,7 @@ Object {
                         A platform that enables collaboration amongst businesses and works
                       </h1>
                       <a
-                        class="button is-pink-invert is-outlined is-rounded cto"
+                        class="button is-gold-invert is-outlined is-rounded cto"
                         href="http://www.worksfair.com/works/undefined"
                         rel="noopener noreferrer"
                         style="margin: 0px auto;"
@@ -1124,7 +1124,7 @@ Object {
                       </a>
                     </figcaption>
                     <div
-                      class="overlay has-background-pink"
+                      class="overlay has-background-gold"
                     />
                   </figure>
                 </div>
@@ -1149,7 +1149,7 @@ Object {
                         A platform for growing businesses and skilled professionals.
                       </h1>
                       <a
-                        class="button is-pink-invert is-outlined is-rounded cto"
+                        class="button is-gold-invert is-outlined is-rounded cto"
                         href="http://www.worksfair.com/works/undefined"
                         rel="noopener noreferrer"
                         style="margin: 0px auto;"
@@ -1168,7 +1168,7 @@ Object {
                       </a>
                     </figcaption>
                     <div
-                      class="overlay has-background-pink"
+                      class="overlay has-background-gold"
                     />
                   </figure>
                 </div>
@@ -1193,7 +1193,7 @@ Object {
                         A platform for searching for works that interests you
                       </h1>
                       <a
-                        class="button is-pink-invert is-outlined is-rounded cto"
+                        class="button is-gold-invert is-outlined is-rounded cto"
                         href="http://www.worksfair.com/works/undefined"
                         rel="noopener noreferrer"
                         style="margin: 0px auto;"
@@ -1212,7 +1212,7 @@ Object {
                       </a>
                     </figcaption>
                     <div
-                      class="overlay has-background-pink"
+                      class="overlay has-background-gold"
                     />
                   </figure>
                 </div>
@@ -1225,7 +1225,7 @@ Object {
                 class="column"
               >
                 <a
-                  class="button is-pink is-outlined is-rounded is-medium"
+                  class="button is-gold is-outlined is-rounded is-medium"
                   href="https://github.com/TheoOkafor"
                 >
                   <span>
@@ -1438,11 +1438,11 @@ Object {
                     class="carousel-nav"
                   >
                     <label
-                      class="has-background-pink"
+                      class="has-background-gold"
                       for="carousel-1"
                     />
                     <label
-                      class="has-background-pink"
+                      class="has-background-gold"
                       for="carousel-2"
                     />
                   </div>
@@ -1454,7 +1454,7 @@ Object {
       </div>
       <div>
         <section
-          class="section call-to-action is-pink has-text-centered"
+          class="section call-to-action is-gold has-text-centered"
         >
           <div
             class="container is-narrow"
@@ -1485,7 +1485,7 @@ Object {
                   class="column level-item"
                 >
                   <a
-                    class="button is-pink is-outlined is-rounded is-medium"
+                    class="button is-gold is-outlined is-rounded is-medium"
                     href="mailto:?subject=Website: Collaboration Request"
                     target="_top"
                   >
@@ -1498,7 +1498,7 @@ Object {
         </section>
       </div>
       <footer
-        class="section is-pink is-small has-text-centered"
+        class="section is-gold is-small has-text-centered"
       >
         <div
           class="container is-narrow"
@@ -1675,7 +1675,7 @@ Object {
                 href="/"
               >
                 <h2
-                  class="webpage-title is-size-4 has-text-pink"
+                  class="webpage-title is-size-4 has-text-gold"
                 >
                   <strong>
                     Theo Okafor
@@ -1715,7 +1715,7 @@ Object {
                   class="navbar-item"
                 >
                   <a
-                    class="button is-pink is-outlined is-rounded"
+                    class="button is-gold is-outlined is-rounded"
                     href="#works"
                   >
                     Checkout my works
@@ -1775,7 +1775,7 @@ Object {
           <section
             class="section 
       is-small
-      is-pink
+      is-gold
       has-text-centered is-long"
           >
             <div
@@ -1851,7 +1851,7 @@ Object {
                           A platform that enables collaboration amongst businesses and works
                         </h1>
                         <a
-                          class="button is-pink-invert is-outlined is-rounded cto"
+                          class="button is-gold-invert is-outlined is-rounded cto"
                           href="http://www.worksfair.com/works/undefined"
                           rel="noopener noreferrer"
                           style="margin: 0px auto;"
@@ -1870,7 +1870,7 @@ Object {
                         </a>
                       </figcaption>
                       <div
-                        class="overlay has-background-pink"
+                        class="overlay has-background-gold"
                       />
                     </figure>
                   </div>
@@ -1895,7 +1895,7 @@ Object {
                           A platform for growing businesses and skilled professionals.
                         </h1>
                         <a
-                          class="button is-pink-invert is-outlined is-rounded cto"
+                          class="button is-gold-invert is-outlined is-rounded cto"
                           href="http://www.worksfair.com/works/undefined"
                           rel="noopener noreferrer"
                           style="margin: 0px auto;"
@@ -1914,7 +1914,7 @@ Object {
                         </a>
                       </figcaption>
                       <div
-                        class="overlay has-background-pink"
+                        class="overlay has-background-gold"
                       />
                     </figure>
                   </div>
@@ -1939,7 +1939,7 @@ Object {
                           A platform for searching for works that interests you
                         </h1>
                         <a
-                          class="button is-pink-invert is-outlined is-rounded cto"
+                          class="button is-gold-invert is-outlined is-rounded cto"
                           href="http://www.worksfair.com/works/undefined"
                           rel="noopener noreferrer"
                           style="margin: 0px auto;"
@@ -1958,7 +1958,7 @@ Object {
                         </a>
                       </figcaption>
                       <div
-                        class="overlay has-background-pink"
+                        class="overlay has-background-gold"
                       />
                     </figure>
                   </div>
@@ -1971,7 +1971,7 @@ Object {
                   class="column"
                 >
                   <a
-                    class="button is-pink is-outlined is-rounded is-medium"
+                    class="button is-gold is-outlined is-rounded is-medium"
                     href="https://github.com/TheoOkafor"
                   >
                     <span>
@@ -2106,11 +2106,11 @@ Object {
                       class="carousel-nav"
                     >
                       <label
-                        class="has-background-pink"
+                        class="has-background-gold"
                         for="carousel-1"
                       />
                       <label
-                        class="has-background-pink"
+                        class="has-background-gold"
                         for="carousel-2"
                       />
                     </div>
@@ -2122,7 +2122,7 @@ Object {
         </div>
         <div>
           <section
-            class="section call-to-action is-pink has-text-centered"
+            class="section call-to-action is-gold has-text-centered"
           >
             <div
               class="container is-narrow"
@@ -2153,7 +2153,7 @@ Object {
                     class="column level-item"
                   >
                     <a
-                      class="button is-pink is-outlined is-rounded is-medium"
+                      class="button is-gold is-outlined is-rounded is-medium"
                       href="mailto:?subject=Website: Collaboration Request"
                       target="_top"
                     >
@@ -2166,7 +2166,7 @@ Object {
           </section>
         </div>
         <footer
-          class="section is-pink is-small has-text-centered"
+          class="section is-gold is-small has-text-centered"
         >
           <div
             class="container is-narrow"
@@ -2286,7 +2286,7 @@ Object {
               href="/"
             >
               <h2
-                class="webpage-title is-size-4 has-text-pink"
+                class="webpage-title is-size-4 has-text-gold"
               >
                 <strong>
                   Theo Okafor
@@ -2326,7 +2326,7 @@ Object {
                 class="navbar-item"
               >
                 <a
-                  class="button is-pink is-outlined is-rounded"
+                  class="button is-gold is-outlined is-rounded"
                   href="#works"
                 >
                   Checkout my works
@@ -2386,7 +2386,7 @@ Object {
         <section
           class="section 
       is-small
-      is-pink
+      is-gold
       has-text-centered is-long"
         >
           <div
@@ -2462,7 +2462,7 @@ Object {
                         A platform that enables collaboration amongst businesses and works
                       </h1>
                       <a
-                        class="button is-pink-invert is-outlined is-rounded cto"
+                        class="button is-gold-invert is-outlined is-rounded cto"
                         href="http://www.worksfair.com/works/undefined"
                         rel="noopener noreferrer"
                         style="margin: 0px auto;"
@@ -2481,7 +2481,7 @@ Object {
                       </a>
                     </figcaption>
                     <div
-                      class="overlay has-background-pink"
+                      class="overlay has-background-gold"
                     />
                   </figure>
                 </div>
@@ -2506,7 +2506,7 @@ Object {
                         A platform for growing businesses and skilled professionals.
                       </h1>
                       <a
-                        class="button is-pink-invert is-outlined is-rounded cto"
+                        class="button is-gold-invert is-outlined is-rounded cto"
                         href="http://www.worksfair.com/works/undefined"
                         rel="noopener noreferrer"
                         style="margin: 0px auto;"
@@ -2525,7 +2525,7 @@ Object {
                       </a>
                     </figcaption>
                     <div
-                      class="overlay has-background-pink"
+                      class="overlay has-background-gold"
                     />
                   </figure>
                 </div>
@@ -2550,7 +2550,7 @@ Object {
                         A platform for searching for works that interests you
                       </h1>
                       <a
-                        class="button is-pink-invert is-outlined is-rounded cto"
+                        class="button is-gold-invert is-outlined is-rounded cto"
                         href="http://www.worksfair.com/works/undefined"
                         rel="noopener noreferrer"
                         style="margin: 0px auto;"
@@ -2569,7 +2569,7 @@ Object {
                       </a>
                     </figcaption>
                     <div
-                      class="overlay has-background-pink"
+                      class="overlay has-background-gold"
                     />
                   </figure>
                 </div>
@@ -2582,7 +2582,7 @@ Object {
                 class="column"
               >
                 <a
-                  class="button is-pink is-outlined is-rounded is-medium"
+                  class="button is-gold is-outlined is-rounded is-medium"
                   href="https://github.com/TheoOkafor"
                 >
                   <span>
@@ -2717,11 +2717,11 @@ Object {
                     class="carousel-nav"
                   >
                     <label
-                      class="has-background-pink"
+                      class="has-background-gold"
                       for="carousel-1"
                     />
                     <label
-                      class="has-background-pink"
+                      class="has-background-gold"
                       for="carousel-2"
                     />
                   </div>
@@ -2733,7 +2733,7 @@ Object {
       </div>
       <div>
         <section
-          class="section call-to-action is-pink has-text-centered"
+          class="section call-to-action is-gold has-text-centered"
         >
           <div
             class="container is-narrow"
@@ -2764,7 +2764,7 @@ Object {
                   class="column level-item"
                 >
                   <a
-                    class="button is-pink is-outlined is-rounded is-medium"
+                    class="button is-gold is-outlined is-rounded is-medium"
                     href="mailto:?subject=Website: Collaboration Request"
                     target="_top"
                   >
@@ -2777,7 +2777,7 @@ Object {
         </section>
       </div>
       <footer
-        class="section is-pink is-small has-text-centered"
+        class="section is-gold is-small has-text-centered"
       >
         <div
           class="container is-narrow"
