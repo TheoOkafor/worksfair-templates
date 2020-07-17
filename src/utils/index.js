@@ -3,7 +3,7 @@ export const website = {
     title: "Theo Okafor's Website",
     description: '',
     name: 'Theo Okafor',
-    themeColour: 'pink',
+    themeColour: 'gold',
     theme: 'personalPerfect',
     icon: '',
     tagline: 'Keep moving forward...',
@@ -385,24 +385,4 @@ export const website = {
       ],
     },
   },
-};
-
-/**
- * a helper for adjusting the horizontal offset in dynamic columns
- *
- * @param {Number} length
- * @param {Number} index
- *
- * @returns {String}
- */
-export const getOffset = (length, index) => {
-  if (index !== 0) return '';
-  switch (length) {
-    case 1:
-      return 'is-offset-4';
-    case 2:
-      return 'is-offset-2';
-    default:
-      return '';
-  }
 };

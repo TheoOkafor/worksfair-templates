@@ -3,9 +3,6 @@ import { Helmet } from 'react-helmet';
 
 import '../components/personal-perfect/personal-perfect.scss';
 
-// import 'font-awesome/scss/font-awesome.scss';
-// import '../css/font-awesome-4.7.0/scss/font-awesome.scss';
-
 import Navbar from "../components/personal-perfect/Navbar"
 import Hero from "../components/personal-perfect/Hero";
 import Introduction from "../components/personal-perfect/Introduction";

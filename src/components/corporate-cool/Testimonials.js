@@ -1,7 +1,5 @@
 import React from 'react';
 
-import { getOffset } from '../../utils';
-
 const Testimonials = (props) => {
   const { testimonials, metadata } = props.website;
 
@@ -16,11 +14,11 @@ const Testimonials = (props) => {
         <h2 className="subtitle is-size-5-desktop">
           {testimonials.subtitle}
         </h2>
-        <div className="columns has-text-centered">
+        <div className="columns has-text-centered is-centered">
           {testimonials.data.map((testimony, index) => (
           <div
             key={testimony.avatar+index}
-            className={`column is-one-third ${getOffset(testimonials.data.length, index)}`}
+            className={`column is-one-third`}
           >
             <div className="testimonial-block">
               <img alt="avatar" className="avatar" src={testimony.avatar} />

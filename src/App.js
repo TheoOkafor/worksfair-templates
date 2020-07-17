@@ -2,12 +2,14 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import "./css/index.scss";
+
+const Home = React.lazy(() => import("./containers/App/Home"));
 const PersonalPerfect = React.lazy(() =>
   import("./containers/PersonalPerfect")
-);
+  );
 const CorporateCool = React.lazy(() => import("./containers/CorporateCool"));
 const Diamond = React.lazy(() => import("./containers/Diamond"));
-const NotFound = React.lazy(() => import("./containers/NotFound"));
+const NotFound = React.lazy(() => import("./containers/App/NotFound"));
 
 function App() {
   return (
@@ -15,6 +17,9 @@ function App() {
       <div className="App">
         <React.Suspense fallback={<div>Loading...</div>}>
           <Switch>
+          <Route exact path="/">
+              <Home />
+            </Route>
             <Route exact path="/personal-perfect">
               <PersonalPerfect />
             </Route>

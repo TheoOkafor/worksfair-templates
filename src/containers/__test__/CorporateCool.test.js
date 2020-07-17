@@ -32,7 +32,7 @@ const arrangement = [
 describe('CorporateCool.js', () => {
   test('test that it renders correctly with the given data', () => {
     const component = render(
-      <CorporateCool website={website} />
+      <CorporateCool />
     );
     expect(component).toMatchSnapshot();
   });

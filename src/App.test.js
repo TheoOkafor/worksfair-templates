@@ -2,7 +2,7 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
 
-test.skip('renders learn react link', () => {
+test('renders the app', () => {
   const component = render(<App />);
-  expect(component)
+  expect(component).toMatchSnapshot();
 });

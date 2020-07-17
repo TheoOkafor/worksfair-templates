@@ -13,7 +13,7 @@ Object {
         >
           <button
             aria-label="toggle navigation"
-            class="nav-toggle has-text-pink"
+            class="nav-toggle has-text-gold"
           >
             <span
               class="hamburger"
@@ -216,13 +216,12 @@ Object {
             class="offers-hr"
           />
           <div
-            class=""
+            class="is-centered"
           >
-            <div
-              class=" "
-            >
+            <div>
               <div
                 class="columns"
+                style="justify-content: center;"
               >
                 <div
                   class="column is-4 title-area"
@@ -268,11 +267,10 @@ Object {
                 width="100%"
               />
             </div>
-            <div
-              class=" "
-            >
+            <div>
               <div
                 class="columns"
+                style="justify-content: center;"
               >
                 <div
                   class="column is-4 title-area"
@@ -318,11 +316,10 @@ Object {
                 width="100%"
               />
             </div>
-            <div
-              class=" "
-            >
+            <div>
               <div
                 class="columns"
+                style="justify-content: center;"
               >
                 <div
                   class="column is-4 title-area"
@@ -769,7 +766,7 @@ Object {
       >
         <button
           aria-label="toggle navigation"
-          class="nav-toggle has-text-pink"
+          class="nav-toggle has-text-gold"
         >
           <span
             class="hamburger"
@@ -972,13 +969,12 @@ Object {
           class="offers-hr"
         />
         <div
-          class=""
+          class="is-centered"
         >
-          <div
-            class=" "
-          >
+          <div>
             <div
               class="columns"
+              style="justify-content: center;"
             >
               <div
                 class="column is-4 title-area"
@@ -1024,11 +1020,10 @@ Object {
               width="100%"
             />
           </div>
-          <div
-            class=" "
-          >
+          <div>
             <div
               class="columns"
+              style="justify-content: center;"
             >
               <div
                 class="column is-4 title-area"
@@ -1074,11 +1069,10 @@ Object {
               width="100%"
             />
           </div>
-          <div
-            class=" "
-          >
+          <div>
             <div
               class="columns"
+              style="justify-content: center;"
             >
               <div
                 class="column is-4 title-area"
@@ -1582,7 +1576,7 @@ Object {
         >
           <button
             aria-label="toggle navigation"
-            class="nav-toggle has-text-pink"
+            class="nav-toggle has-text-gold"
           >
             <span
               class="hamburger"
@@ -1785,13 +1779,12 @@ Object {
             class="offers-hr"
           />
           <div
-            class=""
+            class="is-centered"
           >
-            <div
-              class=" "
-            >
+            <div>
               <div
                 class="columns"
+                style="justify-content: center;"
               >
                 <div
                   class="column is-4 title-area"
@@ -1837,11 +1830,10 @@ Object {
                 width="100%"
               />
             </div>
-            <div
-              class=" "
-            >
+            <div>
               <div
                 class="columns"
+                style="justify-content: center;"
               >
                 <div
                   class="column is-4 title-area"
@@ -1887,11 +1879,10 @@ Object {
                 width="100%"
               />
             </div>
-            <div
-              class=" "
-            >
+            <div>
               <div
                 class="columns"
+                style="justify-content: center;"
               >
                 <div
                   class="column is-4 title-area"
@@ -2338,7 +2329,7 @@ Object {
       >
         <button
           aria-label="toggle navigation"
-          class="nav-toggle has-text-pink"
+          class="nav-toggle has-text-gold"
         >
           <span
             class="hamburger"
@@ -2541,13 +2532,12 @@ Object {
           class="offers-hr"
         />
         <div
-          class=""
+          class="is-centered"
         >
-          <div
-            class=" "
-          >
+          <div>
             <div
               class="columns"
+              style="justify-content: center;"
             >
               <div
                 class="column is-4 title-area"
@@ -2593,11 +2583,10 @@ Object {
               width="100%"
             />
           </div>
-          <div
-            class=" "
-          >
+          <div>
             <div
               class="columns"
+              style="justify-content: center;"
             >
               <div
                 class="column is-4 title-area"
@@ -2643,11 +2632,10 @@ Object {
               width="100%"
             />
           </div>
-          <div
-            class=" "
-          >
+          <div>
             <div
               class="columns"
+              style="justify-content: center;"
             >
               <div
                 class="column is-4 title-area"

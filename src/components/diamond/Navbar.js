@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import { website } from '../../utils';
 
 const Navbar = () => {
@@ -48,7 +47,7 @@ const Navbar = () => {
       </div>
 
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
+        <a href="/" className="navbar-item">
           {navbar.logo.url ? (
             <img
               src={navbar.logo.url}
@@ -60,7 +59,7 @@ const Navbar = () => {
               <strong>{metadata.name}</strong>
             </h2>
           )}
-        </Link>
+        </a>
       </div>
     </header>
   );

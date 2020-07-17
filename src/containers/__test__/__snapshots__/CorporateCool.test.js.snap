@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <nav
-        class="navbar is-pink"
+        class="navbar is-gold"
       >
         <div
           class="container"
@@ -64,7 +64,7 @@ Object {
                 class="navbar-item"
               >
                 <a
-                  class="button is-pink is-inverted"
+                  class="button is-gold is-inverted"
                   href="#works"
                 >
                   <span>
@@ -77,7 +77,7 @@ Object {
         </div>
       </nav>
       <section
-        class="hero is-pink is-large"
+        class="hero is-gold is-large"
       >
         <div
           class="slider"
@@ -190,7 +190,7 @@ Object {
             class="margin-bottom-50 has-text-centered"
           >
             <h1
-              class="title is-spaced has-bottomline-pink is-uppercase"
+              class="title is-spaced has-bottomline-gold is-uppercase"
             >
               About Us
             </h1>
@@ -271,7 +271,7 @@ Object {
             class="margin-bottom-50"
           >
             <h1
-              class="title is-spaced has-bottomline-pink is-uppercase"
+              class="title is-spaced has-bottomline-gold is-uppercase"
             >
               Services
             </h1>
@@ -282,16 +282,16 @@ Object {
             </h2>
           </div>
           <div
-            class="columns"
+            class="columns is-centered"
           >
             <div
-              class="column is-one-third-desktop "
+              class="column is-one-third-desktop"
             >
               <div
-                class="service-item animate-fadeUp border-color-pink"
+                class="service-item animate-fadeUp border-color-gold"
               >
                 <span
-                  class="icon has-text-pink"
+                  class="icon has-text-gold"
                 >
                   <i
                     class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -308,13 +308,13 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third-desktop "
+              class="column is-one-third-desktop"
             >
               <div
-                class="service-item animate-fadeUp border-color-pink"
+                class="service-item animate-fadeUp border-color-gold"
               >
                 <span
-                  class="icon has-text-pink"
+                  class="icon has-text-gold"
                 >
                   <i
                     class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -331,13 +331,13 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third-desktop "
+              class="column is-one-third-desktop"
             >
               <div
-                class="service-item animate-fadeUp border-color-pink"
+                class="service-item animate-fadeUp border-color-gold"
               >
                 <span
-                  class="icon has-text-pink"
+                  class="icon has-text-gold"
                 >
                   <i
                     class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -364,7 +364,7 @@ Object {
           class="container is-narrow"
         >
           <h1
-            class="title has-bottomline-pink is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+            class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
           >
             Recent Works
           </h1>
@@ -400,7 +400,7 @@ Object {
                       A platform that enables collaboration amongst businesses and works
                     </h1>
                     <a
-                      class="button is-pink-invert is-outlined is-rounded cto"
+                      class="button is-gold-invert is-outlined is-rounded cto"
                       href="http://www.worksfair.com/works/undefined"
                       rel="noopener noreferrer"
                       style="margin: 0px auto;"
@@ -419,7 +419,7 @@ Object {
                     </a>
                   </figcaption>
                   <div
-                    class="overlay has-background-pink"
+                    class="overlay has-background-gold"
                   />
                 </figure>
               </div>
@@ -444,7 +444,7 @@ Object {
                       A platform for growing businesses and skilled professionals.
                     </h1>
                     <a
-                      class="button is-pink-invert is-outlined is-rounded cto"
+                      class="button is-gold-invert is-outlined is-rounded cto"
                       href="http://www.worksfair.com/works/undefined"
                       rel="noopener noreferrer"
                       style="margin: 0px auto;"
@@ -463,7 +463,7 @@ Object {
                     </a>
                   </figcaption>
                   <div
-                    class="overlay has-background-pink"
+                    class="overlay has-background-gold"
                   />
                 </figure>
               </div>
@@ -488,7 +488,7 @@ Object {
                       A platform for searching for works that interests you
                     </h1>
                     <a
-                      class="button is-pink-invert is-outlined is-rounded cto"
+                      class="button is-gold-invert is-outlined is-rounded cto"
                       href="http://www.worksfair.com/works/undefined"
                       rel="noopener noreferrer"
                       style="margin: 0px auto;"
@@ -507,7 +507,7 @@ Object {
                     </a>
                   </figcaption>
                   <div
-                    class="overlay has-background-pink"
+                    class="overlay has-background-gold"
                   />
                 </figure>
               </div>
@@ -520,7 +520,7 @@ Object {
               class="column"
             >
               <a
-                class="button is-pink is-medium"
+                class="button is-gold is-medium"
                 href="https://github.com/TheoOkafor"
               >
                 <span>
@@ -539,7 +539,7 @@ Object {
           class="container is-narrow"
         >
           <h1
-            class="title is-spaced has-bottomline-pink is-uppercase"
+            class="title is-spaced has-bottomline-gold is-uppercase"
           >
             Testimonials
           </h1>
@@ -549,10 +549,10 @@ Object {
             People I've worked with have said these...
           </h2>
           <div
-            class="columns has-text-centered"
+            class="columns has-text-centered is-centered"
           >
             <div
-              class="column is-one-third is-offset-2"
+              class="column is-one-third"
             >
               <div
                 class="testimonial-block"
@@ -572,7 +572,7 @@ Object {
                     ,
                   </span>
                   <span
-                    class="has-text-pink"
+                    class="has-text-gold"
                   >
                     Software Engineer
                   </span>
@@ -592,7 +592,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third "
+              class="column is-one-third"
             >
               <div
                 class="testimonial-block"
@@ -612,7 +612,7 @@ Object {
                     ,
                   </span>
                   <span
-                    class="has-text-pink"
+                    class="has-text-gold"
                   >
                     Software Engineer at Andela
                   </span>
@@ -646,7 +646,7 @@ Object {
               class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
             >
               <h3
-                class="is-size-4 has-text-pink"
+                class="is-size-4 has-text-gold"
               >
                 Theo Okafor
               </h3>
@@ -660,7 +660,7 @@ Object {
                 Quick Links
               </h5>
               <ul
-                class="content quick-links has-text-pink"
+                class="content quick-links has-text-gold"
               >
                 <li>
                   <a
@@ -721,7 +721,7 @@ Object {
                   class="field"
                 >
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://twitter.com/theo_dot_io"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -731,7 +731,7 @@ Object {
                     />
                   </a>
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://github.com/TheoOkafor"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -741,7 +741,7 @@ Object {
                     />
                   </a>
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -751,7 +751,7 @@ Object {
                     />
                   </a>
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://web.facebook.com/okafor.theodore/"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -794,7 +794,7 @@ Object {
   </body>,
   "container": <div>
     <nav
-      class="navbar is-pink"
+      class="navbar is-gold"
     >
       <div
         class="container"
@@ -852,7 +852,7 @@ Object {
               class="navbar-item"
             >
               <a
-                class="button is-pink is-inverted"
+                class="button is-gold is-inverted"
                 href="#works"
               >
                 <span>
@@ -865,7 +865,7 @@ Object {
       </div>
     </nav>
     <section
-      class="hero is-pink is-large"
+      class="hero is-gold is-large"
     >
       <div
         class="slider"
@@ -978,7 +978,7 @@ Object {
           class="margin-bottom-50 has-text-centered"
         >
           <h1
-            class="title is-spaced has-bottomline-pink is-uppercase"
+            class="title is-spaced has-bottomline-gold is-uppercase"
           >
             About Us
           </h1>
@@ -1059,7 +1059,7 @@ Object {
           class="margin-bottom-50"
         >
           <h1
-            class="title is-spaced has-bottomline-pink is-uppercase"
+            class="title is-spaced has-bottomline-gold is-uppercase"
           >
             Services
           </h1>
@@ -1070,16 +1070,16 @@ Object {
           </h2>
         </div>
         <div
-          class="columns"
+          class="columns is-centered"
         >
           <div
-            class="column is-one-third-desktop "
+            class="column is-one-third-desktop"
           >
             <div
-              class="service-item animate-fadeUp border-color-pink"
+              class="service-item animate-fadeUp border-color-gold"
             >
               <span
-                class="icon has-text-pink"
+                class="icon has-text-gold"
               >
                 <i
                   class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -1096,13 +1096,13 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third-desktop "
+            class="column is-one-third-desktop"
           >
             <div
-              class="service-item animate-fadeUp border-color-pink"
+              class="service-item animate-fadeUp border-color-gold"
             >
               <span
-                class="icon has-text-pink"
+                class="icon has-text-gold"
               >
                 <i
                   class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -1119,13 +1119,13 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third-desktop "
+            class="column is-one-third-desktop"
           >
             <div
-              class="service-item animate-fadeUp border-color-pink"
+              class="service-item animate-fadeUp border-color-gold"
             >
               <span
-                class="icon has-text-pink"
+                class="icon has-text-gold"
               >
                 <i
                   class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -1152,7 +1152,7 @@ Object {
         class="container is-narrow"
       >
         <h1
-          class="title has-bottomline-pink is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+          class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
         >
           Recent Works
         </h1>
@@ -1188,7 +1188,7 @@ Object {
                     A platform that enables collaboration amongst businesses and works
                   </h1>
                   <a
-                    class="button is-pink-invert is-outlined is-rounded cto"
+                    class="button is-gold-invert is-outlined is-rounded cto"
                     href="http://www.worksfair.com/works/undefined"
                     rel="noopener noreferrer"
                     style="margin: 0px auto;"
@@ -1207,7 +1207,7 @@ Object {
                   </a>
                 </figcaption>
                 <div
-                  class="overlay has-background-pink"
+                  class="overlay has-background-gold"
                 />
               </figure>
             </div>
@@ -1232,7 +1232,7 @@ Object {
                     A platform for growing businesses and skilled professionals.
                   </h1>
                   <a
-                    class="button is-pink-invert is-outlined is-rounded cto"
+                    class="button is-gold-invert is-outlined is-rounded cto"
                     href="http://www.worksfair.com/works/undefined"
                     rel="noopener noreferrer"
                     style="margin: 0px auto;"
@@ -1251,7 +1251,7 @@ Object {
                   </a>
                 </figcaption>
                 <div
-                  class="overlay has-background-pink"
+                  class="overlay has-background-gold"
                 />
               </figure>
             </div>
@@ -1276,7 +1276,7 @@ Object {
                     A platform for searching for works that interests you
                   </h1>
                   <a
-                    class="button is-pink-invert is-outlined is-rounded cto"
+                    class="button is-gold-invert is-outlined is-rounded cto"
                     href="http://www.worksfair.com/works/undefined"
                     rel="noopener noreferrer"
                     style="margin: 0px auto;"
@@ -1295,7 +1295,7 @@ Object {
                   </a>
                 </figcaption>
                 <div
-                  class="overlay has-background-pink"
+                  class="overlay has-background-gold"
                 />
               </figure>
             </div>
@@ -1308,7 +1308,7 @@ Object {
             class="column"
           >
             <a
-              class="button is-pink is-medium"
+              class="button is-gold is-medium"
               href="https://github.com/TheoOkafor"
             >
               <span>
@@ -1327,7 +1327,7 @@ Object {
         class="container is-narrow"
       >
         <h1
-          class="title is-spaced has-bottomline-pink is-uppercase"
+          class="title is-spaced has-bottomline-gold is-uppercase"
         >
           Testimonials
         </h1>
@@ -1337,10 +1337,10 @@ Object {
           People I've worked with have said these...
         </h2>
         <div
-          class="columns has-text-centered"
+          class="columns has-text-centered is-centered"
         >
           <div
-            class="column is-one-third is-offset-2"
+            class="column is-one-third"
           >
             <div
               class="testimonial-block"
@@ -1360,7 +1360,7 @@ Object {
                   ,
                 </span>
                 <span
-                  class="has-text-pink"
+                  class="has-text-gold"
                 >
                   Software Engineer
                 </span>
@@ -1380,7 +1380,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third "
+            class="column is-one-third"
           >
             <div
               class="testimonial-block"
@@ -1400,7 +1400,7 @@ Object {
                   ,
                 </span>
                 <span
-                  class="has-text-pink"
+                  class="has-text-gold"
                 >
                   Software Engineer at Andela
                 </span>
@@ -1434,7 +1434,7 @@ Object {
             class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
           >
             <h3
-              class="is-size-4 has-text-pink"
+              class="is-size-4 has-text-gold"
             >
               Theo Okafor
             </h3>
@@ -1448,7 +1448,7 @@ Object {
               Quick Links
             </h5>
             <ul
-              class="content quick-links has-text-pink"
+              class="content quick-links has-text-gold"
             >
               <li>
                 <a
@@ -1509,7 +1509,7 @@ Object {
                 class="field"
               >
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://twitter.com/theo_dot_io"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -1519,7 +1519,7 @@ Object {
                   />
                 </a>
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://github.com/TheoOkafor"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -1529,7 +1529,7 @@ Object {
                   />
                 </a>
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -1539,7 +1539,7 @@ Object {
                   />
                 </a>
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://web.facebook.com/okafor.theodore/"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -1639,7 +1639,7 @@ Object {
   "baseElement": <body>
     <div>
       <nav
-        class="navbar is-pink"
+        class="navbar is-gold"
       >
         <div
           class="container"
@@ -1697,7 +1697,7 @@ Object {
                 class="navbar-item"
               >
                 <a
-                  class="button is-pink is-inverted"
+                  class="button is-gold is-inverted"
                   href="#works"
                 >
                   <span>
@@ -1710,7 +1710,7 @@ Object {
         </div>
       </nav>
       <section
-        class="hero is-pink is-large"
+        class="hero is-gold is-large"
       >
         <div
           class="slider"
@@ -1823,7 +1823,7 @@ Object {
             class="margin-bottom-50 has-text-centered"
           >
             <h1
-              class="title is-spaced has-bottomline-pink is-uppercase"
+              class="title is-spaced has-bottomline-gold is-uppercase"
             >
               About Us
             </h1>
@@ -1904,7 +1904,7 @@ Object {
             class="margin-bottom-50"
           >
             <h1
-              class="title is-spaced has-bottomline-pink is-uppercase"
+              class="title is-spaced has-bottomline-gold is-uppercase"
             >
               Services
             </h1>
@@ -1915,16 +1915,16 @@ Object {
             </h2>
           </div>
           <div
-            class="columns"
+            class="columns is-centered"
           >
             <div
-              class="column is-one-third-desktop "
+              class="column is-one-third-desktop"
             >
               <div
-                class="service-item animate-fadeUp border-color-pink"
+                class="service-item animate-fadeUp border-color-gold"
               >
                 <span
-                  class="icon has-text-pink"
+                  class="icon has-text-gold"
                 >
                   <i
                     class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -1941,13 +1941,13 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third-desktop "
+              class="column is-one-third-desktop"
             >
               <div
-                class="service-item animate-fadeUp border-color-pink"
+                class="service-item animate-fadeUp border-color-gold"
               >
                 <span
-                  class="icon has-text-pink"
+                  class="icon has-text-gold"
                 >
                   <i
                     class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -1964,13 +1964,13 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third-desktop "
+              class="column is-one-third-desktop"
             >
               <div
-                class="service-item animate-fadeUp border-color-pink"
+                class="service-item animate-fadeUp border-color-gold"
               >
                 <span
-                  class="icon has-text-pink"
+                  class="icon has-text-gold"
                 >
                   <i
                     class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -1997,7 +1997,7 @@ Object {
           class="container is-narrow"
         >
           <h1
-            class="title has-bottomline-pink is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+            class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
           >
             Recent Works
           </h1>
@@ -2033,7 +2033,7 @@ Object {
                       A platform that enables collaboration amongst businesses and works
                     </h1>
                     <a
-                      class="button is-pink-invert is-outlined is-rounded cto"
+                      class="button is-gold-invert is-outlined is-rounded cto"
                       href="http://www.worksfair.com/works/undefined"
                       rel="noopener noreferrer"
                       style="margin: 0px auto;"
@@ -2052,7 +2052,7 @@ Object {
                     </a>
                   </figcaption>
                   <div
-                    class="overlay has-background-pink"
+                    class="overlay has-background-gold"
                   />
                 </figure>
               </div>
@@ -2077,7 +2077,7 @@ Object {
                       A platform for growing businesses and skilled professionals.
                     </h1>
                     <a
-                      class="button is-pink-invert is-outlined is-rounded cto"
+                      class="button is-gold-invert is-outlined is-rounded cto"
                       href="http://www.worksfair.com/works/undefined"
                       rel="noopener noreferrer"
                       style="margin: 0px auto;"
@@ -2096,7 +2096,7 @@ Object {
                     </a>
                   </figcaption>
                   <div
-                    class="overlay has-background-pink"
+                    class="overlay has-background-gold"
                   />
                 </figure>
               </div>
@@ -2121,7 +2121,7 @@ Object {
                       A platform for searching for works that interests you
                     </h1>
                     <a
-                      class="button is-pink-invert is-outlined is-rounded cto"
+                      class="button is-gold-invert is-outlined is-rounded cto"
                       href="http://www.worksfair.com/works/undefined"
                       rel="noopener noreferrer"
                       style="margin: 0px auto;"
@@ -2140,7 +2140,7 @@ Object {
                     </a>
                   </figcaption>
                   <div
-                    class="overlay has-background-pink"
+                    class="overlay has-background-gold"
                   />
                 </figure>
               </div>
@@ -2153,7 +2153,7 @@ Object {
               class="column"
             >
               <a
-                class="button is-pink is-medium"
+                class="button is-gold is-medium"
                 href="https://github.com/TheoOkafor"
               >
                 <span>
@@ -2172,7 +2172,7 @@ Object {
           class="container is-narrow"
         >
           <h1
-            class="title is-spaced has-bottomline-pink is-uppercase"
+            class="title is-spaced has-bottomline-gold is-uppercase"
           >
             Testimonials
           </h1>
@@ -2182,10 +2182,10 @@ Object {
             People I've worked with have said these...
           </h2>
           <div
-            class="columns has-text-centered"
+            class="columns has-text-centered is-centered"
           >
             <div
-              class="column is-one-third is-offset-2"
+              class="column is-one-third"
             >
               <div
                 class="testimonial-block"
@@ -2205,7 +2205,7 @@ Object {
                     ,
                   </span>
                   <span
-                    class="has-text-pink"
+                    class="has-text-gold"
                   >
                     Software Engineer
                   </span>
@@ -2225,7 +2225,7 @@ Object {
               </div>
             </div>
             <div
-              class="column is-one-third "
+              class="column is-one-third"
             >
               <div
                 class="testimonial-block"
@@ -2245,7 +2245,7 @@ Object {
                     ,
                   </span>
                   <span
-                    class="has-text-pink"
+                    class="has-text-gold"
                   >
                     Software Engineer at Andela
                   </span>
@@ -2279,7 +2279,7 @@ Object {
               class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
             >
               <h3
-                class="is-size-4 has-text-pink"
+                class="is-size-4 has-text-gold"
               >
                 Theo Okafor
               </h3>
@@ -2293,7 +2293,7 @@ Object {
                 Quick Links
               </h5>
               <ul
-                class="content quick-links has-text-pink"
+                class="content quick-links has-text-gold"
               >
                 <li>
                   <a
@@ -2354,7 +2354,7 @@ Object {
                   class="field"
                 >
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://twitter.com/theo_dot_io"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -2364,7 +2364,7 @@ Object {
                     />
                   </a>
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://github.com/TheoOkafor"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -2374,7 +2374,7 @@ Object {
                     />
                   </a>
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -2384,7 +2384,7 @@ Object {
                     />
                   </a>
                   <a
-                    class="button is-medium has-background-pink"
+                    class="button is-medium has-background-gold"
                     href="https://web.facebook.com/okafor.theodore/"
                     rel="noopener noreferrer"
                     target="_blank"
@@ -2427,7 +2427,7 @@ Object {
   </body>,
   "container": <div>
     <nav
-      class="navbar is-pink"
+      class="navbar is-gold"
     >
       <div
         class="container"
@@ -2485,7 +2485,7 @@ Object {
               class="navbar-item"
             >
               <a
-                class="button is-pink is-inverted"
+                class="button is-gold is-inverted"
                 href="#works"
               >
                 <span>
@@ -2498,7 +2498,7 @@ Object {
       </div>
     </nav>
     <section
-      class="hero is-pink is-large"
+      class="hero is-gold is-large"
     >
       <div
         class="slider"
@@ -2611,7 +2611,7 @@ Object {
           class="margin-bottom-50 has-text-centered"
         >
           <h1
-            class="title is-spaced has-bottomline-pink is-uppercase"
+            class="title is-spaced has-bottomline-gold is-uppercase"
           >
             About Us
           </h1>
@@ -2692,7 +2692,7 @@ Object {
           class="margin-bottom-50"
         >
           <h1
-            class="title is-spaced has-bottomline-pink is-uppercase"
+            class="title is-spaced has-bottomline-gold is-uppercase"
           >
             Services
           </h1>
@@ -2703,16 +2703,16 @@ Object {
           </h2>
         </div>
         <div
-          class="columns"
+          class="columns is-centered"
         >
           <div
-            class="column is-one-third-desktop "
+            class="column is-one-third-desktop"
           >
             <div
-              class="service-item animate-fadeUp border-color-pink"
+              class="service-item animate-fadeUp border-color-gold"
             >
               <span
-                class="icon has-text-pink"
+                class="icon has-text-gold"
               >
                 <i
                   class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -2729,13 +2729,13 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third-desktop "
+            class="column is-one-third-desktop"
           >
             <div
-              class="service-item animate-fadeUp border-color-pink"
+              class="service-item animate-fadeUp border-color-gold"
             >
               <span
-                class="icon has-text-pink"
+                class="icon has-text-gold"
               >
                 <i
                   class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -2752,13 +2752,13 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third-desktop "
+            class="column is-one-third-desktop"
           >
             <div
-              class="service-item animate-fadeUp border-color-pink"
+              class="service-item animate-fadeUp border-color-gold"
             >
               <span
-                class="icon has-text-pink"
+                class="icon has-text-gold"
               >
                 <i
                   class="mdi mdi-puzzle-edit-outline mdi-48px"
@@ -2785,7 +2785,7 @@ Object {
         class="container is-narrow"
       >
         <h1
-          class="title has-bottomline-pink is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+          class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
         >
           Recent Works
         </h1>
@@ -2821,7 +2821,7 @@ Object {
                     A platform that enables collaboration amongst businesses and works
                   </h1>
                   <a
-                    class="button is-pink-invert is-outlined is-rounded cto"
+                    class="button is-gold-invert is-outlined is-rounded cto"
                     href="http://www.worksfair.com/works/undefined"
                     rel="noopener noreferrer"
                     style="margin: 0px auto;"
@@ -2840,7 +2840,7 @@ Object {
                   </a>
                 </figcaption>
                 <div
-                  class="overlay has-background-pink"
+                  class="overlay has-background-gold"
                 />
               </figure>
             </div>
@@ -2865,7 +2865,7 @@ Object {
                     A platform for growing businesses and skilled professionals.
                   </h1>
                   <a
-                    class="button is-pink-invert is-outlined is-rounded cto"
+                    class="button is-gold-invert is-outlined is-rounded cto"
                     href="http://www.worksfair.com/works/undefined"
                     rel="noopener noreferrer"
                     style="margin: 0px auto;"
@@ -2884,7 +2884,7 @@ Object {
                   </a>
                 </figcaption>
                 <div
-                  class="overlay has-background-pink"
+                  class="overlay has-background-gold"
                 />
               </figure>
             </div>
@@ -2909,7 +2909,7 @@ Object {
                     A platform for searching for works that interests you
                   </h1>
                   <a
-                    class="button is-pink-invert is-outlined is-rounded cto"
+                    class="button is-gold-invert is-outlined is-rounded cto"
                     href="http://www.worksfair.com/works/undefined"
                     rel="noopener noreferrer"
                     style="margin: 0px auto;"
@@ -2928,7 +2928,7 @@ Object {
                   </a>
                 </figcaption>
                 <div
-                  class="overlay has-background-pink"
+                  class="overlay has-background-gold"
                 />
               </figure>
             </div>
@@ -2941,7 +2941,7 @@ Object {
             class="column"
           >
             <a
-              class="button is-pink is-medium"
+              class="button is-gold is-medium"
               href="https://github.com/TheoOkafor"
             >
               <span>
@@ -2960,7 +2960,7 @@ Object {
         class="container is-narrow"
       >
         <h1
-          class="title is-spaced has-bottomline-pink is-uppercase"
+          class="title is-spaced has-bottomline-gold is-uppercase"
         >
           Testimonials
         </h1>
@@ -2970,10 +2970,10 @@ Object {
           People I've worked with have said these...
         </h2>
         <div
-          class="columns has-text-centered"
+          class="columns has-text-centered is-centered"
         >
           <div
-            class="column is-one-third is-offset-2"
+            class="column is-one-third"
           >
             <div
               class="testimonial-block"
@@ -2993,7 +2993,7 @@ Object {
                   ,
                 </span>
                 <span
-                  class="has-text-pink"
+                  class="has-text-gold"
                 >
                   Software Engineer
                 </span>
@@ -3013,7 +3013,7 @@ Object {
             </div>
           </div>
           <div
-            class="column is-one-third "
+            class="column is-one-third"
           >
             <div
               class="testimonial-block"
@@ -3033,7 +3033,7 @@ Object {
                   ,
                 </span>
                 <span
-                  class="has-text-pink"
+                  class="has-text-gold"
                 >
                   Software Engineer at Andela
                 </span>
@@ -3067,7 +3067,7 @@ Object {
             class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
           >
             <h3
-              class="is-size-4 has-text-pink"
+              class="is-size-4 has-text-gold"
             >
               Theo Okafor
             </h3>
@@ -3081,7 +3081,7 @@ Object {
               Quick Links
             </h5>
             <ul
-              class="content quick-links has-text-pink"
+              class="content quick-links has-text-gold"
             >
               <li>
                 <a
@@ -3142,7 +3142,7 @@ Object {
                 class="field"
               >
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://twitter.com/theo_dot_io"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -3152,7 +3152,7 @@ Object {
                   />
                 </a>
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://github.com/TheoOkafor"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -3162,7 +3162,7 @@ Object {
                   />
                 </a>
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -3172,7 +3172,7 @@ Object {
                   />
                 </a>
                 <a
-                  class="button is-medium has-background-pink"
+                  class="button is-medium has-background-gold"
                   href="https://web.facebook.com/okafor.theodore/"
                   rel="noopener noreferrer"
                   target="_blank"
