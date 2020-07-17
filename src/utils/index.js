@@ -53,11 +53,17 @@ export const website = {
     colour: 'none',
     title: 'Software Engineer & Mentor',
     subtitle: `I am a fullstack software engineer`,
+    mainDescription: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
+    porro dicta velit eaque asperiores`,
+    description: ` Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni.`,
     avatar:
       'https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg',
     // clipArt: 'https://res.cloudinary.com/worksfair/image/upload/v1586765220/fkmraronkxjvmukoia8e.svg',
     clipArt:
       'https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png',
+    heroImage: 'https://trium.ng/public/images/bg-img-1.png',
     data: [
       {
         title: 'Building for the future',
@@ -95,7 +101,7 @@ export const website = {
       I am a very hardworking person and I love what I do.`,
   },
   about: {
-    title: 'about',
+    title: 'About Us',
     subtitle: 'Get to know some things about us',
     left: {
       image:
@@ -128,7 +134,7 @@ export const website = {
         subtitle:
           'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
         icon: 'building',
-        image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg'
+        image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg',
       },
       {
         title: 'Consultancy',
@@ -144,6 +150,90 @@ export const website = {
       },
     ],
   },
+
+  offers: {
+    title: 'What We Do',
+    data: [
+      {
+        title: 'Build',
+        tag: 'Discover More',
+        desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.`,
+        src: 'https://trium.ng/public/images/brooke-cagle.png',
+      },
+      {
+        title: 'Launch',
+        tag: 'Discover More',
+        desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.`,
+        src: 'https://trium.ng/public/images/section-2.png',
+      },
+      {
+        title: 'Scale',
+        tag: 'Discover More',
+        desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
+      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+      recusandae magni. Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit.`,
+        src: 'https://trium.ng/public/images/section-3.png',
+      },
+    ],
+  },
+
+  teams: {
+    title: 'Our Team',
+    subtitle: 'Exceptional Talent',
+    desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.`,
+    src: 'https://trium.ng/public/images/linkedin-sales.png',
+    linkdesc: 'Join Our Team',
+  },
+
+  quote: {
+    text: `"We help Africa's most innovative tech startups grow quickly."`,
+  },
+
+  features: {
+    enabled: true,
+    colour: 'none',
+    title: 'Featured Ventures',
+    subtitle: `I am a fullstack software engineer`,
+    avatar:
+      'https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg',
+    // clipArt: 'https://res.cloudinary.com/worksfair/image/upload/v1586765220/fkmraronkxjvmukoia8e.svg',
+    clipArt:
+      'https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png',
+    data: [
+      {
+        title: 'Sparkle',
+        subtitle:
+          'Sparkle is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.',
+        backgroundImage: 'https://trium.ng/public/images/sparkle.png',
+        linkdesc: 'More About Sparkle',
+      },
+      {
+        title: 'Light',
+        subtitle:
+          'Light is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.',
+        backgroundImage: 'https://trium.ng/public/images/Light.png',
+        linkdesc: 'More About Light',
+      },
+      {
+        title: 'Clane',
+        subtitle:
+          'Clane is building a lifestyle and financial platform for digital natives to enable them go about their everyday lives. We believe this can only be done through transparency, trust and freedom.',
+        backgroundImage: 'https://trium.ng/public/images/clane.png',
+        linkdesc: 'More About Clane',
+      },
+    ],
+  },
+
   skills: {
     enabled: true,
     size: '',
