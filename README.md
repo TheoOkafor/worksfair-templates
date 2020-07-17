@@ -1,6 +1,7 @@
 # Worksfair Templates
 This is a collection of open-source react-based website templates built with Bulma CSS Library
 
+[Visit Template Website](https://worksfair-templates.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
