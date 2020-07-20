@@ -7,7 +7,9 @@ export const website = {
     theme: 'personalPerfect',
     icon: '',
     tagline: 'Keep moving forward...',
-    email: '',
+    email: 'example@example.com',
+    phone: '+23480000000000',
+    address: '12 works road, Awka, Anambra, Nigeria',
     arrangement: [
       {
         id: 'hero',

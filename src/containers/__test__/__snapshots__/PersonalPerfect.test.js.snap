@@ -688,7 +688,7 @@ Object {
                   >
                     <a
                       class="button is-gold is-outlined is-rounded is-medium"
-                      href="mailto:?subject=Website: Collaboration Request"
+                      href="mailto:example@example.com?subject=Website: Collaboration Request"
                       target="_top"
                     >
                       Let's do this
@@ -1486,7 +1486,7 @@ Object {
                 >
                   <a
                     class="button is-gold is-outlined is-rounded is-medium"
-                    href="mailto:?subject=Website: Collaboration Request"
+                    href="mailto:example@example.com?subject=Website: Collaboration Request"
                     target="_top"
                   >
                     Let's do this
@@ -2154,7 +2154,7 @@ Object {
                   >
                     <a
                       class="button is-gold is-outlined is-rounded is-medium"
-                      href="mailto:?subject=Website: Collaboration Request"
+                      href="mailto:example@example.com?subject=Website: Collaboration Request"
                       target="_top"
                     >
                       Let's do this
@@ -2765,7 +2765,7 @@ Object {
                 >
                   <a
                     class="button is-gold is-outlined is-rounded is-medium"
-                    href="mailto:?subject=Website: Collaboration Request"
+                    href="mailto:example@example.com?subject=Website: Collaboration Request"
                     target="_top"
                   >
                     Let's do this
