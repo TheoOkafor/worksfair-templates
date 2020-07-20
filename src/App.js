@@ -2,13 +2,9 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import "./css/index.scss";
+import routes from "./routes";
 
 const Home = React.lazy(() => import("./containers/App/Home"));
-const PersonalPerfect = React.lazy(() =>
-  import("./containers/PersonalPerfect")
-  );
-const CorporateCool = React.lazy(() => import("./containers/CorporateCool"));
-const Diamond = React.lazy(() => import("./containers/Diamond"));
 const NotFound = React.lazy(() => import("./containers/App/NotFound"));
 
 function App() {
@@ -20,15 +16,11 @@ function App() {
           <Route exact path="/">
               <Home />
             </Route>
-            <Route exact path="/personal-perfect">
-              <PersonalPerfect />
-            </Route>
-            <Route exact path="/corporate-cool">
-              <CorporateCool />
-            </Route>
-            <Route exact path="/diamond">
-              <Diamond />
-            </Route>
+            {routes.map((item) => (
+              <Route key={item.route} exact path={item.route}>
+                <item.component />
+              </Route>
+            ))}
             <Route path="*">
               <NotFound />
             </Route>

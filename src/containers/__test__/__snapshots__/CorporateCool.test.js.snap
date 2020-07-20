@@ -77,107 +77,106 @@ Object {
         </div>
       </nav>
       <section
-        class="hero is-gold is-large"
+        class="slider"
       >
+        <input
+          checked=""
+          id="carousel-1"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-3"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
         <div
-          class="slider"
+          class="carousel-slides"
         >
-          <input
-            checked=""
-            id="carousel-1"
-            name="carousel"
-            type="radio"
-          />
-          <input
-            id="carousel-2"
-            name="carousel"
-            type="radio"
-          />
-          <input
-            id="carousel-3"
-            name="carousel"
-            type="radio"
-          />
-          <input
-            id="carousel-2"
-            name="carousel"
-            type="radio"
-          />
           <div
-            class="carousel-slides"
+            class="carousel-inner"
           >
             <div
-              class="carousel-inner"
+              class="hero carousel-item is-gold is-large"
             >
               <div
-                class="carousel-item"
+                class="container has-text-centered"
               >
-                <div
-                  class="container has-text-centered"
+                <p
+                  class="title is-uppercase"
                 >
-                  <p
-                    class="title is-uppercase"
-                  >
-                    Building for the future
-                  </p>
-                  <p
-                    class="subtitle"
-                  >
-                    We have been responsible for some of the best buildings commissioned in Nigeria
-                  </p>
-                </div>
+                  Building for the future
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We have been responsible for some of the best buildings commissioned in Nigeria
+                </p>
               </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
               <div
-                class="carousel-item"
+                class="container has-text-centered"
               >
-                <div
-                  class="container has-text-centered"
+                <p
+                  class="title is-uppercase"
                 >
-                  <p
-                    class="title is-uppercase"
-                  >
-                    With over 20 years of experience
-                  </p>
-                  <p
-                    class="subtitle"
-                  >
-                    We leverage our technical expertise and vest experience to give the best possible outcome
-                  </p>
-                </div>
+                  With over 20 years of experience
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
               </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
               <div
-                class="carousel-item"
+                class="container has-text-centered"
               >
-                <div
-                  class="container has-text-centered"
+                <p
+                  class="title is-uppercase"
                 >
-                  <p
-                    class="title is-uppercase"
-                  >
-                    We put a roof on your head with a penny
-                  </p>
-                  <p
-                    class="subtitle"
-                  >
-                    We leverage our technical expertise and vest experience to give the best possible outcome
-                  </p>
-                </div>
+                  We put a roof on your head with a penny
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
               </div>
             </div>
           </div>
-          <div
-            class="carousel-nav"
-          >
-            <label
-              for="carousel-1"
-            />
-            <label
-              for="carousel-2"
-            />
-            <label
-              for="carousel-3"
-            />
-          </div>
+        </div>
+        <div
+          class="carousel-nav"
+        >
+          <label
+            class="has-background-gold"
+            for="carousel-1"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-2"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-3"
+          />
         </div>
       </section>
       <section
@@ -640,10 +639,10 @@ Object {
           class="container"
         >
           <div
-            class="columns is-multiline is-mobile"
+            class="columns is-centered has-text-centered"
           >
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
+              class="column is-one-third-desktop"
             >
               <h3
                 class="is-size-4 has-text-gold"
@@ -652,7 +651,7 @@ Object {
               </h3>
             </div>
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+              class="column is-half-tablet is-one-quarter-desktop"
             >
               <h5
                 class="is-size-5 margin-bottom-5"
@@ -697,96 +696,123 @@ Object {
               </ul>
             </div>
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+              class="column is-one-third-desktop"
             >
-              <div>
-                <p>
-                  <span>
-                    12 Washington memorial, Awka road, Onitsha
-                  </span>
-                  <br />
-                  <span>
-                    +234835302048239
-                  </span>
-                  <br />
-                  <span>
-                    info@email.com
-                  </span>
-                </p>
-              </div>
               <div
-                class="social-icons"
+                class="content margin-bottom-20"
               >
                 <p
-                  class="field"
+                  class="has-text-grey-dark"
                 >
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://twitter.com/theo_dot_io"
-                    rel="noopener noreferrer"
-                    target="_blank"
+                  <span
+                    class="icon"
                   >
                     <i
-                      class="fa fa-twitter"
+                      class="fa fa-map-marker"
                     />
-                  </a>
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://github.com/TheoOkafor"
-                    rel="noopener noreferrer"
-                    target="_blank"
+                  </span>
+                  12 works road, Awka, Anambra, Nigeria
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
                   >
                     <i
-                      class="fa fa-github"
+                      class="fa fa-mobile"
                     />
-                  </a>
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
-                    rel="noopener noreferrer"
-                    target="_blank"
+                  </span>
+                  +23480000000000
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
                   >
                     <i
-                      class="fa fa-linkedin"
+                      class="fa fa-envelope-o"
                     />
-                  </a>
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://web.facebook.com/okafor.theodore/"
-                    rel="noopener noreferrer"
-                    target="_blank"
-                  >
-                    <i
-                      class="fa fa-facebook"
-                    />
-                  </a>
+                  </span>
+                  example@example.com
                 </p>
               </div>
             </div>
+          </div>
+          <div
+            class="columns is-centered mt-5"
+          >
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+              class="social-icons has-text-centered"
             >
-              <div
-                class="copyright"
+              <p
+                class="field"
               >
-                Built with 
-                 
                 <a
-                  href="http://www.worksfair.com/"
-                >
-                  worksfair.com
-                </a>
-                 
-                <span
-                  class="icon has-white-text"
+                  class="button is-medium has-background-gold"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <i
-                    class="fa fa-copyright"
+                    class="fa fa-twitter"
                   />
-                </span>
-                2020
-              </div>
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                </a>
+              </p>
             </div>
+          </div>
+          <div
+            class="copyright has-text-centered"
+          >
+            Built with 
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
           </div>
         </div>
       </footer>
@@ -865,107 +891,106 @@ Object {
       </div>
     </nav>
     <section
-      class="hero is-gold is-large"
+      class="slider"
     >
+      <input
+        checked=""
+        id="carousel-1"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-3"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
       <div
-        class="slider"
+        class="carousel-slides"
       >
-        <input
-          checked=""
-          id="carousel-1"
-          name="carousel"
-          type="radio"
-        />
-        <input
-          id="carousel-2"
-          name="carousel"
-          type="radio"
-        />
-        <input
-          id="carousel-3"
-          name="carousel"
-          type="radio"
-        />
-        <input
-          id="carousel-2"
-          name="carousel"
-          type="radio"
-        />
         <div
-          class="carousel-slides"
+          class="carousel-inner"
         >
           <div
-            class="carousel-inner"
+            class="hero carousel-item is-gold is-large"
           >
             <div
-              class="carousel-item"
+              class="container has-text-centered"
             >
-              <div
-                class="container has-text-centered"
+              <p
+                class="title is-uppercase"
               >
-                <p
-                  class="title is-uppercase"
-                >
-                  Building for the future
-                </p>
-                <p
-                  class="subtitle"
-                >
-                  We have been responsible for some of the best buildings commissioned in Nigeria
-                </p>
-              </div>
+                Building for the future
+              </p>
+              <p
+                class="subtitle"
+              >
+                We have been responsible for some of the best buildings commissioned in Nigeria
+              </p>
             </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
             <div
-              class="carousel-item"
+              class="container has-text-centered"
             >
-              <div
-                class="container has-text-centered"
+              <p
+                class="title is-uppercase"
               >
-                <p
-                  class="title is-uppercase"
-                >
-                  With over 20 years of experience
-                </p>
-                <p
-                  class="subtitle"
-                >
-                  We leverage our technical expertise and vest experience to give the best possible outcome
-                </p>
-              </div>
+                With over 20 years of experience
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
             </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
             <div
-              class="carousel-item"
+              class="container has-text-centered"
             >
-              <div
-                class="container has-text-centered"
+              <p
+                class="title is-uppercase"
               >
-                <p
-                  class="title is-uppercase"
-                >
-                  We put a roof on your head with a penny
-                </p>
-                <p
-                  class="subtitle"
-                >
-                  We leverage our technical expertise and vest experience to give the best possible outcome
-                </p>
-              </div>
+                We put a roof on your head with a penny
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
             </div>
           </div>
         </div>
-        <div
-          class="carousel-nav"
-        >
-          <label
-            for="carousel-1"
-          />
-          <label
-            for="carousel-2"
-          />
-          <label
-            for="carousel-3"
-          />
-        </div>
+      </div>
+      <div
+        class="carousel-nav"
+      >
+        <label
+          class="has-background-gold"
+          for="carousel-1"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-2"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-3"
+        />
       </div>
     </section>
     <section
@@ -1428,10 +1453,10 @@ Object {
         class="container"
       >
         <div
-          class="columns is-multiline is-mobile"
+          class="columns is-centered has-text-centered"
         >
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
+            class="column is-one-third-desktop"
           >
             <h3
               class="is-size-4 has-text-gold"
@@ -1440,7 +1465,7 @@ Object {
             </h3>
           </div>
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+            class="column is-half-tablet is-one-quarter-desktop"
           >
             <h5
               class="is-size-5 margin-bottom-5"
@@ -1485,96 +1510,123 @@ Object {
             </ul>
           </div>
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+            class="column is-one-third-desktop"
           >
-            <div>
-              <p>
-                <span>
-                  12 Washington memorial, Awka road, Onitsha
-                </span>
-                <br />
-                <span>
-                  +234835302048239
-                </span>
-                <br />
-                <span>
-                  info@email.com
-                </span>
-              </p>
-            </div>
             <div
-              class="social-icons"
+              class="content margin-bottom-20"
             >
               <p
-                class="field"
+                class="has-text-grey-dark"
               >
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://twitter.com/theo_dot_io"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                <span
+                  class="icon"
                 >
                   <i
-                    class="fa fa-twitter"
+                    class="fa fa-map-marker"
                   />
-                </a>
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://github.com/TheoOkafor"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                </span>
+                12 works road, Awka, Anambra, Nigeria
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
                 >
                   <i
-                    class="fa fa-github"
+                    class="fa fa-mobile"
                   />
-                </a>
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                </span>
+                +23480000000000
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
                 >
                   <i
-                    class="fa fa-linkedin"
+                    class="fa fa-envelope-o"
                   />
-                </a>
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://web.facebook.com/okafor.theodore/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <i
-                    class="fa fa-facebook"
-                  />
-                </a>
+                </span>
+                example@example.com
               </p>
             </div>
           </div>
+        </div>
+        <div
+          class="columns is-centered mt-5"
+        >
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+            class="social-icons has-text-centered"
           >
-            <div
-              class="copyright"
+            <p
+              class="field"
             >
-              Built with 
-               
               <a
-                href="http://www.worksfair.com/"
-              >
-                worksfair.com
-              </a>
-               
-              <span
-                class="icon has-white-text"
+                class="button is-medium has-background-gold"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <i
-                  class="fa fa-copyright"
+                  class="fa fa-twitter"
                 />
-              </span>
-              2020
-            </div>
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+              </a>
+            </p>
           </div>
+        </div>
+        <div
+          class="copyright has-text-centered"
+        >
+          Built with 
+           
+          <a
+            href="http://www.worksfair.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            worksfair.com
+          </a>
+           
+          <span
+            class="icon has-white-text"
+          >
+            <i
+              class="fa fa-copyright"
+            />
+          </span>
+          2020
         </div>
       </div>
     </footer>
@@ -1710,107 +1762,106 @@ Object {
         </div>
       </nav>
       <section
-        class="hero is-gold is-large"
+        class="slider"
       >
+        <input
+          checked=""
+          id="carousel-1"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-3"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
         <div
-          class="slider"
+          class="carousel-slides"
         >
-          <input
-            checked=""
-            id="carousel-1"
-            name="carousel"
-            type="radio"
-          />
-          <input
-            id="carousel-2"
-            name="carousel"
-            type="radio"
-          />
-          <input
-            id="carousel-3"
-            name="carousel"
-            type="radio"
-          />
-          <input
-            id="carousel-2"
-            name="carousel"
-            type="radio"
-          />
           <div
-            class="carousel-slides"
+            class="carousel-inner"
           >
             <div
-              class="carousel-inner"
+              class="hero carousel-item is-gold is-large"
             >
               <div
-                class="carousel-item"
+                class="container has-text-centered"
               >
-                <div
-                  class="container has-text-centered"
+                <p
+                  class="title is-uppercase"
                 >
-                  <p
-                    class="title is-uppercase"
-                  >
-                    Building for the future
-                  </p>
-                  <p
-                    class="subtitle"
-                  >
-                    We have been responsible for some of the best buildings commissioned in Nigeria
-                  </p>
-                </div>
+                  Building for the future
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We have been responsible for some of the best buildings commissioned in Nigeria
+                </p>
               </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
               <div
-                class="carousel-item"
+                class="container has-text-centered"
               >
-                <div
-                  class="container has-text-centered"
+                <p
+                  class="title is-uppercase"
                 >
-                  <p
-                    class="title is-uppercase"
-                  >
-                    With over 20 years of experience
-                  </p>
-                  <p
-                    class="subtitle"
-                  >
-                    We leverage our technical expertise and vest experience to give the best possible outcome
-                  </p>
-                </div>
+                  With over 20 years of experience
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
               </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
               <div
-                class="carousel-item"
+                class="container has-text-centered"
               >
-                <div
-                  class="container has-text-centered"
+                <p
+                  class="title is-uppercase"
                 >
-                  <p
-                    class="title is-uppercase"
-                  >
-                    We put a roof on your head with a penny
-                  </p>
-                  <p
-                    class="subtitle"
-                  >
-                    We leverage our technical expertise and vest experience to give the best possible outcome
-                  </p>
-                </div>
+                  We put a roof on your head with a penny
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
               </div>
             </div>
           </div>
-          <div
-            class="carousel-nav"
-          >
-            <label
-              for="carousel-1"
-            />
-            <label
-              for="carousel-2"
-            />
-            <label
-              for="carousel-3"
-            />
-          </div>
+        </div>
+        <div
+          class="carousel-nav"
+        >
+          <label
+            class="has-background-gold"
+            for="carousel-1"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-2"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-3"
+          />
         </div>
       </section>
       <section
@@ -2273,10 +2324,10 @@ Object {
           class="container"
         >
           <div
-            class="columns is-multiline is-mobile"
+            class="columns is-centered has-text-centered"
           >
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
+              class="column is-one-third-desktop"
             >
               <h3
                 class="is-size-4 has-text-gold"
@@ -2285,7 +2336,7 @@ Object {
               </h3>
             </div>
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+              class="column is-half-tablet is-one-quarter-desktop"
             >
               <h5
                 class="is-size-5 margin-bottom-5"
@@ -2330,96 +2381,123 @@ Object {
               </ul>
             </div>
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+              class="column is-one-third-desktop"
             >
-              <div>
-                <p>
-                  <span>
-                    12 Washington memorial, Awka road, Onitsha
-                  </span>
-                  <br />
-                  <span>
-                    +234835302048239
-                  </span>
-                  <br />
-                  <span>
-                    info@email.com
-                  </span>
-                </p>
-              </div>
               <div
-                class="social-icons"
+                class="content margin-bottom-20"
               >
                 <p
-                  class="field"
+                  class="has-text-grey-dark"
                 >
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://twitter.com/theo_dot_io"
-                    rel="noopener noreferrer"
-                    target="_blank"
+                  <span
+                    class="icon"
                   >
                     <i
-                      class="fa fa-twitter"
+                      class="fa fa-map-marker"
                     />
-                  </a>
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://github.com/TheoOkafor"
-                    rel="noopener noreferrer"
-                    target="_blank"
+                  </span>
+                  12 works road, Awka, Anambra, Nigeria
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
                   >
                     <i
-                      class="fa fa-github"
+                      class="fa fa-mobile"
                     />
-                  </a>
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
-                    rel="noopener noreferrer"
-                    target="_blank"
+                  </span>
+                  +23480000000000
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
                   >
                     <i
-                      class="fa fa-linkedin"
+                      class="fa fa-envelope-o"
                     />
-                  </a>
-                  <a
-                    class="button is-medium has-background-gold"
-                    href="https://web.facebook.com/okafor.theodore/"
-                    rel="noopener noreferrer"
-                    target="_blank"
-                  >
-                    <i
-                      class="fa fa-facebook"
-                    />
-                  </a>
+                  </span>
+                  example@example.com
                 </p>
               </div>
             </div>
+          </div>
+          <div
+            class="columns is-centered mt-5"
+          >
             <div
-              class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+              class="social-icons has-text-centered"
             >
-              <div
-                class="copyright"
+              <p
+                class="field"
               >
-                Built with 
-                 
                 <a
-                  href="http://www.worksfair.com/"
-                >
-                  worksfair.com
-                </a>
-                 
-                <span
-                  class="icon has-white-text"
+                  class="button is-medium has-background-gold"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
                 >
                   <i
-                    class="fa fa-copyright"
+                    class="fa fa-twitter"
                   />
-                </span>
-                2020
-              </div>
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                </a>
+              </p>
             </div>
+          </div>
+          <div
+            class="copyright has-text-centered"
+          >
+            Built with 
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
           </div>
         </div>
       </footer>
@@ -2498,107 +2576,106 @@ Object {
       </div>
     </nav>
     <section
-      class="hero is-gold is-large"
+      class="slider"
     >
+      <input
+        checked=""
+        id="carousel-1"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-3"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
       <div
-        class="slider"
+        class="carousel-slides"
       >
-        <input
-          checked=""
-          id="carousel-1"
-          name="carousel"
-          type="radio"
-        />
-        <input
-          id="carousel-2"
-          name="carousel"
-          type="radio"
-        />
-        <input
-          id="carousel-3"
-          name="carousel"
-          type="radio"
-        />
-        <input
-          id="carousel-2"
-          name="carousel"
-          type="radio"
-        />
         <div
-          class="carousel-slides"
+          class="carousel-inner"
         >
           <div
-            class="carousel-inner"
+            class="hero carousel-item is-gold is-large"
           >
             <div
-              class="carousel-item"
+              class="container has-text-centered"
             >
-              <div
-                class="container has-text-centered"
+              <p
+                class="title is-uppercase"
               >
-                <p
-                  class="title is-uppercase"
-                >
-                  Building for the future
-                </p>
-                <p
-                  class="subtitle"
-                >
-                  We have been responsible for some of the best buildings commissioned in Nigeria
-                </p>
-              </div>
+                Building for the future
+              </p>
+              <p
+                class="subtitle"
+              >
+                We have been responsible for some of the best buildings commissioned in Nigeria
+              </p>
             </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
             <div
-              class="carousel-item"
+              class="container has-text-centered"
             >
-              <div
-                class="container has-text-centered"
+              <p
+                class="title is-uppercase"
               >
-                <p
-                  class="title is-uppercase"
-                >
-                  With over 20 years of experience
-                </p>
-                <p
-                  class="subtitle"
-                >
-                  We leverage our technical expertise and vest experience to give the best possible outcome
-                </p>
-              </div>
+                With over 20 years of experience
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
             </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
             <div
-              class="carousel-item"
+              class="container has-text-centered"
             >
-              <div
-                class="container has-text-centered"
+              <p
+                class="title is-uppercase"
               >
-                <p
-                  class="title is-uppercase"
-                >
-                  We put a roof on your head with a penny
-                </p>
-                <p
-                  class="subtitle"
-                >
-                  We leverage our technical expertise and vest experience to give the best possible outcome
-                </p>
-              </div>
+                We put a roof on your head with a penny
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
             </div>
           </div>
         </div>
-        <div
-          class="carousel-nav"
-        >
-          <label
-            for="carousel-1"
-          />
-          <label
-            for="carousel-2"
-          />
-          <label
-            for="carousel-3"
-          />
-        </div>
+      </div>
+      <div
+        class="carousel-nav"
+      >
+        <label
+          class="has-background-gold"
+          for="carousel-1"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-2"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-3"
+        />
       </div>
     </section>
     <section
@@ -3061,10 +3138,10 @@ Object {
         class="container"
       >
         <div
-          class="columns is-multiline is-mobile"
+          class="columns is-centered has-text-centered"
         >
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop has-website-name"
+            class="column is-one-third-desktop"
           >
             <h3
               class="is-size-4 has-text-gold"
@@ -3073,7 +3150,7 @@ Object {
             </h3>
           </div>
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+            class="column is-half-tablet is-one-quarter-desktop"
           >
             <h5
               class="is-size-5 margin-bottom-5"
@@ -3118,96 +3195,123 @@ Object {
             </ul>
           </div>
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+            class="column is-one-third-desktop"
           >
-            <div>
-              <p>
-                <span>
-                  12 Washington memorial, Awka road, Onitsha
-                </span>
-                <br />
-                <span>
-                  +234835302048239
-                </span>
-                <br />
-                <span>
-                  info@email.com
-                </span>
-              </p>
-            </div>
             <div
-              class="social-icons"
+              class="content margin-bottom-20"
             >
               <p
-                class="field"
+                class="has-text-grey-dark"
               >
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://twitter.com/theo_dot_io"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                <span
+                  class="icon"
                 >
                   <i
-                    class="fa fa-twitter"
+                    class="fa fa-map-marker"
                   />
-                </a>
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://github.com/TheoOkafor"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                </span>
+                12 works road, Awka, Anambra, Nigeria
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
                 >
                   <i
-                    class="fa fa-github"
+                    class="fa fa-mobile"
                   />
-                </a>
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                </span>
+                +23480000000000
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
                 >
                   <i
-                    class="fa fa-linkedin"
+                    class="fa fa-envelope-o"
                   />
-                </a>
-                <a
-                  class="button is-medium has-background-gold"
-                  href="https://web.facebook.com/okafor.theodore/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <i
-                    class="fa fa-facebook"
-                  />
-                </a>
+                </span>
+                example@example.com
               </p>
             </div>
           </div>
+        </div>
+        <div
+          class="columns is-centered mt-5"
+        >
           <div
-            class="column is-6-mobile is-half-tablet is-one-quarter-desktop"
+            class="social-icons has-text-centered"
           >
-            <div
-              class="copyright"
+            <p
+              class="field"
             >
-              Built with 
-               
               <a
-                href="http://www.worksfair.com/"
-              >
-                worksfair.com
-              </a>
-               
-              <span
-                class="icon has-white-text"
+                class="button is-medium has-background-gold"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <i
-                  class="fa fa-copyright"
+                  class="fa fa-twitter"
                 />
-              </span>
-              2020
-            </div>
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+              </a>
+            </p>
           </div>
+        </div>
+        <div
+          class="copyright has-text-centered"
+        >
+          Built with 
+           
+          <a
+            href="http://www.worksfair.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            worksfair.com
+          </a>
+           
+          <span
+            class="icon has-white-text"
+          >
+            <i
+              class="fa fa-copyright"
+            />
+          </span>
+          2020
         </div>
       </div>
     </footer>
