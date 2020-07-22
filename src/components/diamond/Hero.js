@@ -1,19 +1,17 @@
 import React from 'react';
 
-import { website } from '../../utils';
-
-const Hero = () => {
-  const { hero } = website;
+const Hero = ({ website }) => {
+  const { hero, metadata } = website;
   return (
-    <section className={`hero is-transparent is-large`}>
+    <section className="hero is-transparent is-large">
       <hr className="nav-hr" />
 
       <div className="columns">
         <div className="column is-6.5 banner-text">
-          <h1 className="banner-heading">{hero.mainDescription}</h1>
-          <h2 className="banner-sub-heading">{hero.description}</h2>
+          <h1 className="banner-heading">{hero.title}</h1>
+          <h2 className="banner-sub-heading">{hero.subtitle}</h2>
           <div>
-            <a href="/#" className="has-text-gold has-text-weight-bold">
+            <a href="#services" className={`has-text-${metadata.themeColour} has-text-weight-bold`}>
               Discover Diamond
             </a>
             <hr className="hr-link" />

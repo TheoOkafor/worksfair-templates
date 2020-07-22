@@ -22,7 +22,7 @@ Object {
                 class="is-size-4"
               >
                 <strong>
-                  Theo Okafor
+                  My Website
                 </strong>
               </h2>
             </a>
@@ -272,7 +272,7 @@ Object {
             <h1
               class="title is-spaced has-bottomline-gold is-uppercase"
             >
-              Services
+              What we do
             </h1>
             <h2
               class="subtitle"
@@ -301,9 +301,7 @@ Object {
                 >
                   Construction
                 </h3>
-                <p>
-                  We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-                </p>
+                <p />
               </div>
             </div>
             <div
@@ -324,9 +322,7 @@ Object {
                 >
                   Consultancy
                 </h3>
-                <p>
-                  We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-                </p>
+                <p />
               </div>
             </div>
             <div
@@ -347,9 +343,7 @@ Object {
                 >
                   Chips Manufacturing
                 </h3>
-                <p>
-                  We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-                </p>
+                <p />
               </div>
             </div>
           </div>
@@ -647,7 +641,7 @@ Object {
               <h3
                 class="is-size-4 has-text-gold"
               >
-                Theo Okafor
+                My Website
               </h3>
             </div>
             <div
@@ -793,9 +787,9 @@ Object {
             </div>
           </div>
           <div
-            class="copyright has-text-centered"
+            class="copyright undefined has-text-centered"
           >
-            Built with 
+            Built with
              
             <a
               href="http://www.worksfair.com"
@@ -836,7 +830,7 @@ Object {
               class="is-size-4"
             >
               <strong>
-                Theo Okafor
+                My Website
               </strong>
             </h2>
           </a>
@@ -1086,7 +1080,7 @@ Object {
           <h1
             class="title is-spaced has-bottomline-gold is-uppercase"
           >
-            Services
+            What we do
           </h1>
           <h2
             class="subtitle"
@@ -1115,9 +1109,7 @@ Object {
               >
                 Construction
               </h3>
-              <p>
-                We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-              </p>
+              <p />
             </div>
           </div>
           <div
@@ -1138,9 +1130,7 @@ Object {
               >
                 Consultancy
               </h3>
-              <p>
-                We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-              </p>
+              <p />
             </div>
           </div>
           <div
@@ -1161,9 +1151,7 @@ Object {
               >
                 Chips Manufacturing
               </h3>
-              <p>
-                We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-              </p>
+              <p />
             </div>
           </div>
         </div>
@@ -1461,7 +1449,7 @@ Object {
             <h3
               class="is-size-4 has-text-gold"
             >
-              Theo Okafor
+              My Website
             </h3>
           </div>
           <div
@@ -1607,9 +1595,9 @@ Object {
           </div>
         </div>
         <div
-          class="copyright has-text-centered"
+          class="copyright undefined has-text-centered"
         >
-          Built with 
+          Built with
            
           <a
             href="http://www.worksfair.com"
@@ -1707,7 +1695,7 @@ Object {
                 class="is-size-4"
               >
                 <strong>
-                  Theo Okafor
+                  My Website
                 </strong>
               </h2>
             </a>
@@ -1957,7 +1945,7 @@ Object {
             <h1
               class="title is-spaced has-bottomline-gold is-uppercase"
             >
-              Services
+              What we do
             </h1>
             <h2
               class="subtitle"
@@ -1986,9 +1974,7 @@ Object {
                 >
                   Construction
                 </h3>
-                <p>
-                  We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-                </p>
+                <p />
               </div>
             </div>
             <div
@@ -2009,9 +1995,7 @@ Object {
                 >
                   Consultancy
                 </h3>
-                <p>
-                  We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-                </p>
+                <p />
               </div>
             </div>
             <div
@@ -2032,9 +2016,7 @@ Object {
                 >
                   Chips Manufacturing
                 </h3>
-                <p>
-                  We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-                </p>
+                <p />
               </div>
             </div>
           </div>
@@ -2332,7 +2314,7 @@ Object {
               <h3
                 class="is-size-4 has-text-gold"
               >
-                Theo Okafor
+                My Website
               </h3>
             </div>
             <div
@@ -2478,9 +2460,9 @@ Object {
             </div>
           </div>
           <div
-            class="copyright has-text-centered"
+            class="copyright undefined has-text-centered"
           >
-            Built with 
+            Built with
              
             <a
               href="http://www.worksfair.com"
@@ -2521,7 +2503,7 @@ Object {
               class="is-size-4"
             >
               <strong>
-                Theo Okafor
+                My Website
               </strong>
             </h2>
           </a>
@@ -2771,7 +2753,7 @@ Object {
           <h1
             class="title is-spaced has-bottomline-gold is-uppercase"
           >
-            Services
+            What we do
           </h1>
           <h2
             class="subtitle"
@@ -2800,9 +2782,7 @@ Object {
               >
                 Construction
               </h3>
-              <p>
-                We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-              </p>
+              <p />
             </div>
           </div>
           <div
@@ -2823,9 +2803,7 @@ Object {
               >
                 Consultancy
               </h3>
-              <p>
-                We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-              </p>
+              <p />
             </div>
           </div>
           <div
@@ -2846,9 +2824,7 @@ Object {
               >
                 Chips Manufacturing
               </h3>
-              <p>
-                We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
-              </p>
+              <p />
             </div>
           </div>
         </div>
@@ -3146,7 +3122,7 @@ Object {
             <h3
               class="is-size-4 has-text-gold"
             >
-              Theo Okafor
+              My Website
             </h3>
           </div>
           <div
@@ -3292,9 +3268,9 @@ Object {
           </div>
         </div>
         <div
-          class="copyright has-text-centered"
+          class="copyright undefined has-text-centered"
         >
-          Built with 
+          Built with
            
           <a
             href="http://www.worksfair.com"

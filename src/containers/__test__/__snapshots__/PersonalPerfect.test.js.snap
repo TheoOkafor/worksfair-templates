@@ -25,7 +25,7 @@ Object {
                   class="webpage-title is-size-4 has-text-gold"
                 >
                   <strong>
-                    Theo Okafor
+                    My Website
                   </strong>
                 </h2>
               </a>
@@ -91,12 +91,13 @@ Object {
                     <h1
                       class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
                     >
-                      Software Engineer & Mentor
+                      Lorem ipsum dolor sit amet consectetur
                     </h1>
                     <h2
                       class="subtitle is-size-4-desktop"
                     >
-                      I am a fullstack software engineer
+                       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
                     </h2>
                   </div>
                 </div>
@@ -705,15 +706,18 @@ Object {
           <div
             class="container is-narrow"
           >
-            <h1
-              class="is-size-4"
-            />
             <div
               class="columns is-centered"
             >
               <div
                 class="column is-one-third"
-              />
+              >
+                <h1
+                  class="title is-size-4-touch"
+                >
+                  Keep moving forward...
+                </h1>
+              </div>
             </div>
             <div
               class="social-icons"
@@ -784,18 +788,26 @@ Object {
               2020
             </div>
             <div
-              class="made-by-bulma"
+              class="copyright undefined has-text-centered"
             >
+              Built with
+               
               <a
-                href="https://bulma.io"
+                href="http://www.worksfair.com"
+                rel="noopener noreferrer"
+                target="_blank"
               >
-                <img
-                  alt="Made with Bulma"
-                  height="31"
-                  src="https://bulma.io/images/made-with-bulma--white.png"
-                  width="163"
-                />
+                worksfair.com
               </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
             </div>
           </div>
         </footer>
@@ -823,7 +835,7 @@ Object {
                 class="webpage-title is-size-4 has-text-gold"
               >
                 <strong>
-                  Theo Okafor
+                  My Website
                 </strong>
               </h2>
             </a>
@@ -889,12 +901,13 @@ Object {
                   <h1
                     class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
                   >
-                    Software Engineer & Mentor
+                    Lorem ipsum dolor sit amet consectetur
                   </h1>
                   <h2
                     class="subtitle is-size-4-desktop"
                   >
-                    I am a fullstack software engineer
+                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
                   </h2>
                 </div>
               </div>
@@ -1503,15 +1516,18 @@ Object {
         <div
           class="container is-narrow"
         >
-          <h1
-            class="is-size-4"
-          />
           <div
             class="columns is-centered"
           >
             <div
               class="column is-one-third"
-            />
+            >
+              <h1
+                class="title is-size-4-touch"
+              >
+                Keep moving forward...
+              </h1>
+            </div>
           </div>
           <div
             class="social-icons"
@@ -1582,18 +1598,26 @@ Object {
             2020
           </div>
           <div
-            class="made-by-bulma"
+            class="copyright undefined has-text-centered"
           >
+            Built with
+             
             <a
-              href="https://bulma.io"
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
             >
-              <img
-                alt="Made with Bulma"
-                height="31"
-                src="https://bulma.io/images/made-with-bulma--white.png"
-                width="163"
-              />
+              worksfair.com
             </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
           </div>
         </div>
       </footer>
@@ -1678,7 +1702,7 @@ Object {
                   class="webpage-title is-size-4 has-text-gold"
                 >
                   <strong>
-                    Theo Okafor
+                    My Website
                   </strong>
                 </h2>
               </a>
@@ -1744,12 +1768,13 @@ Object {
                     <h1
                       class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
                     >
-                      Software Engineer & Mentor
+                      Lorem ipsum dolor sit amet consectetur
                     </h1>
                     <h2
                       class="subtitle is-size-4-desktop"
                     >
-                      I am a fullstack software engineer
+                       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
                     </h2>
                   </div>
                 </div>
@@ -2171,15 +2196,18 @@ Object {
           <div
             class="container is-narrow"
           >
-            <h1
-              class="is-size-4"
-            />
             <div
               class="columns is-centered"
             >
               <div
                 class="column is-one-third"
-              />
+              >
+                <h1
+                  class="title is-size-4-touch"
+                >
+                  Keep moving forward...
+                </h1>
+              </div>
             </div>
             <div
               class="social-icons"
@@ -2250,18 +2278,26 @@ Object {
               2020
             </div>
             <div
-              class="made-by-bulma"
+              class="copyright undefined has-text-centered"
             >
+              Built with
+               
               <a
-                href="https://bulma.io"
+                href="http://www.worksfair.com"
+                rel="noopener noreferrer"
+                target="_blank"
               >
-                <img
-                  alt="Made with Bulma"
-                  height="31"
-                  src="https://bulma.io/images/made-with-bulma--white.png"
-                  width="163"
-                />
+                worksfair.com
               </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
             </div>
           </div>
         </footer>
@@ -2289,7 +2325,7 @@ Object {
                 class="webpage-title is-size-4 has-text-gold"
               >
                 <strong>
-                  Theo Okafor
+                  My Website
                 </strong>
               </h2>
             </a>
@@ -2355,12 +2391,13 @@ Object {
                   <h1
                     class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
                   >
-                    Software Engineer & Mentor
+                    Lorem ipsum dolor sit amet consectetur
                   </h1>
                   <h2
                     class="subtitle is-size-4-desktop"
                   >
-                    I am a fullstack software engineer
+                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
                   </h2>
                 </div>
               </div>
@@ -2782,15 +2819,18 @@ Object {
         <div
           class="container is-narrow"
         >
-          <h1
-            class="is-size-4"
-          />
           <div
             class="columns is-centered"
           >
             <div
               class="column is-one-third"
-            />
+            >
+              <h1
+                class="title is-size-4-touch"
+              >
+                Keep moving forward...
+              </h1>
+            </div>
           </div>
           <div
             class="social-icons"
@@ -2861,18 +2901,26 @@ Object {
             2020
           </div>
           <div
-            class="made-by-bulma"
+            class="copyright undefined has-text-centered"
           >
+            Built with
+             
             <a
-              href="https://bulma.io"
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
             >
-              <img
-                alt="Made with Bulma"
-                height="31"
-                src="https://bulma.io/images/made-with-bulma--white.png"
-                width="163"
-              />
+              worksfair.com
             </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
           </div>
         </div>
       </footer>

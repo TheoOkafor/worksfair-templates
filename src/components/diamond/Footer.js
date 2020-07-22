@@ -1,8 +1,9 @@
 import React from 'react';
+import BuiltWith from '../__shared__/BuiltWith';
 
 const renderSocialMedia = (media, index) => (
   <a
-    className="footer-link is-medium"
+    className="footer-link is-medium has-text-light"
     href={media.url}
     target="_blank"
     rel="noopener noreferrer"
@@ -16,7 +17,7 @@ const renderSocialMedia = (media, index) => (
 const Footer = ({ website }) => {
   const { footer, metadata } = website;
   return (
-    <footer className={`section is-full-width is-black  `}>
+    <footer className="section is-full-width is-black">
       <div className="container is-narrow">
         {/* { website.icon ?
             <a className="logo" href="/">
@@ -28,38 +29,13 @@ const Footer = ({ website }) => {
             </a>
             : <h1 className="is-size-4">{website.name}</h1>
           } */}
-        <h1 className="is-size-4">{website.name}</h1>
-        <div className="columns is-centered">
-          <div className="column is-3">
-            <h1 className="title is-size-4-touch">{metadata.name}</h1>
-          </div>
-
-          <div className="column is-8 social-icons">
-            <p className="footer-SM">
-              {footer.socialMedia.data.map(renderSocialMedia)}
-            </p>
-          </div>
+        <div className="content has-text-centered">
+          <h1 className="title has-text-grey-light is-size-4-touch mb-5">{metadata.name}</h1>
+          <p className="mb-5">
+            {footer.socialMedia.data.map(renderSocialMedia)}
+          </p>
         </div>
-        <div className="copyright  has-text-centered">
-          Design with love by <a href="https://worksfair.com/">Worksfair</a>{' '}
-          <span
-            className="icon has-white-text"
-            // style="vertical-align:middle;"
-          >
-            <i className="fa fa-copyright"></i>
-          </span>
-          {new Date().getFullYear()}
-        </div>
-        <div className="made-by-bulma has-text-centered">
-          <a href="https://bulma.io">
-            <img
-              src="https://bulma.io/images/made-with-bulma--white.png"
-              alt="Made with Bulma"
-              width="163"
-              height="31"
-            />
-          </a>
-        </div>
+        <BuiltWith className="has-text-grey-light" />
       </div>
     </footer>
   );
