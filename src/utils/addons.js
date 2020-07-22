@@ -23,7 +23,7 @@ export const templateAddons = {
         'https://nigerianinfopedia.com.ng/wp-content/uploads/2020/05/cost-of-building-a-duplex-in-nigeria.jpeg',
     },
   ],
-  aboutDesc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+  aboutDescription: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
     ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
     recusandae magni. Lorem ipsum dolor, sit amet consectetur
     adipisicing elit. Possimus ullam doloribus deserunt officiis

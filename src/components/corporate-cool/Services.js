@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Services = (props) => {
-  const { metadata, services } = props.website;
+  const { metadata, servicesSettings, services } = props.website;
   return (
     <section className="section is-medium services" id="services">
       <div className="container has-text-centered">
@@ -9,12 +9,12 @@ const Services = (props) => {
           <h1
             className={`title is-spaced has-bottomline-${metadata.themeColour} is-uppercase`}
           >
-            {services.title}
+            {servicesSettings.title}
           </h1>
-          <h2 className="subtitle">{services.subtitle}</h2>
+          <h2 className="subtitle">{servicesSettings.subtitle}</h2>
         </div>
         <div className="columns is-centered">
-          {services.data.map((item, index) => (
+          {services.map((item, index) => (
             <div
               className={`column is-one-third-desktop`}
               key={item.title + index}

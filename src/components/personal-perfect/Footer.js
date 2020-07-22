@@ -1,4 +1,5 @@
 import React from 'react';
+import BuiltWith from '../__shared__/BuiltWith';
 
 const renderSocialMedia = (media, index) => (
   <a
@@ -27,12 +28,11 @@ const Footer = ({ website }) => {
             </a>
             : <h1 className="is-size-4">{website.name}</h1>
           } */}
-          <h1 className="is-size-4">{website.name}</h1>
           <div className="columns is-centered">
             <div className="column is-one-third">
-              {/* <h1 className="title is-size-4-touch">
-                {website.tagline}
-              </h1> */}
+              <h1 className="title is-size-4-touch">
+                {metadata.tagline}
+              </h1>
             </div>
           </div>
           <div className="social-icons">
@@ -51,16 +51,7 @@ const Footer = ({ website }) => {
             </span>
             {new Date().getFullYear()}
           </div>
-          <div className="made-by-bulma">
-            <a href="https://bulma.io">
-              <img
-                src="https://bulma.io/images/made-with-bulma--white.png"
-                alt="Made with Bulma"
-                width="163"
-                height="31"
-              />
-            </a>
-          </div>
+          <BuiltWith />
         </div>
       </footer>
   );

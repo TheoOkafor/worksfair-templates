@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { website } from '../../utils';
 
-const Navbar = () => {
+const Navbar = ({ website }) => {
   const [open, setOpen] = useState(false);
 
   const { metadata, navbar } = website;
@@ -23,23 +22,23 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav__item">
-              <a href="#offers" className="nav__link">
-                My Services.
+              <a href="#services" className="nav__link">
+                {website.servicesSettings.title}.
               </a>
             </li>
             <li className="nav__item">
               <a href="#about" className="nav__link">
-                About Us.
+              {website.about.title}.
               </a>
             </li>
             <li className="nav__item">
               <a href="#features" className="nav__link">
-                Featured Ventures.
+                {website.worksSettings.title}.
               </a>
             </li>
             <li className="nav__item">
               <a href="#team" className="nav__link">
-                Team.
+                {website.teams.title}.
               </a>
             </li>
           </ul>

@@ -1,8 +1,8 @@
 export const website = {
   metadata: {
-    title: "Theo Okafor's Website",
+    title: "My Website",
     description: '',
-    name: 'Theo Okafor',
+    name: 'My Website',
     themeColour: 'gold',
     theme: 'personalPerfect',
     icon: '',
@@ -53,8 +53,9 @@ export const website = {
   hero: {
     enabled: true,
     colour: 'none',
-    title: 'Software Engineer & Mentor',
-    subtitle: `I am a fullstack software engineer`,
+    title: 'Lorem ipsum dolor sit amet consectetur',
+    subtitle: ` Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!`,
     mainDescription: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eum
     porro dicta velit eaque asperiores`,
     description: ` Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
@@ -62,10 +63,10 @@ export const website = {
     recusandae magni.`,
     avatar:
       'https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg',
-    // clipArt: 'https://res.cloudinary.com/worksfair/image/upload/v1586765220/fkmraronkxjvmukoia8e.svg',
     clipArt:
       'https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png',
-    heroImage: 'https://trium.ng/public/images/bg-img-1.png',
+    heroImage:
+      'https://res.cloudinary.com/worksfair/image/upload/v1595273696/static/qmxvbhllmxlhjvpp3nby.jpg',
     data: [
       {
         title: 'Building for the future',
@@ -127,78 +128,47 @@ export const website = {
       `,
     },
   },
-  services: {
-    title: 'Services',
+  servicesSettings: {
+    title: 'What we do',
+    enabled: true,
     subtitle: 'Some of the things we offer',
-    data: [
-      {
-        title: 'Construction',
-        subtitle:
-          'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
-        icon: 'building',
-        image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg',
-      },
-      {
-        title: 'Consultancy',
-        subtitle:
-          'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
-        icon: 'building-o',
-      },
-      {
-        title: 'Chips Manufacturing',
-        subtitle:
-          'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
-        icon: 'microchip',
-      },
-    ],
   },
-
-  offers: {
-    title: 'What We Do',
-    data: [
-      {
-        title: 'Build',
-        tag: 'Discover More',
-        desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
-      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
-      recusandae magni. Lorem ipsum dolor, sit amet consectetur
-      adipisicing elit.`,
-        src: 'https://trium.ng/public/images/brooke-cagle.png',
-      },
-      {
-        title: 'Launch',
-        tag: 'Discover More',
-        desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
-      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
-      recusandae magni. Lorem ipsum dolor, sit amet consectetur
-      adipisicing elit.`,
-        src: 'https://trium.ng/public/images/section-2.png',
-      },
-      {
-        title: 'Scale',
-        tag: 'Discover More',
-        desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
-      ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
-      recusandae magni. Lorem ipsum dolor, sit amet consectetur
-      adipisicing elit.`,
-        src: 'https://trium.ng/public/images/section-3.png',
-      },
-    ],
-  },
+  services: [
+    {
+      title: 'Construction',
+      description:
+        'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
+      icon: 'building',
+      image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg',
+    },
+    {
+      title: 'Consultancy',
+      description:
+        'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
+      icon: 'building-o',
+      image:
+        'https://www.theabujatimes.com/wp-content/uploads/2019/09/Central-Bank-of-Nigeria-Lagos.jpg',
+    },
+    {
+      title: 'Chips Manufacturing',
+      description:
+        'We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.',
+      icon: 'microchip',
+      image:
+        'https://nigerianinfopedia.com.ng/wp-content/uploads/2020/05/cost-of-building-a-duplex-in-nigeria.jpeg',
+    },
+  ],
 
   teams: {
     title: 'Our Team',
     subtitle: 'Exceptional Talent',
-    desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    description: `Lorem ipsum, dolor sit amet consectetur adipisicing elit
     ea vitae eius saepe minima cupidie!Sit nesciunt commodi
     recusandae magni. Lorem ipsum dolor, sit amet consectetur
     adipisicing elit.`,
-    src: 'https://trium.ng/public/images/linkedin-sales.png',
+    image:
+      'https://res.cloudinary.com/worksfair/image/upload/v1595321338/static/re9jfjnwa8dhn8dsnrti.png',
     linkdesc: 'Join Our Team',
-  },
-
-  quote: {
-    text: `"We help Africa's most innovative tech startups grow quickly."`,
   },
 
   features: {
@@ -274,7 +244,7 @@ export const website = {
     {
       image:
         'https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg',
-      title: '',
+      title: 'Ideosynergy',
       description: `A platform that enables collaboration amongst businesses and works`,
       url: 'http://www.worksfair.com',
       callToAction: 'Visit Website',
@@ -282,7 +252,7 @@ export const website = {
     {
       image:
         'https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png',
-      title: '',
+      title: 'Worksfair.com',
       description: `A platform for growing businesses and skilled professionals.`,
       url: 'http://www.worksfair.com',
       callToAction: 'Visit Website',
@@ -290,7 +260,7 @@ export const website = {
     {
       image:
         'https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg',
-      title: '',
+      title: 'Imagination.ng',
       description: `A platform for searching for works that interests you`,
       url: 'http://www.worksfair.com',
       callToAction: 'Visit Website',
