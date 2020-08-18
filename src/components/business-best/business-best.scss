@@ -1,5 +1,24 @@
 @import '../../css/base.scss';
 
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  object-fit: cover;
+}
+
+.columns.is-centered {
+  justify-content: unset;
+}
+
+@media screen and (min-width: 769px) {
+  .columns.is-centered {
+    justify-content: center;
+  }
+}
+
+
 input[name='carousel'] {
   display: none;
 }
@@ -56,15 +75,9 @@ input[name='carousel'] {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: calc(100vh - 150px);
-  min-height: 700px;
+  height: calc(100% - 150px);
+  // min-height: 700px;
   opacity: 0.90;
-}
-
-.carousel-item .container {
-  position: relative;
-  top: 45%;
-  opacity: 1;
 }
 
 #carousel-1:checked ~ .carousel-nav label[for='carousel-1'] {
@@ -112,6 +125,10 @@ input[name='carousel'] {
   margin-left: -400%;
 }
 
+.hero.is-large .hero-body {
+  padding: 18rem 1.5rem;
+}
+
 .splash a.button.is-outlined.is-rounded.is-medium {
   color: #fff;
   padding: 1.25em 2em;
@@ -119,15 +136,6 @@ input[name='carousel'] {
   border-width: 2px;
 }
 
-.animate-fadeUp {
-  -webkit-animation: fadeIn 2s, translate-up 1s;
-  animation: fadeIn 2s, translate-up 1s;
-}
-
-.animate-fadeDown {
-  -webkit-animation: fadeIn 2s, translate-down 0.75s;
-  animation: fadeIn 2s, translate-down 0.75s;
-}
 
 section.services .service-item {
   padding: 30px;
@@ -148,15 +156,14 @@ section.services .service-item:hover {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid;
 }
 
-h1.title {
+h3.title {
   position: relative;
   padding-bottom: 20px;
 }
 
-h1.title:before {
+h3.title:before {
   bottom: 0;
   position: absolute;
   content: '';
@@ -170,53 +177,10 @@ h1.title:before {
 
 @each $name, $pair in $colors {
   $color: nth($pair, 1);
-  section.services .service-item:hover.border-color-#{$name} {
-    border-color: $color;
-  }
-  h1.title.has-bottomline-#{$name}:before {
+  h3.title.has-bottomline-#{$name}:before {
     background: $color;
   }
 }
-
-.section.testimonials .testimonial-block img.avatar {
-  margin: 2.5rem auto 2rem;
-  max-width: 96px;
-  height: auto;
-  border-radius: 100px;
-}
-
-@media screen and (min-width: 769px) {
-  .section.testimonials .testimonial-block img.avatar {
-    margin: 4rem auto 2rem;
-  }
-}
-
-.section.testimonials .testimonial-block p.quote {
-  font-size: 20px;
-  font-family: 'eurostile', sans-serif;
-  font-weight: 300;
-  max-width: 700px;
-  margin: 0 auto 2.5rem;
-}
-
-@media screen and (min-width: 769px) {
-  .section.testimonials .testimonial-block p.quote {
-    font-size: 25px;
-  }
-}
-
-ul.quick-links a {
-  color: inherit;
-}
-
-ul.quick-links a:hover {
-  color: initial;
-}
-
-section.about div.is-child {
-  max-width: 600px;
-}
-
 
 .projects .button.is-primary.is-outlined.is-medium {
   padding: 1.25em 2em;
@@ -238,7 +202,7 @@ section.about div.is-child {
 .projects .project-grid figure {
   position: relative;
   overflow: hidden;
-  border-radius: 12px;
+  border-radius: 2px;
 }
 
 .projects .project-grid figure img.project-thumb {
@@ -273,12 +237,6 @@ section.about div.is-child {
 
 .projects .project-grid figure figcaption .tags span.tag {
   font-weight: 600;
-}
-
-.projects .project-grid figure figcaption h1.title {
-  color: #fff;
-  margin-bottom: 1.8rem;
-  font-weight: 500;
 }
 
 .projects
@@ -336,49 +294,56 @@ section.about div.is-child {
   opacity: 1;
 }
 
-footer .social-icons {
-  margin: 0 auto 3rem;
+
+.section.testimonials .testimonial-block {
+  margin-bottom: 2rem;
+}
+
+.section.testimonials .testimonial-block img.avatar {
+  max-width: 96px;
+  height: auto;
+  border-radius: 100px;
+}
+
+.section.testimonials .testimonial-block p.quote {
+  font-size: 18px;
+  font-weight: 300;
+  max-width: 700px;
+  margin: 1.2rem auto 2.5rem;
 }
 
 @media screen and (min-width: 769px) {
-  footer .social-icons {
-    margin: 0 auto 3.5rem;
+  .section.testimonials .testimonial-block p.quote {
+    font-size: 21px;
   }
 }
 
-footer .social-icons a.button {
+.animate-fadeUp {
+  -webkit-animation: fadeIn 2s, translate-up 1s;
+  animation: fadeIn 2s, translate-up 1s;
+}
+
+.animate-fadeDown {
+  -webkit-animation: fadeIn 2s, translate-down 0.75s;
+  animation: fadeIn 2s, translate-down 0.75s;
+}
+
+.section.call-to-action .button.is-rounded.is-medium {
   color: white;
-  border-radius: 100%;
-  margin: 0 0.2rem;
-  height: 47px;
-  width: 47px;
-}
-
-@media screen and (min-width: 769px) {
-  footer .social-icons a.button {
-    margin: 0 0.8rem;
-  }
-}
-
-footer .social-icons a.button.is-medium {
-  font-size: 1.05rem;
-}
-
-@media screen and (min-width: 769px) {
-  footer .social-icons a.button.is-medium {
-    font-size: 1.18rem;
-  }
-}
-
-footer .social-icons a.button .icon.is-small {
-  height: 1.4em;
-  width: 1.4em;
-}
-
-footer .social-icons a.button:hover {
-  background: white;
-  color: #141c3a;
+  padding: 1.25em 2em;
+  font-weight: 400;
+  border-width: 2px;
   border: 2px solid white;
+}
+
+.section.call-to-action .button.is-rounded.is-medium:hover {
+  color: #333;
+  background-color: white;
+}
+
+footer ul li a {
+  color: inherit;
+  text-decoration: underline;
 }
 
 footer .has-website-name {

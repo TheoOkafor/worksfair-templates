@@ -29,4 +29,14 @@ export const templates = [
       name: 'Brenda Chukwuma',
     },
   },
+  {
+    image:
+      'https://res.cloudinary.com/worksfair/image/upload/v1594899830/static/g68mhexjz0i9viwwsxpp.png',
+    title: 'Business Best Template',
+    name: 'business-best',
+    contributor: {
+      url: 'https://github.com/TheoOkafor',
+      name: 'Theo Okafor',
+    },
+  },
 ];

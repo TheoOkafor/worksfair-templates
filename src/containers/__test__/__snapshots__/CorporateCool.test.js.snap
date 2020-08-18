@@ -191,13 +191,19 @@ Object {
             <h1
               class="title is-spaced has-bottomline-gold is-uppercase"
             >
-              About Us
+              About us
             </h1>
             <h2
               class="subtitle"
             >
               Get to know some things about us
             </h2>
+            <img
+              alt="about"
+              src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+              style="border-radius: 4px;"
+              width="50%"
+            />
           </div>
           <div
             class="tile is-ancestor"
@@ -212,47 +218,21 @@ Object {
                   Company History
                 </h2>
                 <p>
-                  A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started.
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
                 </p>
-              </div>
-              <div
-                class="tile is-child"
-              >
-                <img
-                  alt="imabong"
-                  src="https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg"
-                />
               </div>
             </div>
             <div
               class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
             >
               <div
-                class="tile is-child"
-              >
-                <img
-                  alt="imabong"
-                  src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
-                />
-              </div>
-              <div
                 class="tile is-child content"
               >
                 <h2>
-                  Company History
+                  20 years and Still counting
                 </h2>
                 <p>
-                   
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
                 </p>
               </div>
             </div>
@@ -999,13 +979,19 @@ Object {
           <h1
             class="title is-spaced has-bottomline-gold is-uppercase"
           >
-            About Us
+            About us
           </h1>
           <h2
             class="subtitle"
           >
             Get to know some things about us
           </h2>
+          <img
+            alt="about"
+            src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+            style="border-radius: 4px;"
+            width="50%"
+          />
         </div>
         <div
           class="tile is-ancestor"
@@ -1020,47 +1006,21 @@ Object {
                 Company History
               </h2>
               <p>
-                A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
               </p>
-            </div>
-            <div
-              class="tile is-child"
-            >
-              <img
-                alt="imabong"
-                src="https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg"
-              />
             </div>
           </div>
           <div
             class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
           >
             <div
-              class="tile is-child"
-            >
-              <img
-                alt="imabong"
-                src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
-              />
-            </div>
-            <div
               class="tile is-child content"
             >
               <h2>
-                Company History
+                20 years and Still counting
               </h2>
               <p>
-                 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
               </p>
             </div>
           </div>
@@ -1864,13 +1824,19 @@ Object {
             <h1
               class="title is-spaced has-bottomline-gold is-uppercase"
             >
-              About Us
+              About us
             </h1>
             <h2
               class="subtitle"
             >
               Get to know some things about us
             </h2>
+            <img
+              alt="about"
+              src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+              style="border-radius: 4px;"
+              width="50%"
+            />
           </div>
           <div
             class="tile is-ancestor"
@@ -1885,47 +1851,21 @@ Object {
                   Company History
                 </h2>
                 <p>
-                  A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started.
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
                 </p>
-              </div>
-              <div
-                class="tile is-child"
-              >
-                <img
-                  alt="imabong"
-                  src="https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg"
-                />
               </div>
             </div>
             <div
               class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
             >
               <div
-                class="tile is-child"
-              >
-                <img
-                  alt="imabong"
-                  src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
-                />
-              </div>
-              <div
                 class="tile is-child content"
               >
                 <h2>
-                  Company History
+                  20 years and Still counting
                 </h2>
                 <p>
-                   
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
                 </p>
               </div>
             </div>
@@ -2672,13 +2612,19 @@ Object {
           <h1
             class="title is-spaced has-bottomline-gold is-uppercase"
           >
-            About Us
+            About us
           </h1>
           <h2
             class="subtitle"
           >
             Get to know some things about us
           </h2>
+          <img
+            alt="about"
+            src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+            style="border-radius: 4px;"
+            width="50%"
+          />
         </div>
         <div
           class="tile is-ancestor"
@@ -2693,47 +2639,21 @@ Object {
                 Company History
               </h2>
               <p>
-                A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
               </p>
-            </div>
-            <div
-              class="tile is-child"
-            >
-              <img
-                alt="imabong"
-                src="https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg"
-              />
             </div>
           </div>
           <div
             class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
           >
             <div
-              class="tile is-child"
-            >
-              <img
-                alt="imabong"
-                src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
-              />
-            </div>
-            <div
               class="tile is-child content"
             >
               <h2>
-                Company History
+                20 years and Still counting
               </h2>
               <p>
-                 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
               </p>
             </div>
           </div>

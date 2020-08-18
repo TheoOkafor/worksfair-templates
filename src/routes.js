@@ -5,6 +5,7 @@ const PersonalPerfect = React.lazy(() =>
   );
 const CorporateCool = React.lazy(() => import("./containers/CorporateCool"));
 const Diamond = React.lazy(() => import("./containers/Diamond"));
+const BusinessBest = React.lazy(() => import("./containers/BusinessBest"));
 
 const routes = [
   {
@@ -18,7 +19,11 @@ const routes = [
   {
     route: '/diamond',
     component: Diamond,
-  }
+  },
+  {
+    route: '/business-best',
+    component: BusinessBest,
+  },
 ];
 
 export default routes;
