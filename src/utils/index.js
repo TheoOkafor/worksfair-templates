@@ -104,29 +104,14 @@ export const website = {
       I am a very hardworking person and I love what I do.`,
   },
   about: {
-    title: 'About Us',
+    title: 'About us',
+    enabled: true,
     subtitle: 'Get to know some things about us',
-    left: {
-      image:
-        'https://res.cloudinary.com/worksfair/image/upload/v1586789938/rifwxtkmpj3egnzi6fsj.jpg',
-      title: 'Company History',
-      content: `A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started.`,
-    },
-    right: {
-      image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg',
-      title: 'Company History',
-      content: ` 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      A bunch of stuff about how the company started. A bunch of stuff about how the company started. 
-      `,
-    },
+    descriptionTitle: 'Company History',
+    aboutDescription: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus`,
+    contentTitle: '20 years and Still counting',
+    aboutContent: `Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.`,
+    image: 'https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg',
   },
   servicesSettings: {
     title: 'What we do',
