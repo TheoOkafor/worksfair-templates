@@ -1,0 +1,3179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Diamond.js test that it renders correctly with the given data 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="has-font-undefined"
+      >
+        <header
+          class="navbar is-transparent container"
+        >
+          <div
+            class="hide"
+          >
+            <button
+              aria-label="toggle navigation"
+              class="nav-toggle has-text-gold"
+            >
+              <span
+                class="hamburger"
+              />
+            </button>
+            <nav
+              class="navv"
+            >
+              <ul
+                class="nav__list"
+              >
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="/diamond"
+                  >
+                    Home.
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#services"
+                  >
+                    What we do
+                    .
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#about"
+                  >
+                    About us
+                    .
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#features"
+                  >
+                    Recent Works
+                    .
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#team"
+                  >
+                    Our Team
+                    .
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div
+            class="navbar-brand"
+          >
+            <a
+              class="navbar-item"
+              href="/"
+            >
+              <h2
+                class="webpage-title is-size-4 has-text-black"
+              >
+                <strong>
+                  My Website
+                </strong>
+              </h2>
+            </a>
+          </div>
+        </header>
+        <section
+          class="hero is-transparent is-large"
+        >
+          <hr
+            class="nav-hr"
+          />
+          <div
+            class="columns"
+          >
+            <div
+              class="column is-6.5 banner-text"
+            >
+              <h1
+                class="banner-heading"
+              >
+                Lorem ipsum dolor sit amet consectetur
+              </h1>
+              <h2
+                class="banner-sub-heading"
+              >
+                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+              </h2>
+              <div>
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="#services"
+                >
+                  Discover Diamond
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+            <div
+              class="column"
+            >
+              <img
+                alt="Banner"
+                class="banner-img"
+                height="800"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1595273696/static/qmxvbhllmxlhjvpp3nby.jpg"
+                width="100%"
+              />
+            </div>
+          </div>
+        </section>
+        <section
+          class="section is-medium"
+          id="about"
+        >
+          <div
+            class="container is-transparent is-large section-about"
+          >
+            <div
+              class="columns about-us"
+            >
+              <div
+                class="column is-7 "
+              >
+                <h6
+                  class="about-heading"
+                >
+                  About us
+                </h6>
+                <p
+                  class="about-paragraph is-size-3-desktop is-size-5-mobile"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+                </p>
+              </div>
+              <div
+                class="column"
+              >
+                <h2
+                  class="about-head"
+                >
+                  Get to know some things about us
+                </h2>
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+                </p>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="#services"
+                  >
+                    More About Diamond
+                  </a>
+                  <hr
+                    class="hr-link"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section is-medium offers"
+          id="services"
+        >
+          <div
+            class="container "
+          >
+            <h6
+              class="about-head"
+            >
+              What we do
+            </h6>
+            <hr
+              class="offers-hr"
+            />
+            <div
+              class="is-centered"
+            >
+              <div>
+                <div
+                  class="columns"
+                  style="justify-content: center;"
+                >
+                  <div
+                    class="column is-4 title-area"
+                  >
+                    <h1
+                      class="title-heading"
+                    >
+                      Construction
+                    </h1>
+                    <div>
+                      <a
+                        class="mt-3 has-text-gold has-text-weight-bold"
+                        href="#services"
+                        style="display: flex;"
+                      >
+                        <span
+                          class="mr-1"
+                        >
+                          Discover More
+                        </span>
+                        <svg
+                          style="width: 25px; height: 25px;"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="column is-8 desc-area"
+                  >
+                    <p
+                      class="about-para"
+                    >
+                      We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                    </p>
+                  </div>
+                </div>
+                <img
+                  alt="service"
+                  class="service-img"
+                  src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+                  width="100%"
+                />
+              </div>
+              <div>
+                <div
+                  class="columns"
+                  style="justify-content: center;"
+                >
+                  <div
+                    class="column is-4 title-area"
+                  >
+                    <h1
+                      class="title-heading"
+                    >
+                      Consultancy
+                    </h1>
+                    <div>
+                      <a
+                        class="mt-3 has-text-gold has-text-weight-bold"
+                        href="#services"
+                        style="display: flex;"
+                      >
+                        <span
+                          class="mr-1"
+                        >
+                          Discover More
+                        </span>
+                        <svg
+                          style="width: 25px; height: 25px;"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="column is-8 desc-area"
+                  >
+                    <p
+                      class="about-para"
+                    >
+                      We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                    </p>
+                  </div>
+                </div>
+                <img
+                  alt="service"
+                  class="service-img"
+                  src="https://www.theabujatimes.com/wp-content/uploads/2019/09/Central-Bank-of-Nigeria-Lagos.jpg"
+                  width="100%"
+                />
+              </div>
+              <div>
+                <div
+                  class="columns"
+                  style="justify-content: center;"
+                >
+                  <div
+                    class="column is-4 title-area"
+                  >
+                    <h1
+                      class="title-heading"
+                    >
+                      Chips Manufacturing
+                    </h1>
+                    <div>
+                      <a
+                        class="mt-3 has-text-gold has-text-weight-bold"
+                        href="#services"
+                        style="display: flex;"
+                      >
+                        <span
+                          class="mr-1"
+                        >
+                          Discover More
+                        </span>
+                        <svg
+                          style="width: 25px; height: 25px;"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="column is-8 desc-area"
+                  >
+                    <p
+                      class="about-para"
+                    >
+                      We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                    </p>
+                  </div>
+                </div>
+                <img
+                  alt="service"
+                  class="service-img"
+                  src="https://nigerianinfopedia.com.ng/wp-content/uploads/2020/05/cost-of-building-a-duplex-in-nigeria.jpeg"
+                  width="100%"
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section features is-medium"
+          id="features"
+        >
+          <div
+            class="slider is-full-width"
+          >
+            <input
+              checked=""
+              id="carousel-1"
+              name="carousel"
+              type="radio"
+            />
+            <input
+              id="carousel-2"
+              name="carousel"
+              type="radio"
+            />
+            <input
+              id="carousel-3"
+              name="carousel"
+              type="radio"
+            />
+            <input
+              id="carousel-2"
+              name="carousel"
+              type="radio"
+            />
+            <div
+              class="carousel-slides"
+            >
+              <div
+                class="carousel-inner"
+              >
+                <div
+                  class="carousel-item"
+                >
+                  <div
+                    class="container feat features-head"
+                  >
+                    <h6
+                      class="about-head has-text-light"
+                    >
+                      Recent Works
+                    </h6>
+                    <hr
+                      class="offers-hr"
+                    />
+                  </div>
+                  <div
+                    class="container feat feat-main"
+                  >
+                    <h2
+                      class="title-heading has-text-grey-lighter"
+                    >
+                      Ideosynergy
+                    </h2>
+                    <p
+                      class="about-para feat-para has-text-grey-light"
+                    >
+                      A platform that enables collaboration amongst businesses and works
+                    </p>
+                  </div>
+                  <div
+                    class="container feat feat-bottom"
+                  >
+                    <a
+                      class="has-text-gold has-text-weight-bold is-uppercase"
+                      href="http://www.worksfair.com"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      About 
+                      Ideosynergy
+                    </a>
+                    <hr
+                      class="feat-link has-background-grey"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="carousel-item"
+                >
+                  <div
+                    class="container feat features-head"
+                  >
+                    <h6
+                      class="about-head has-text-light"
+                    >
+                      Recent Works
+                    </h6>
+                    <hr
+                      class="offers-hr"
+                    />
+                  </div>
+                  <div
+                    class="container feat feat-main"
+                  >
+                    <h2
+                      class="title-heading has-text-grey-lighter"
+                    >
+                      Worksfair.com
+                    </h2>
+                    <p
+                      class="about-para feat-para has-text-grey-light"
+                    >
+                      A platform for growing businesses and skilled professionals.
+                    </p>
+                  </div>
+                  <div
+                    class="container feat feat-bottom"
+                  >
+                    <a
+                      class="has-text-gold has-text-weight-bold is-uppercase"
+                      href="http://www.worksfair.com"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      About 
+                      Worksfair.com
+                    </a>
+                    <hr
+                      class="feat-link has-background-grey"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="carousel-item"
+                >
+                  <div
+                    class="container feat features-head"
+                  >
+                    <h6
+                      class="about-head has-text-light"
+                    >
+                      Recent Works
+                    </h6>
+                    <hr
+                      class="offers-hr"
+                    />
+                  </div>
+                  <div
+                    class="container feat feat-main"
+                  >
+                    <h2
+                      class="title-heading has-text-grey-lighter"
+                    >
+                      Imagination.ng
+                    </h2>
+                    <p
+                      class="about-para feat-para has-text-grey-light"
+                    >
+                      A platform for searching for works that interests you
+                    </p>
+                  </div>
+                  <div
+                    class="container feat feat-bottom"
+                  >
+                    <a
+                      class="has-text-gold has-text-weight-bold is-uppercase"
+                      href="http://www.worksfair.com"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      About 
+                      Imagination.ng
+                    </a>
+                    <hr
+                      class="feat-link has-background-grey"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="carousel-nav"
+            >
+              <label
+                class="has-background-gold"
+                for="carousel-1"
+              />
+              <label
+                class="has-background-gold"
+                for="carousel-2"
+              />
+              <label
+                class="has-background-gold"
+                for="carousel-3"
+              />
+            </div>
+          </div>
+        </section>
+        <section
+          class="section is-medium offers "
+          id="team"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class=" columns"
+            >
+              <div
+                class="margin-bottom-50 has-text-centered column is-6"
+              >
+                <img
+                  alt=""
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1595321338/static/re9jfjnwa8dhn8dsnrti.png"
+                />
+              </div>
+              <div
+                class="column margin-left-50"
+              >
+                <h6
+                  class="title is-spaced about-head"
+                >
+                  Our Team
+                </h6>
+                <h2
+                  class="subtitle"
+                >
+                  Exceptional Talent
+                </h2>
+                <p
+                  class="is-size-5 has-text-grey"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+                </p>
+                <div
+                  class="margin-top-70"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Join Our Team
+                  </a>
+                  <hr
+                    class="hr-link"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section"
+        >
+          <div
+            class="container"
+          >
+            <h1
+              class="has-font-verdana quote"
+            >
+              "
+              Keep moving forward...
+              "
+            </h1>
+          </div>
+        </section>
+        <footer
+          class="section is-full-width is-black"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="content has-text-centered"
+            >
+              <h1
+                class="title has-text-grey-light is-size-4-touch mb-5"
+              >
+                My Website
+              </h1>
+              <p
+                class="mb-5"
+              >
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    twitter
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    github
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    linkedin
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    facebook
+                     
+                  </span>
+                </a>
+              </p>
+            </div>
+            <div
+              class="copyright has-text-grey-light has-text-centered"
+            >
+              Built with
+               
+              <a
+                href="http://www.worksfair.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                worksfair.com
+              </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="has-font-undefined"
+    >
+      <header
+        class="navbar is-transparent container"
+      >
+        <div
+          class="hide"
+        >
+          <button
+            aria-label="toggle navigation"
+            class="nav-toggle has-text-gold"
+          >
+            <span
+              class="hamburger"
+            />
+          </button>
+          <nav
+            class="navv"
+          >
+            <ul
+              class="nav__list"
+            >
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/diamond"
+                >
+                  Home.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#services"
+                >
+                  What we do
+                  .
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#about"
+                >
+                  About us
+                  .
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#features"
+                >
+                  Recent Works
+                  .
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#team"
+                >
+                  Our Team
+                  .
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div
+          class="navbar-brand"
+        >
+          <a
+            class="navbar-item"
+            href="/"
+          >
+            <h2
+              class="webpage-title is-size-4 has-text-black"
+            >
+              <strong>
+                My Website
+              </strong>
+            </h2>
+          </a>
+        </div>
+      </header>
+      <section
+        class="hero is-transparent is-large"
+      >
+        <hr
+          class="nav-hr"
+        />
+        <div
+          class="columns"
+        >
+          <div
+            class="column is-6.5 banner-text"
+          >
+            <h1
+              class="banner-heading"
+            >
+              Lorem ipsum dolor sit amet consectetur
+            </h1>
+            <h2
+              class="banner-sub-heading"
+            >
+               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+            </h2>
+            <div>
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="#services"
+              >
+                Discover Diamond
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+          <div
+            class="column"
+          >
+            <img
+              alt="Banner"
+              class="banner-img"
+              height="800"
+              src="https://res.cloudinary.com/worksfair/image/upload/v1595273696/static/qmxvbhllmxlhjvpp3nby.jpg"
+              width="100%"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium"
+        id="about"
+      >
+        <div
+          class="container is-transparent is-large section-about"
+        >
+          <div
+            class="columns about-us"
+          >
+            <div
+              class="column is-7 "
+            >
+              <h6
+                class="about-heading"
+              >
+                About us
+              </h6>
+              <p
+                class="about-paragraph is-size-3-desktop is-size-5-mobile"
+              >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+              </p>
+            </div>
+            <div
+              class="column"
+            >
+              <h2
+                class="about-head"
+              >
+                Get to know some things about us
+              </h2>
+              <p
+                class="about-para"
+              >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+              </p>
+              <div>
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="#services"
+                >
+                  More About Diamond
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium offers"
+        id="services"
+      >
+        <div
+          class="container "
+        >
+          <h6
+            class="about-head"
+          >
+            What we do
+          </h6>
+          <hr
+            class="offers-hr"
+          />
+          <div
+            class="is-centered"
+          >
+            <div>
+              <div
+                class="columns"
+                style="justify-content: center;"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Construction
+                  </h1>
+                  <div>
+                    <a
+                      class="mt-3 has-text-gold has-text-weight-bold"
+                      href="#services"
+                      style="display: flex;"
+                    >
+                      <span
+                        class="mr-1"
+                      >
+                        Discover More
+                      </span>
+                      <svg
+                        style="width: 25px; height: 25px;"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+                width="100%"
+              />
+            </div>
+            <div>
+              <div
+                class="columns"
+                style="justify-content: center;"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Consultancy
+                  </h1>
+                  <div>
+                    <a
+                      class="mt-3 has-text-gold has-text-weight-bold"
+                      href="#services"
+                      style="display: flex;"
+                    >
+                      <span
+                        class="mr-1"
+                      >
+                        Discover More
+                      </span>
+                      <svg
+                        style="width: 25px; height: 25px;"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://www.theabujatimes.com/wp-content/uploads/2019/09/Central-Bank-of-Nigeria-Lagos.jpg"
+                width="100%"
+              />
+            </div>
+            <div>
+              <div
+                class="columns"
+                style="justify-content: center;"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Chips Manufacturing
+                  </h1>
+                  <div>
+                    <a
+                      class="mt-3 has-text-gold has-text-weight-bold"
+                      href="#services"
+                      style="display: flex;"
+                    >
+                      <span
+                        class="mr-1"
+                      >
+                        Discover More
+                      </span>
+                      <svg
+                        style="width: 25px; height: 25px;"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://nigerianinfopedia.com.ng/wp-content/uploads/2020/05/cost-of-building-a-duplex-in-nigeria.jpeg"
+                width="100%"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section features is-medium"
+        id="features"
+      >
+        <div
+          class="slider is-full-width"
+        >
+          <input
+            checked=""
+            id="carousel-1"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-3"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <div
+            class="carousel-slides"
+          >
+            <div
+              class="carousel-inner"
+            >
+              <div
+                class="carousel-item"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head has-text-light"
+                  >
+                    Recent Works
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading has-text-grey-lighter"
+                  >
+                    Ideosynergy
+                  </h2>
+                  <p
+                    class="about-para feat-para has-text-grey-light"
+                  >
+                    A platform that enables collaboration amongst businesses and works
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold is-uppercase"
+                    href="http://www.worksfair.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    About 
+                    Ideosynergy
+                  </a>
+                  <hr
+                    class="feat-link has-background-grey"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head has-text-light"
+                  >
+                    Recent Works
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading has-text-grey-lighter"
+                  >
+                    Worksfair.com
+                  </h2>
+                  <p
+                    class="about-para feat-para has-text-grey-light"
+                  >
+                    A platform for growing businesses and skilled professionals.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold is-uppercase"
+                    href="http://www.worksfair.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    About 
+                    Worksfair.com
+                  </a>
+                  <hr
+                    class="feat-link has-background-grey"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head has-text-light"
+                  >
+                    Recent Works
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading has-text-grey-lighter"
+                  >
+                    Imagination.ng
+                  </h2>
+                  <p
+                    class="about-para feat-para has-text-grey-light"
+                  >
+                    A platform for searching for works that interests you
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold is-uppercase"
+                    href="http://www.worksfair.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    About 
+                    Imagination.ng
+                  </a>
+                  <hr
+                    class="feat-link has-background-grey"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-nav"
+          >
+            <label
+              class="has-background-gold"
+              for="carousel-1"
+            />
+            <label
+              class="has-background-gold"
+              for="carousel-2"
+            />
+            <label
+              class="has-background-gold"
+              for="carousel-3"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium offers "
+        id="team"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class=" columns"
+          >
+            <div
+              class="margin-bottom-50 has-text-centered column is-6"
+            >
+              <img
+                alt=""
+                src="https://res.cloudinary.com/worksfair/image/upload/v1595321338/static/re9jfjnwa8dhn8dsnrti.png"
+              />
+            </div>
+            <div
+              class="column margin-left-50"
+            >
+              <h6
+                class="title is-spaced about-head"
+              >
+                Our Team
+              </h6>
+              <h2
+                class="subtitle"
+              >
+                Exceptional Talent
+              </h2>
+              <p
+                class="is-size-5 has-text-grey"
+              >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+              </p>
+              <div
+                class="margin-top-70"
+              >
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="/#"
+                >
+                  Join Our Team
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section"
+      >
+        <div
+          class="container"
+        >
+          <h1
+            class="has-font-verdana quote"
+          >
+            "
+            Keep moving forward...
+            "
+          </h1>
+        </div>
+      </section>
+      <footer
+        class="section is-full-width is-black"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <div
+            class="content has-text-centered"
+          >
+            <h1
+              class="title has-text-grey-light is-size-4-touch mb-5"
+            >
+              My Website
+            </h1>
+            <p
+              class="mb-5"
+            >
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  twitter
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  github
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  linkedin
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  facebook
+                   
+                </span>
+              </a>
+            </p>
+          </div>
+          <div
+            class="copyright has-text-grey-light has-text-centered"
+          >
+            Built with
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Diamond.js test that it renders correctly without some sections 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="has-font-undefined"
+      >
+        <header
+          class="navbar is-transparent container"
+        >
+          <div
+            class="hide"
+          >
+            <button
+              aria-label="toggle navigation"
+              class="nav-toggle has-text-gold"
+            >
+              <span
+                class="hamburger"
+              />
+            </button>
+            <nav
+              class="navv"
+            >
+              <ul
+                class="nav__list"
+              >
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="/diamond"
+                  >
+                    Home.
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#services"
+                  >
+                    What we do
+                    .
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#about"
+                  >
+                    About us
+                    .
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#features"
+                  >
+                    Recent Works
+                    .
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="#team"
+                  >
+                    Our Team
+                    .
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div
+            class="navbar-brand"
+          >
+            <a
+              class="navbar-item"
+              href="/"
+            >
+              <h2
+                class="webpage-title is-size-4 has-text-black"
+              >
+                <strong>
+                  My Website
+                </strong>
+              </h2>
+            </a>
+          </div>
+        </header>
+        <section
+          class="hero is-transparent is-large"
+        >
+          <hr
+            class="nav-hr"
+          />
+          <div
+            class="columns"
+          >
+            <div
+              class="column is-6.5 banner-text"
+            >
+              <h1
+                class="banner-heading"
+              >
+                Lorem ipsum dolor sit amet consectetur
+              </h1>
+              <h2
+                class="banner-sub-heading"
+              >
+                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+              </h2>
+              <div>
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="#services"
+                >
+                  Discover Diamond
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+            <div
+              class="column"
+            >
+              <img
+                alt="Banner"
+                class="banner-img"
+                height="800"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1595273696/static/qmxvbhllmxlhjvpp3nby.jpg"
+                width="100%"
+              />
+            </div>
+          </div>
+        </section>
+        <section
+          class="section is-medium"
+          id="about"
+        >
+          <div
+            class="container is-transparent is-large section-about"
+          >
+            <div
+              class="columns about-us"
+            >
+              <div
+                class="column is-7 "
+              >
+                <h6
+                  class="about-heading"
+                >
+                  About us
+                </h6>
+                <p
+                  class="about-paragraph is-size-3-desktop is-size-5-mobile"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+                </p>
+              </div>
+              <div
+                class="column"
+              >
+                <h2
+                  class="about-head"
+                >
+                  Get to know some things about us
+                </h2>
+                <p
+                  class="about-para"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+                </p>
+                <div>
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="#services"
+                  >
+                    More About Diamond
+                  </a>
+                  <hr
+                    class="hr-link"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section is-medium offers"
+          id="services"
+        >
+          <div
+            class="container "
+          >
+            <h6
+              class="about-head"
+            >
+              What we do
+            </h6>
+            <hr
+              class="offers-hr"
+            />
+            <div
+              class="is-centered"
+            >
+              <div>
+                <div
+                  class="columns"
+                  style="justify-content: center;"
+                >
+                  <div
+                    class="column is-4 title-area"
+                  >
+                    <h1
+                      class="title-heading"
+                    >
+                      Construction
+                    </h1>
+                    <div>
+                      <a
+                        class="mt-3 has-text-gold has-text-weight-bold"
+                        href="#services"
+                        style="display: flex;"
+                      >
+                        <span
+                          class="mr-1"
+                        >
+                          Discover More
+                        </span>
+                        <svg
+                          style="width: 25px; height: 25px;"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="column is-8 desc-area"
+                  >
+                    <p
+                      class="about-para"
+                    >
+                      We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                    </p>
+                  </div>
+                </div>
+                <img
+                  alt="service"
+                  class="service-img"
+                  src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+                  width="100%"
+                />
+              </div>
+              <div>
+                <div
+                  class="columns"
+                  style="justify-content: center;"
+                >
+                  <div
+                    class="column is-4 title-area"
+                  >
+                    <h1
+                      class="title-heading"
+                    >
+                      Consultancy
+                    </h1>
+                    <div>
+                      <a
+                        class="mt-3 has-text-gold has-text-weight-bold"
+                        href="#services"
+                        style="display: flex;"
+                      >
+                        <span
+                          class="mr-1"
+                        >
+                          Discover More
+                        </span>
+                        <svg
+                          style="width: 25px; height: 25px;"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="column is-8 desc-area"
+                  >
+                    <p
+                      class="about-para"
+                    >
+                      We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                    </p>
+                  </div>
+                </div>
+                <img
+                  alt="service"
+                  class="service-img"
+                  src="https://www.theabujatimes.com/wp-content/uploads/2019/09/Central-Bank-of-Nigeria-Lagos.jpg"
+                  width="100%"
+                />
+              </div>
+              <div>
+                <div
+                  class="columns"
+                  style="justify-content: center;"
+                >
+                  <div
+                    class="column is-4 title-area"
+                  >
+                    <h1
+                      class="title-heading"
+                    >
+                      Chips Manufacturing
+                    </h1>
+                    <div>
+                      <a
+                        class="mt-3 has-text-gold has-text-weight-bold"
+                        href="#services"
+                        style="display: flex;"
+                      >
+                        <span
+                          class="mr-1"
+                        >
+                          Discover More
+                        </span>
+                        <svg
+                          style="width: 25px; height: 25px;"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="column is-8 desc-area"
+                  >
+                    <p
+                      class="about-para"
+                    >
+                      We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                    </p>
+                  </div>
+                </div>
+                <img
+                  alt="service"
+                  class="service-img"
+                  src="https://nigerianinfopedia.com.ng/wp-content/uploads/2020/05/cost-of-building-a-duplex-in-nigeria.jpeg"
+                  width="100%"
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section features is-medium"
+          id="features"
+        >
+          <div
+            class="slider is-full-width"
+          >
+            <input
+              checked=""
+              id="carousel-1"
+              name="carousel"
+              type="radio"
+            />
+            <input
+              id="carousel-2"
+              name="carousel"
+              type="radio"
+            />
+            <input
+              id="carousel-3"
+              name="carousel"
+              type="radio"
+            />
+            <input
+              id="carousel-2"
+              name="carousel"
+              type="radio"
+            />
+            <div
+              class="carousel-slides"
+            >
+              <div
+                class="carousel-inner"
+              >
+                <div
+                  class="carousel-item"
+                >
+                  <div
+                    class="container feat features-head"
+                  >
+                    <h6
+                      class="about-head has-text-light"
+                    >
+                      Recent Works
+                    </h6>
+                    <hr
+                      class="offers-hr"
+                    />
+                  </div>
+                  <div
+                    class="container feat feat-main"
+                  >
+                    <h2
+                      class="title-heading has-text-grey-lighter"
+                    >
+                      Ideosynergy
+                    </h2>
+                    <p
+                      class="about-para feat-para has-text-grey-light"
+                    >
+                      A platform that enables collaboration amongst businesses and works
+                    </p>
+                  </div>
+                  <div
+                    class="container feat feat-bottom"
+                  >
+                    <a
+                      class="has-text-gold has-text-weight-bold is-uppercase"
+                      href="http://www.worksfair.com"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      About 
+                      Ideosynergy
+                    </a>
+                    <hr
+                      class="feat-link has-background-grey"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="carousel-item"
+                >
+                  <div
+                    class="container feat features-head"
+                  >
+                    <h6
+                      class="about-head has-text-light"
+                    >
+                      Recent Works
+                    </h6>
+                    <hr
+                      class="offers-hr"
+                    />
+                  </div>
+                  <div
+                    class="container feat feat-main"
+                  >
+                    <h2
+                      class="title-heading has-text-grey-lighter"
+                    >
+                      Worksfair.com
+                    </h2>
+                    <p
+                      class="about-para feat-para has-text-grey-light"
+                    >
+                      A platform for growing businesses and skilled professionals.
+                    </p>
+                  </div>
+                  <div
+                    class="container feat feat-bottom"
+                  >
+                    <a
+                      class="has-text-gold has-text-weight-bold is-uppercase"
+                      href="http://www.worksfair.com"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      About 
+                      Worksfair.com
+                    </a>
+                    <hr
+                      class="feat-link has-background-grey"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="carousel-item"
+                >
+                  <div
+                    class="container feat features-head"
+                  >
+                    <h6
+                      class="about-head has-text-light"
+                    >
+                      Recent Works
+                    </h6>
+                    <hr
+                      class="offers-hr"
+                    />
+                  </div>
+                  <div
+                    class="container feat feat-main"
+                  >
+                    <h2
+                      class="title-heading has-text-grey-lighter"
+                    >
+                      Imagination.ng
+                    </h2>
+                    <p
+                      class="about-para feat-para has-text-grey-light"
+                    >
+                      A platform for searching for works that interests you
+                    </p>
+                  </div>
+                  <div
+                    class="container feat feat-bottom"
+                  >
+                    <a
+                      class="has-text-gold has-text-weight-bold is-uppercase"
+                      href="http://www.worksfair.com"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      About 
+                      Imagination.ng
+                    </a>
+                    <hr
+                      class="feat-link has-background-grey"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="carousel-nav"
+            >
+              <label
+                class="has-background-gold"
+                for="carousel-1"
+              />
+              <label
+                class="has-background-gold"
+                for="carousel-2"
+              />
+              <label
+                class="has-background-gold"
+                for="carousel-3"
+              />
+            </div>
+          </div>
+        </section>
+        <section
+          class="section is-medium offers "
+          id="team"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class=" columns"
+            >
+              <div
+                class="margin-bottom-50 has-text-centered column is-6"
+              >
+                <img
+                  alt=""
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1595321338/static/re9jfjnwa8dhn8dsnrti.png"
+                />
+              </div>
+              <div
+                class="column margin-left-50"
+              >
+                <h6
+                  class="title is-spaced about-head"
+                >
+                  Our Team
+                </h6>
+                <h2
+                  class="subtitle"
+                >
+                  Exceptional Talent
+                </h2>
+                <p
+                  class="is-size-5 has-text-grey"
+                >
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+                </p>
+                <div
+                  class="margin-top-70"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold"
+                    href="/#"
+                  >
+                    Join Our Team
+                  </a>
+                  <hr
+                    class="hr-link"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section"
+        >
+          <div
+            class="container"
+          >
+            <h1
+              class="has-font-verdana quote"
+            >
+              "
+              Keep moving forward...
+              "
+            </h1>
+          </div>
+        </section>
+        <footer
+          class="section is-full-width is-black"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="content has-text-centered"
+            >
+              <h1
+                class="title has-text-grey-light is-size-4-touch mb-5"
+              >
+                My Website
+              </h1>
+              <p
+                class="mb-5"
+              >
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    twitter
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    github
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    linkedin
+                     
+                  </span>
+                </a>
+                <a
+                  class="footer-link is-medium has-text-light"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                   
+                  <span
+                    class="social-name"
+                  >
+                     
+                    facebook
+                     
+                  </span>
+                </a>
+              </p>
+            </div>
+            <div
+              class="copyright has-text-grey-light has-text-centered"
+            >
+              Built with
+               
+              <a
+                href="http://www.worksfair.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                worksfair.com
+              </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="has-font-undefined"
+    >
+      <header
+        class="navbar is-transparent container"
+      >
+        <div
+          class="hide"
+        >
+          <button
+            aria-label="toggle navigation"
+            class="nav-toggle has-text-gold"
+          >
+            <span
+              class="hamburger"
+            />
+          </button>
+          <nav
+            class="navv"
+          >
+            <ul
+              class="nav__list"
+            >
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/diamond"
+                >
+                  Home.
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#services"
+                >
+                  What we do
+                  .
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#about"
+                >
+                  About us
+                  .
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#features"
+                >
+                  Recent Works
+                  .
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="#team"
+                >
+                  Our Team
+                  .
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div
+          class="navbar-brand"
+        >
+          <a
+            class="navbar-item"
+            href="/"
+          >
+            <h2
+              class="webpage-title is-size-4 has-text-black"
+            >
+              <strong>
+                My Website
+              </strong>
+            </h2>
+          </a>
+        </div>
+      </header>
+      <section
+        class="hero is-transparent is-large"
+      >
+        <hr
+          class="nav-hr"
+        />
+        <div
+          class="columns"
+        >
+          <div
+            class="column is-6.5 banner-text"
+          >
+            <h1
+              class="banner-heading"
+            >
+              Lorem ipsum dolor sit amet consectetur
+            </h1>
+            <h2
+              class="banner-sub-heading"
+            >
+               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+            </h2>
+            <div>
+              <a
+                class="has-text-gold has-text-weight-bold"
+                href="#services"
+              >
+                Discover Diamond
+              </a>
+              <hr
+                class="hr-link"
+              />
+            </div>
+          </div>
+          <div
+            class="column"
+          >
+            <img
+              alt="Banner"
+              class="banner-img"
+              height="800"
+              src="https://res.cloudinary.com/worksfair/image/upload/v1595273696/static/qmxvbhllmxlhjvpp3nby.jpg"
+              width="100%"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium"
+        id="about"
+      >
+        <div
+          class="container is-transparent is-large section-about"
+        >
+          <div
+            class="columns about-us"
+          >
+            <div
+              class="column is-7 "
+            >
+              <h6
+                class="about-heading"
+              >
+                About us
+              </h6>
+              <p
+                class="about-paragraph is-size-3-desktop is-size-5-mobile"
+              >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit. Possimus ullam doloribus deserunt officiis
+    blanditiis minus
+              </p>
+            </div>
+            <div
+              class="column"
+            >
+              <h2
+                class="about-head"
+              >
+                Get to know some things about us
+              </h2>
+              <p
+                class="about-para"
+              >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit
+  ea vitae eius saepe minima cupiditate!Sit nesciunt commodi
+  recusandae magni. Lorem ipsum dolor, sit amet consectetur
+  adipisicing elit.
+              </p>
+              <div>
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="#services"
+                >
+                  More About Diamond
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium offers"
+        id="services"
+      >
+        <div
+          class="container "
+        >
+          <h6
+            class="about-head"
+          >
+            What we do
+          </h6>
+          <hr
+            class="offers-hr"
+          />
+          <div
+            class="is-centered"
+          >
+            <div>
+              <div
+                class="columns"
+                style="justify-content: center;"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Construction
+                  </h1>
+                  <div>
+                    <a
+                      class="mt-3 has-text-gold has-text-weight-bold"
+                      href="#services"
+                      style="display: flex;"
+                    >
+                      <span
+                        class="mr-1"
+                      >
+                        Discover More
+                      </span>
+                      <svg
+                        style="width: 25px; height: 25px;"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+                width="100%"
+              />
+            </div>
+            <div>
+              <div
+                class="columns"
+                style="justify-content: center;"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Consultancy
+                  </h1>
+                  <div>
+                    <a
+                      class="mt-3 has-text-gold has-text-weight-bold"
+                      href="#services"
+                      style="display: flex;"
+                    >
+                      <span
+                        class="mr-1"
+                      >
+                        Discover More
+                      </span>
+                      <svg
+                        style="width: 25px; height: 25px;"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://www.theabujatimes.com/wp-content/uploads/2019/09/Central-Bank-of-Nigeria-Lagos.jpg"
+                width="100%"
+              />
+            </div>
+            <div>
+              <div
+                class="columns"
+                style="justify-content: center;"
+              >
+                <div
+                  class="column is-4 title-area"
+                >
+                  <h1
+                    class="title-heading"
+                  >
+                    Chips Manufacturing
+                  </h1>
+                  <div>
+                    <a
+                      class="mt-3 has-text-gold has-text-weight-bold"
+                      href="#services"
+                      style="display: flex;"
+                    >
+                      <span
+                        class="mr-1"
+                      >
+                        Discover More
+                      </span>
+                      <svg
+                        style="width: 25px; height: 25px;"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M6,13V11H14L10.5,7.5L11.92,6.08L17.84,12L11.92,17.92L10.5,16.5L14,13H6M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="column is-8 desc-area"
+                >
+                  <p
+                    class="about-para"
+                  >
+                    We build the best things. From skyscrapers to bungalows to huts. We build the 4th mainland bridge and the 3rd Niger bridge. Iconic stuff.
+                  </p>
+                </div>
+              </div>
+              <img
+                alt="service"
+                class="service-img"
+                src="https://nigerianinfopedia.com.ng/wp-content/uploads/2020/05/cost-of-building-a-duplex-in-nigeria.jpeg"
+                width="100%"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section features is-medium"
+        id="features"
+      >
+        <div
+          class="slider is-full-width"
+        >
+          <input
+            checked=""
+            id="carousel-1"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-3"
+            name="carousel"
+            type="radio"
+          />
+          <input
+            id="carousel-2"
+            name="carousel"
+            type="radio"
+          />
+          <div
+            class="carousel-slides"
+          >
+            <div
+              class="carousel-inner"
+            >
+              <div
+                class="carousel-item"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head has-text-light"
+                  >
+                    Recent Works
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading has-text-grey-lighter"
+                  >
+                    Ideosynergy
+                  </h2>
+                  <p
+                    class="about-para feat-para has-text-grey-light"
+                  >
+                    A platform that enables collaboration amongst businesses and works
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold is-uppercase"
+                    href="http://www.worksfair.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    About 
+                    Ideosynergy
+                  </a>
+                  <hr
+                    class="feat-link has-background-grey"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head has-text-light"
+                  >
+                    Recent Works
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading has-text-grey-lighter"
+                  >
+                    Worksfair.com
+                  </h2>
+                  <p
+                    class="about-para feat-para has-text-grey-light"
+                  >
+                    A platform for growing businesses and skilled professionals.
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold is-uppercase"
+                    href="http://www.worksfair.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    About 
+                    Worksfair.com
+                  </a>
+                  <hr
+                    class="feat-link has-background-grey"
+                  />
+                </div>
+              </div>
+              <div
+                class="carousel-item"
+              >
+                <div
+                  class="container feat features-head"
+                >
+                  <h6
+                    class="about-head has-text-light"
+                  >
+                    Recent Works
+                  </h6>
+                  <hr
+                    class="offers-hr"
+                  />
+                </div>
+                <div
+                  class="container feat feat-main"
+                >
+                  <h2
+                    class="title-heading has-text-grey-lighter"
+                  >
+                    Imagination.ng
+                  </h2>
+                  <p
+                    class="about-para feat-para has-text-grey-light"
+                  >
+                    A platform for searching for works that interests you
+                  </p>
+                </div>
+                <div
+                  class="container feat feat-bottom"
+                >
+                  <a
+                    class="has-text-gold has-text-weight-bold is-uppercase"
+                    href="http://www.worksfair.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    About 
+                    Imagination.ng
+                  </a>
+                  <hr
+                    class="feat-link has-background-grey"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-nav"
+          >
+            <label
+              class="has-background-gold"
+              for="carousel-1"
+            />
+            <label
+              class="has-background-gold"
+              for="carousel-2"
+            />
+            <label
+              class="has-background-gold"
+              for="carousel-3"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium offers "
+        id="team"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class=" columns"
+          >
+            <div
+              class="margin-bottom-50 has-text-centered column is-6"
+            >
+              <img
+                alt=""
+                src="https://res.cloudinary.com/worksfair/image/upload/v1595321338/static/re9jfjnwa8dhn8dsnrti.png"
+              />
+            </div>
+            <div
+              class="column margin-left-50"
+            >
+              <h6
+                class="title is-spaced about-head"
+              >
+                Our Team
+              </h6>
+              <h2
+                class="subtitle"
+              >
+                Exceptional Talent
+              </h2>
+              <p
+                class="is-size-5 has-text-grey"
+              >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit
+    ea vitae eius saepe minima cupidie!Sit nesciunt commodi
+    recusandae magni. Lorem ipsum dolor, sit amet consectetur
+    adipisicing elit.
+              </p>
+              <div
+                class="margin-top-70"
+              >
+                <a
+                  class="has-text-gold has-text-weight-bold"
+                  href="/#"
+                >
+                  Join Our Team
+                </a>
+                <hr
+                  class="hr-link"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section"
+      >
+        <div
+          class="container"
+        >
+          <h1
+            class="has-font-verdana quote"
+          >
+            "
+            Keep moving forward...
+            "
+          </h1>
+        </div>
+      </section>
+      <footer
+        class="section is-full-width is-black"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <div
+            class="content has-text-centered"
+          >
+            <h1
+              class="title has-text-grey-light is-size-4-touch mb-5"
+            >
+              My Website
+            </h1>
+            <p
+              class="mb-5"
+            >
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  twitter
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  github
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  linkedin
+                   
+                </span>
+              </a>
+              <a
+                class="footer-link is-medium has-text-light"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+                 
+                <span
+                  class="social-name"
+                >
+                   
+                  facebook
+                   
+                </span>
+              </a>
+            </p>
+          </div>
+          <div
+            class="copyright has-text-grey-light has-text-centered"
+          >
+            Built with
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

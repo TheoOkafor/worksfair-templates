@@ -1,0 +1,3267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CorporateCool.js test that it renders correctly with the given data 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="navbar is-gold"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="navbar-brand"
+          >
+            <a
+              class="navbar-item"
+              href="#home"
+            >
+              <h2
+                class="is-size-4"
+              >
+                <strong>
+                  My Website
+                </strong>
+              </h2>
+            </a>
+            <span
+              class="navbar-burger burger"
+              data-target="navbarMenuHeroB"
+            >
+              <span />
+              <span />
+              <span />
+            </span>
+          </div>
+          <div
+            class="navbar-menu "
+            id="navbarMenuHeroB"
+          >
+            <div
+              class="navbar-end"
+            >
+              <a
+                class="navbar-item is-active"
+                href="/"
+              >
+                Home
+              </a>
+              <a
+                class="navbar-item"
+                href="#services"
+              >
+                Services
+              </a>
+              <a
+                class="navbar-item"
+                href="#testimonials"
+              >
+                Testimonial
+              </a>
+              <span
+                class="navbar-item"
+              >
+                <a
+                  class="button is-gold is-inverted"
+                  href="#works"
+                >
+                  <span>
+                    Works
+                  </span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <section
+        class="slider"
+      >
+        <input
+          checked=""
+          id="carousel-1"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-3"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <div
+          class="carousel-slides"
+        >
+          <div
+            class="carousel-inner"
+          >
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
+              <div
+                class="container has-text-centered"
+              >
+                <p
+                  class="title is-uppercase"
+                >
+                  Building for the future
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We have been responsible for some of the best buildings commissioned in Nigeria
+                </p>
+              </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
+              <div
+                class="container has-text-centered"
+              >
+                <p
+                  class="title is-uppercase"
+                >
+                  With over 20 years of experience
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
+              </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
+              <div
+                class="container has-text-centered"
+              >
+                <p
+                  class="title is-uppercase"
+                >
+                  We put a roof on your head with a penny
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="carousel-nav"
+        >
+          <label
+            class="has-background-gold"
+            for="carousel-1"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-2"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-3"
+          />
+        </div>
+      </section>
+      <section
+        class="section about is-medium"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="margin-bottom-50 has-text-centered"
+          >
+            <h1
+              class="title is-spaced has-bottomline-gold is-uppercase"
+            >
+              About us
+            </h1>
+            <h2
+              class="subtitle"
+            >
+              Get to know some things about us
+            </h2>
+            <img
+              alt="about"
+              src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+              style="border-radius: 4px;"
+              width="50%"
+            />
+          </div>
+          <div
+            class="tile is-ancestor"
+          >
+            <div
+              class="tile is-parent is-vertical has-text-right has-text-centered-mobile"
+            >
+              <div
+                class="tile is-child content"
+              >
+                <h2>
+                  Company History
+                </h2>
+                <p>
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
+                </p>
+              </div>
+            </div>
+            <div
+              class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
+            >
+              <div
+                class="tile is-child content"
+              >
+                <h2>
+                  20 years and Still counting
+                </h2>
+                <p>
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium services"
+        id="services"
+      >
+        <div
+          class="container has-text-centered"
+        >
+          <div
+            class="margin-bottom-50"
+          >
+            <h1
+              class="title is-spaced has-bottomline-gold is-uppercase"
+            >
+              What we do
+            </h1>
+            <h2
+              class="subtitle"
+            >
+              Some of the things we offer
+            </h2>
+          </div>
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="service-item animate-fadeUp border-color-gold"
+              >
+                <span
+                  class="icon has-text-gold"
+                >
+                  <i
+                    class="mdi mdi-puzzle-edit-outline mdi-48px"
+                  />
+                </span>
+                <h3
+                  class="is-size-4 margin-top-bottom-15"
+                >
+                  Construction
+                </h3>
+                <p />
+              </div>
+            </div>
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="service-item animate-fadeUp border-color-gold"
+              >
+                <span
+                  class="icon has-text-gold"
+                >
+                  <i
+                    class="mdi mdi-puzzle-edit-outline mdi-48px"
+                  />
+                </span>
+                <h3
+                  class="is-size-4 margin-top-bottom-15"
+                >
+                  Consultancy
+                </h3>
+                <p />
+              </div>
+            </div>
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="service-item animate-fadeUp border-color-gold"
+              >
+                <span
+                  class="icon has-text-gold"
+                >
+                  <i
+                    class="mdi mdi-puzzle-edit-outline mdi-48px"
+                  />
+                </span>
+                <h3
+                  class="is-size-4 margin-top-bottom-15"
+                >
+                  Chips Manufacturing
+                </h3>
+                <p />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section projects has-text-centered"
+        id="works"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <h1
+            class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+          >
+            Recent Works
+          </h1>
+          <h2
+            class="subtitle is-size-5-desktop"
+          >
+            Here are a few design projects I've worked on recently.
+          </h2>
+          <div
+            class="project-grid"
+          >
+            <div
+              class="columns is-multiline is-mobile"
+            >
+              <div
+                class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                id="works"
+              >
+                <figure
+                  class="image is-3by2"
+                >
+                  <img
+                    alt="project icon"
+                    class="work"
+                    src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                  />
+                  <figcaption
+                    class="has-text-centered"
+                  >
+                    <h1
+                      class="title is-size-5 is-size-4-widescreen"
+                    >
+                      A platform that enables collaboration amongst businesses and works
+                    </h1>
+                    <a
+                      class="button is-gold-invert is-outlined is-rounded cto"
+                      href="http://www.worksfair.com/works/undefined"
+                      rel="noopener noreferrer"
+                      style="margin: 0px auto;"
+                      target="_blank"
+                    >
+                      <span>
+                        More details
+                      </span>
+                      <span
+                        class="icon"
+                      >
+                        <i
+                          class="fa fa-angle-right"
+                        />
+                      </span>
+                    </a>
+                  </figcaption>
+                  <div
+                    class="overlay has-background-gold"
+                  />
+                </figure>
+              </div>
+              <div
+                class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                id="works"
+              >
+                <figure
+                  class="image is-3by2"
+                >
+                  <img
+                    alt="project icon"
+                    class="work"
+                    src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                  />
+                  <figcaption
+                    class="has-text-centered"
+                  >
+                    <h1
+                      class="title is-size-5 is-size-4-widescreen"
+                    >
+                      A platform for growing businesses and skilled professionals.
+                    </h1>
+                    <a
+                      class="button is-gold-invert is-outlined is-rounded cto"
+                      href="http://www.worksfair.com/works/undefined"
+                      rel="noopener noreferrer"
+                      style="margin: 0px auto;"
+                      target="_blank"
+                    >
+                      <span>
+                        More details
+                      </span>
+                      <span
+                        class="icon"
+                      >
+                        <i
+                          class="fa fa-angle-right"
+                        />
+                      </span>
+                    </a>
+                  </figcaption>
+                  <div
+                    class="overlay has-background-gold"
+                  />
+                </figure>
+              </div>
+              <div
+                class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                id="works"
+              >
+                <figure
+                  class="image is-3by2"
+                >
+                  <img
+                    alt="project icon"
+                    class="work"
+                    src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                  />
+                  <figcaption
+                    class="has-text-centered"
+                  >
+                    <h1
+                      class="title is-size-5 is-size-4-widescreen"
+                    >
+                      A platform for searching for works that interests you
+                    </h1>
+                    <a
+                      class="button is-gold-invert is-outlined is-rounded cto"
+                      href="http://www.worksfair.com/works/undefined"
+                      rel="noopener noreferrer"
+                      style="margin: 0px auto;"
+                      target="_blank"
+                    >
+                      <span>
+                        More details
+                      </span>
+                      <span
+                        class="icon"
+                      >
+                        <i
+                          class="fa fa-angle-right"
+                        />
+                      </span>
+                    </a>
+                  </figcaption>
+                  <div
+                    class="overlay has-background-gold"
+                  />
+                </figure>
+              </div>
+            </div>
+          </div>
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column"
+            >
+              <a
+                class="button is-gold is-medium"
+                href="https://github.com/TheoOkafor"
+              >
+                <span>
+                  See more works
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section testimonials is-medium is-white has-text-centered has-border-top"
+        id="testimonials"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <h1
+            class="title is-spaced has-bottomline-gold is-uppercase"
+          >
+            Testimonials
+          </h1>
+          <h2
+            class="subtitle is-size-5-desktop"
+          >
+            People I've worked with have said these...
+          </h2>
+          <div
+            class="columns has-text-centered is-centered"
+          >
+            <div
+              class="column is-one-third"
+            >
+              <div
+                class="testimonial-block"
+              >
+                <img
+                  alt="avatar"
+                  class="avatar"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+                />
+                <p
+                  class="is-size-6"
+                >
+                  <span
+                    class="margin-right-10"
+                  >
+                    Stan Ndunwere
+                    ,
+                  </span>
+                  <span
+                    class="has-text-gold"
+                  >
+                    Software Engineer
+                  </span>
+                </p>
+                <p
+                  class="is-italic is-size-5"
+                >
+                  “
+                  Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                  ”
+                </p>
+              </div>
+            </div>
+            <div
+              class="column is-one-third"
+            >
+              <div
+                class="testimonial-block"
+              >
+                <img
+                  alt="avatar"
+                  class="avatar"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+                />
+                <p
+                  class="is-size-6"
+                >
+                  <span
+                    class="margin-right-10"
+                  >
+                    Lotanna Amaechi
+                    ,
+                  </span>
+                  <span
+                    class="has-text-gold"
+                  >
+                    Software Engineer at Andela
+                  </span>
+                </p>
+                <p
+                  class="is-italic is-size-5"
+                >
+                  “
+                  Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                  ”
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer
+        class="section is-light"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="columns is-centered has-text-centered"
+          >
+            <div
+              class="column is-one-third-desktop"
+            >
+              <h3
+                class="is-size-4 has-text-gold"
+              >
+                My Website
+              </h3>
+            </div>
+            <div
+              class="column is-half-tablet is-one-quarter-desktop"
+            >
+              <h5
+                class="is-size-5 margin-bottom-5"
+              >
+                Quick Links
+              </h5>
+              <ul
+                class="content quick-links has-text-gold"
+              >
+                <li>
+                  <a
+                    alt="home"
+                    href="#home"
+                  >
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <a
+                    alt="about"
+                    href="#about"
+                  >
+                    About
+                  </a>
+                </li>
+                <li>
+                  <a
+                    alt="services"
+                    href="#service"
+                  >
+                    Services
+                  </a>
+                </li>
+                <li>
+                  <a
+                    alt="works"
+                    href="#works"
+                  >
+                    Works
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="content margin-bottom-20"
+              >
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
+                  >
+                    <i
+                      class="fa fa-map-marker"
+                    />
+                  </span>
+                  12 works road, Awka, Anambra, Nigeria
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
+                  >
+                    <i
+                      class="fa fa-mobile"
+                    />
+                  </span>
+                  +23480000000000
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
+                  >
+                    <i
+                      class="fa fa-envelope-o"
+                    />
+                  </span>
+                  example@example.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="columns is-centered mt-5"
+          >
+            <div
+              class="social-icons has-text-centered"
+            >
+              <p
+                class="field"
+              >
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                </a>
+              </p>
+            </div>
+          </div>
+          <div
+            class="copyright undefined has-text-centered"
+          >
+            Built with
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="navbar is-gold"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="navbar-brand"
+        >
+          <a
+            class="navbar-item"
+            href="#home"
+          >
+            <h2
+              class="is-size-4"
+            >
+              <strong>
+                My Website
+              </strong>
+            </h2>
+          </a>
+          <span
+            class="navbar-burger burger"
+            data-target="navbarMenuHeroB"
+          >
+            <span />
+            <span />
+            <span />
+          </span>
+        </div>
+        <div
+          class="navbar-menu "
+          id="navbarMenuHeroB"
+        >
+          <div
+            class="navbar-end"
+          >
+            <a
+              class="navbar-item is-active"
+              href="/"
+            >
+              Home
+            </a>
+            <a
+              class="navbar-item"
+              href="#services"
+            >
+              Services
+            </a>
+            <a
+              class="navbar-item"
+              href="#testimonials"
+            >
+              Testimonial
+            </a>
+            <span
+              class="navbar-item"
+            >
+              <a
+                class="button is-gold is-inverted"
+                href="#works"
+              >
+                <span>
+                  Works
+                </span>
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <section
+      class="slider"
+    >
+      <input
+        checked=""
+        id="carousel-1"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-3"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
+      <div
+        class="carousel-slides"
+      >
+        <div
+          class="carousel-inner"
+        >
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
+            <div
+              class="container has-text-centered"
+            >
+              <p
+                class="title is-uppercase"
+              >
+                Building for the future
+              </p>
+              <p
+                class="subtitle"
+              >
+                We have been responsible for some of the best buildings commissioned in Nigeria
+              </p>
+            </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
+            <div
+              class="container has-text-centered"
+            >
+              <p
+                class="title is-uppercase"
+              >
+                With over 20 years of experience
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
+            </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
+            <div
+              class="container has-text-centered"
+            >
+              <p
+                class="title is-uppercase"
+              >
+                We put a roof on your head with a penny
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="carousel-nav"
+      >
+        <label
+          class="has-background-gold"
+          for="carousel-1"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-2"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-3"
+        />
+      </div>
+    </section>
+    <section
+      class="section about is-medium"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="margin-bottom-50 has-text-centered"
+        >
+          <h1
+            class="title is-spaced has-bottomline-gold is-uppercase"
+          >
+            About us
+          </h1>
+          <h2
+            class="subtitle"
+          >
+            Get to know some things about us
+          </h2>
+          <img
+            alt="about"
+            src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+            style="border-radius: 4px;"
+            width="50%"
+          />
+        </div>
+        <div
+          class="tile is-ancestor"
+        >
+          <div
+            class="tile is-parent is-vertical has-text-right has-text-centered-mobile"
+          >
+            <div
+              class="tile is-child content"
+            >
+              <h2>
+                Company History
+              </h2>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
+              </p>
+            </div>
+          </div>
+          <div
+            class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
+          >
+            <div
+              class="tile is-child content"
+            >
+              <h2>
+                20 years and Still counting
+              </h2>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section is-medium services"
+      id="services"
+    >
+      <div
+        class="container has-text-centered"
+      >
+        <div
+          class="margin-bottom-50"
+        >
+          <h1
+            class="title is-spaced has-bottomline-gold is-uppercase"
+          >
+            What we do
+          </h1>
+          <h2
+            class="subtitle"
+          >
+            Some of the things we offer
+          </h2>
+        </div>
+        <div
+          class="columns is-centered"
+        >
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="service-item animate-fadeUp border-color-gold"
+            >
+              <span
+                class="icon has-text-gold"
+              >
+                <i
+                  class="mdi mdi-puzzle-edit-outline mdi-48px"
+                />
+              </span>
+              <h3
+                class="is-size-4 margin-top-bottom-15"
+              >
+                Construction
+              </h3>
+              <p />
+            </div>
+          </div>
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="service-item animate-fadeUp border-color-gold"
+            >
+              <span
+                class="icon has-text-gold"
+              >
+                <i
+                  class="mdi mdi-puzzle-edit-outline mdi-48px"
+                />
+              </span>
+              <h3
+                class="is-size-4 margin-top-bottom-15"
+              >
+                Consultancy
+              </h3>
+              <p />
+            </div>
+          </div>
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="service-item animate-fadeUp border-color-gold"
+            >
+              <span
+                class="icon has-text-gold"
+              >
+                <i
+                  class="mdi mdi-puzzle-edit-outline mdi-48px"
+                />
+              </span>
+              <h3
+                class="is-size-4 margin-top-bottom-15"
+              >
+                Chips Manufacturing
+              </h3>
+              <p />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section projects has-text-centered"
+      id="works"
+    >
+      <div
+        class="container is-narrow"
+      >
+        <h1
+          class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+        >
+          Recent Works
+        </h1>
+        <h2
+          class="subtitle is-size-5-desktop"
+        >
+          Here are a few design projects I've worked on recently.
+        </h2>
+        <div
+          class="project-grid"
+        >
+          <div
+            class="columns is-multiline is-mobile"
+          >
+            <div
+              class="column is-12-mobile is-half-tablet is-one-third-desktop"
+              id="works"
+            >
+              <figure
+                class="image is-3by2"
+              >
+                <img
+                  alt="project icon"
+                  class="work"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                />
+                <figcaption
+                  class="has-text-centered"
+                >
+                  <h1
+                    class="title is-size-5 is-size-4-widescreen"
+                  >
+                    A platform that enables collaboration amongst businesses and works
+                  </h1>
+                  <a
+                    class="button is-gold-invert is-outlined is-rounded cto"
+                    href="http://www.worksfair.com/works/undefined"
+                    rel="noopener noreferrer"
+                    style="margin: 0px auto;"
+                    target="_blank"
+                  >
+                    <span>
+                      More details
+                    </span>
+                    <span
+                      class="icon"
+                    >
+                      <i
+                        class="fa fa-angle-right"
+                      />
+                    </span>
+                  </a>
+                </figcaption>
+                <div
+                  class="overlay has-background-gold"
+                />
+              </figure>
+            </div>
+            <div
+              class="column is-12-mobile is-half-tablet is-one-third-desktop"
+              id="works"
+            >
+              <figure
+                class="image is-3by2"
+              >
+                <img
+                  alt="project icon"
+                  class="work"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                />
+                <figcaption
+                  class="has-text-centered"
+                >
+                  <h1
+                    class="title is-size-5 is-size-4-widescreen"
+                  >
+                    A platform for growing businesses and skilled professionals.
+                  </h1>
+                  <a
+                    class="button is-gold-invert is-outlined is-rounded cto"
+                    href="http://www.worksfair.com/works/undefined"
+                    rel="noopener noreferrer"
+                    style="margin: 0px auto;"
+                    target="_blank"
+                  >
+                    <span>
+                      More details
+                    </span>
+                    <span
+                      class="icon"
+                    >
+                      <i
+                        class="fa fa-angle-right"
+                      />
+                    </span>
+                  </a>
+                </figcaption>
+                <div
+                  class="overlay has-background-gold"
+                />
+              </figure>
+            </div>
+            <div
+              class="column is-12-mobile is-half-tablet is-one-third-desktop"
+              id="works"
+            >
+              <figure
+                class="image is-3by2"
+              >
+                <img
+                  alt="project icon"
+                  class="work"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                />
+                <figcaption
+                  class="has-text-centered"
+                >
+                  <h1
+                    class="title is-size-5 is-size-4-widescreen"
+                  >
+                    A platform for searching for works that interests you
+                  </h1>
+                  <a
+                    class="button is-gold-invert is-outlined is-rounded cto"
+                    href="http://www.worksfair.com/works/undefined"
+                    rel="noopener noreferrer"
+                    style="margin: 0px auto;"
+                    target="_blank"
+                  >
+                    <span>
+                      More details
+                    </span>
+                    <span
+                      class="icon"
+                    >
+                      <i
+                        class="fa fa-angle-right"
+                      />
+                    </span>
+                  </a>
+                </figcaption>
+                <div
+                  class="overlay has-background-gold"
+                />
+              </figure>
+            </div>
+          </div>
+        </div>
+        <div
+          class="columns is-centered"
+        >
+          <div
+            class="column"
+          >
+            <a
+              class="button is-gold is-medium"
+              href="https://github.com/TheoOkafor"
+            >
+              <span>
+                See more works
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section testimonials is-medium is-white has-text-centered has-border-top"
+      id="testimonials"
+    >
+      <div
+        class="container is-narrow"
+      >
+        <h1
+          class="title is-spaced has-bottomline-gold is-uppercase"
+        >
+          Testimonials
+        </h1>
+        <h2
+          class="subtitle is-size-5-desktop"
+        >
+          People I've worked with have said these...
+        </h2>
+        <div
+          class="columns has-text-centered is-centered"
+        >
+          <div
+            class="column is-one-third"
+          >
+            <div
+              class="testimonial-block"
+            >
+              <img
+                alt="avatar"
+                class="avatar"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+              />
+              <p
+                class="is-size-6"
+              >
+                <span
+                  class="margin-right-10"
+                >
+                  Stan Ndunwere
+                  ,
+                </span>
+                <span
+                  class="has-text-gold"
+                >
+                  Software Engineer
+                </span>
+              </p>
+              <p
+                class="is-italic is-size-5"
+              >
+                “
+                Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                ”
+              </p>
+            </div>
+          </div>
+          <div
+            class="column is-one-third"
+          >
+            <div
+              class="testimonial-block"
+            >
+              <img
+                alt="avatar"
+                class="avatar"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+              />
+              <p
+                class="is-size-6"
+              >
+                <span
+                  class="margin-right-10"
+                >
+                  Lotanna Amaechi
+                  ,
+                </span>
+                <span
+                  class="has-text-gold"
+                >
+                  Software Engineer at Andela
+                </span>
+              </p>
+              <p
+                class="is-italic is-size-5"
+              >
+                “
+                Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                ”
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer
+      class="section is-light"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="columns is-centered has-text-centered"
+        >
+          <div
+            class="column is-one-third-desktop"
+          >
+            <h3
+              class="is-size-4 has-text-gold"
+            >
+              My Website
+            </h3>
+          </div>
+          <div
+            class="column is-half-tablet is-one-quarter-desktop"
+          >
+            <h5
+              class="is-size-5 margin-bottom-5"
+            >
+              Quick Links
+            </h5>
+            <ul
+              class="content quick-links has-text-gold"
+            >
+              <li>
+                <a
+                  alt="home"
+                  href="#home"
+                >
+                  Home
+                </a>
+              </li>
+              <li>
+                <a
+                  alt="about"
+                  href="#about"
+                >
+                  About
+                </a>
+              </li>
+              <li>
+                <a
+                  alt="services"
+                  href="#service"
+                >
+                  Services
+                </a>
+              </li>
+              <li>
+                <a
+                  alt="works"
+                  href="#works"
+                >
+                  Works
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="content margin-bottom-20"
+            >
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
+                >
+                  <i
+                    class="fa fa-map-marker"
+                  />
+                </span>
+                12 works road, Awka, Anambra, Nigeria
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
+                >
+                  <i
+                    class="fa fa-mobile"
+                  />
+                </span>
+                +23480000000000
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
+                >
+                  <i
+                    class="fa fa-envelope-o"
+                  />
+                </span>
+                example@example.com
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="columns is-centered mt-5"
+        >
+          <div
+            class="social-icons has-text-centered"
+          >
+            <p
+              class="field"
+            >
+              <a
+                class="button is-medium has-background-gold"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+              </a>
+            </p>
+          </div>
+        </div>
+        <div
+          class="copyright undefined has-text-centered"
+        >
+          Built with
+           
+          <a
+            href="http://www.worksfair.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            worksfair.com
+          </a>
+           
+          <span
+            class="icon has-white-text"
+          >
+            <i
+              class="fa fa-copyright"
+            />
+          </span>
+          2020
+        </div>
+      </div>
+    </footer>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CorporateCool.js test that it renders correctly without some sections 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="navbar is-gold"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="navbar-brand"
+          >
+            <a
+              class="navbar-item"
+              href="#home"
+            >
+              <h2
+                class="is-size-4"
+              >
+                <strong>
+                  My Website
+                </strong>
+              </h2>
+            </a>
+            <span
+              class="navbar-burger burger"
+              data-target="navbarMenuHeroB"
+            >
+              <span />
+              <span />
+              <span />
+            </span>
+          </div>
+          <div
+            class="navbar-menu "
+            id="navbarMenuHeroB"
+          >
+            <div
+              class="navbar-end"
+            >
+              <a
+                class="navbar-item is-active"
+                href="/"
+              >
+                Home
+              </a>
+              <a
+                class="navbar-item"
+                href="#services"
+              >
+                Services
+              </a>
+              <a
+                class="navbar-item"
+                href="#testimonials"
+              >
+                Testimonial
+              </a>
+              <span
+                class="navbar-item"
+              >
+                <a
+                  class="button is-gold is-inverted"
+                  href="#works"
+                >
+                  <span>
+                    Works
+                  </span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <section
+        class="slider"
+      >
+        <input
+          checked=""
+          id="carousel-1"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-3"
+          name="carousel"
+          type="radio"
+        />
+        <input
+          id="carousel-2"
+          name="carousel"
+          type="radio"
+        />
+        <div
+          class="carousel-slides"
+        >
+          <div
+            class="carousel-inner"
+          >
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
+              <div
+                class="container has-text-centered"
+              >
+                <p
+                  class="title is-uppercase"
+                >
+                  Building for the future
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We have been responsible for some of the best buildings commissioned in Nigeria
+                </p>
+              </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
+              <div
+                class="container has-text-centered"
+              >
+                <p
+                  class="title is-uppercase"
+                >
+                  With over 20 years of experience
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
+              </div>
+            </div>
+            <div
+              class="hero carousel-item is-gold is-large"
+            >
+              <div
+                class="container has-text-centered"
+              >
+                <p
+                  class="title is-uppercase"
+                >
+                  We put a roof on your head with a penny
+                </p>
+                <p
+                  class="subtitle"
+                >
+                  We leverage our technical expertise and vest experience to give the best possible outcome
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="carousel-nav"
+        >
+          <label
+            class="has-background-gold"
+            for="carousel-1"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-2"
+          />
+          <label
+            class="has-background-gold"
+            for="carousel-3"
+          />
+        </div>
+      </section>
+      <section
+        class="section about is-medium"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="margin-bottom-50 has-text-centered"
+          >
+            <h1
+              class="title is-spaced has-bottomline-gold is-uppercase"
+            >
+              About us
+            </h1>
+            <h2
+              class="subtitle"
+            >
+              Get to know some things about us
+            </h2>
+            <img
+              alt="about"
+              src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+              style="border-radius: 4px;"
+              width="50%"
+            />
+          </div>
+          <div
+            class="tile is-ancestor"
+          >
+            <div
+              class="tile is-parent is-vertical has-text-right has-text-centered-mobile"
+            >
+              <div
+                class="tile is-child content"
+              >
+                <h2>
+                  Company History
+                </h2>
+                <p>
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
+                </p>
+              </div>
+            </div>
+            <div
+              class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
+            >
+              <div
+                class="tile is-child content"
+              >
+                <h2>
+                  20 years and Still counting
+                </h2>
+                <p>
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section is-medium services"
+        id="services"
+      >
+        <div
+          class="container has-text-centered"
+        >
+          <div
+            class="margin-bottom-50"
+          >
+            <h1
+              class="title is-spaced has-bottomline-gold is-uppercase"
+            >
+              What we do
+            </h1>
+            <h2
+              class="subtitle"
+            >
+              Some of the things we offer
+            </h2>
+          </div>
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="service-item animate-fadeUp border-color-gold"
+              >
+                <span
+                  class="icon has-text-gold"
+                >
+                  <i
+                    class="mdi mdi-puzzle-edit-outline mdi-48px"
+                  />
+                </span>
+                <h3
+                  class="is-size-4 margin-top-bottom-15"
+                >
+                  Construction
+                </h3>
+                <p />
+              </div>
+            </div>
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="service-item animate-fadeUp border-color-gold"
+              >
+                <span
+                  class="icon has-text-gold"
+                >
+                  <i
+                    class="mdi mdi-puzzle-edit-outline mdi-48px"
+                  />
+                </span>
+                <h3
+                  class="is-size-4 margin-top-bottom-15"
+                >
+                  Consultancy
+                </h3>
+                <p />
+              </div>
+            </div>
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="service-item animate-fadeUp border-color-gold"
+              >
+                <span
+                  class="icon has-text-gold"
+                >
+                  <i
+                    class="mdi mdi-puzzle-edit-outline mdi-48px"
+                  />
+                </span>
+                <h3
+                  class="is-size-4 margin-top-bottom-15"
+                >
+                  Chips Manufacturing
+                </h3>
+                <p />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section projects has-text-centered"
+        id="works"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <h1
+            class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+          >
+            Recent Works
+          </h1>
+          <h2
+            class="subtitle is-size-5-desktop"
+          >
+            Here are a few design projects I've worked on recently.
+          </h2>
+          <div
+            class="project-grid"
+          >
+            <div
+              class="columns is-multiline is-mobile"
+            >
+              <div
+                class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                id="works"
+              >
+                <figure
+                  class="image is-3by2"
+                >
+                  <img
+                    alt="project icon"
+                    class="work"
+                    src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                  />
+                  <figcaption
+                    class="has-text-centered"
+                  >
+                    <h1
+                      class="title is-size-5 is-size-4-widescreen"
+                    >
+                      A platform that enables collaboration amongst businesses and works
+                    </h1>
+                    <a
+                      class="button is-gold-invert is-outlined is-rounded cto"
+                      href="http://www.worksfair.com/works/undefined"
+                      rel="noopener noreferrer"
+                      style="margin: 0px auto;"
+                      target="_blank"
+                    >
+                      <span>
+                        More details
+                      </span>
+                      <span
+                        class="icon"
+                      >
+                        <i
+                          class="fa fa-angle-right"
+                        />
+                      </span>
+                    </a>
+                  </figcaption>
+                  <div
+                    class="overlay has-background-gold"
+                  />
+                </figure>
+              </div>
+              <div
+                class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                id="works"
+              >
+                <figure
+                  class="image is-3by2"
+                >
+                  <img
+                    alt="project icon"
+                    class="work"
+                    src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                  />
+                  <figcaption
+                    class="has-text-centered"
+                  >
+                    <h1
+                      class="title is-size-5 is-size-4-widescreen"
+                    >
+                      A platform for growing businesses and skilled professionals.
+                    </h1>
+                    <a
+                      class="button is-gold-invert is-outlined is-rounded cto"
+                      href="http://www.worksfair.com/works/undefined"
+                      rel="noopener noreferrer"
+                      style="margin: 0px auto;"
+                      target="_blank"
+                    >
+                      <span>
+                        More details
+                      </span>
+                      <span
+                        class="icon"
+                      >
+                        <i
+                          class="fa fa-angle-right"
+                        />
+                      </span>
+                    </a>
+                  </figcaption>
+                  <div
+                    class="overlay has-background-gold"
+                  />
+                </figure>
+              </div>
+              <div
+                class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                id="works"
+              >
+                <figure
+                  class="image is-3by2"
+                >
+                  <img
+                    alt="project icon"
+                    class="work"
+                    src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                  />
+                  <figcaption
+                    class="has-text-centered"
+                  >
+                    <h1
+                      class="title is-size-5 is-size-4-widescreen"
+                    >
+                      A platform for searching for works that interests you
+                    </h1>
+                    <a
+                      class="button is-gold-invert is-outlined is-rounded cto"
+                      href="http://www.worksfair.com/works/undefined"
+                      rel="noopener noreferrer"
+                      style="margin: 0px auto;"
+                      target="_blank"
+                    >
+                      <span>
+                        More details
+                      </span>
+                      <span
+                        class="icon"
+                      >
+                        <i
+                          class="fa fa-angle-right"
+                        />
+                      </span>
+                    </a>
+                  </figcaption>
+                  <div
+                    class="overlay has-background-gold"
+                  />
+                </figure>
+              </div>
+            </div>
+          </div>
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column"
+            >
+              <a
+                class="button is-gold is-medium"
+                href="https://github.com/TheoOkafor"
+              >
+                <span>
+                  See more works
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="section testimonials is-medium is-white has-text-centered has-border-top"
+        id="testimonials"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <h1
+            class="title is-spaced has-bottomline-gold is-uppercase"
+          >
+            Testimonials
+          </h1>
+          <h2
+            class="subtitle is-size-5-desktop"
+          >
+            People I've worked with have said these...
+          </h2>
+          <div
+            class="columns has-text-centered is-centered"
+          >
+            <div
+              class="column is-one-third"
+            >
+              <div
+                class="testimonial-block"
+              >
+                <img
+                  alt="avatar"
+                  class="avatar"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+                />
+                <p
+                  class="is-size-6"
+                >
+                  <span
+                    class="margin-right-10"
+                  >
+                    Stan Ndunwere
+                    ,
+                  </span>
+                  <span
+                    class="has-text-gold"
+                  >
+                    Software Engineer
+                  </span>
+                </p>
+                <p
+                  class="is-italic is-size-5"
+                >
+                  “
+                  Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                  ”
+                </p>
+              </div>
+            </div>
+            <div
+              class="column is-one-third"
+            >
+              <div
+                class="testimonial-block"
+              >
+                <img
+                  alt="avatar"
+                  class="avatar"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+                />
+                <p
+                  class="is-size-6"
+                >
+                  <span
+                    class="margin-right-10"
+                  >
+                    Lotanna Amaechi
+                    ,
+                  </span>
+                  <span
+                    class="has-text-gold"
+                  >
+                    Software Engineer at Andela
+                  </span>
+                </p>
+                <p
+                  class="is-italic is-size-5"
+                >
+                  “
+                  Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                  ”
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer
+        class="section is-light"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="columns is-centered has-text-centered"
+          >
+            <div
+              class="column is-one-third-desktop"
+            >
+              <h3
+                class="is-size-4 has-text-gold"
+              >
+                My Website
+              </h3>
+            </div>
+            <div
+              class="column is-half-tablet is-one-quarter-desktop"
+            >
+              <h5
+                class="is-size-5 margin-bottom-5"
+              >
+                Quick Links
+              </h5>
+              <ul
+                class="content quick-links has-text-gold"
+              >
+                <li>
+                  <a
+                    alt="home"
+                    href="#home"
+                  >
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <a
+                    alt="about"
+                    href="#about"
+                  >
+                    About
+                  </a>
+                </li>
+                <li>
+                  <a
+                    alt="services"
+                    href="#service"
+                  >
+                    Services
+                  </a>
+                </li>
+                <li>
+                  <a
+                    alt="works"
+                    href="#works"
+                  >
+                    Works
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              class="column is-one-third-desktop"
+            >
+              <div
+                class="content margin-bottom-20"
+              >
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
+                  >
+                    <i
+                      class="fa fa-map-marker"
+                    />
+                  </span>
+                  12 works road, Awka, Anambra, Nigeria
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
+                  >
+                    <i
+                      class="fa fa-mobile"
+                    />
+                  </span>
+                  +23480000000000
+                </p>
+                <p
+                  class="has-text-grey-dark"
+                >
+                  <span
+                    class="icon"
+                  >
+                    <i
+                      class="fa fa-envelope-o"
+                    />
+                  </span>
+                  example@example.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="columns is-centered mt-5"
+          >
+            <div
+              class="social-icons has-text-centered"
+            >
+              <p
+                class="field"
+              >
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                </a>
+                <a
+                  class="button is-medium has-background-gold"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                </a>
+              </p>
+            </div>
+          </div>
+          <div
+            class="copyright undefined has-text-centered"
+          >
+            Built with
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="navbar is-gold"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="navbar-brand"
+        >
+          <a
+            class="navbar-item"
+            href="#home"
+          >
+            <h2
+              class="is-size-4"
+            >
+              <strong>
+                My Website
+              </strong>
+            </h2>
+          </a>
+          <span
+            class="navbar-burger burger"
+            data-target="navbarMenuHeroB"
+          >
+            <span />
+            <span />
+            <span />
+          </span>
+        </div>
+        <div
+          class="navbar-menu "
+          id="navbarMenuHeroB"
+        >
+          <div
+            class="navbar-end"
+          >
+            <a
+              class="navbar-item is-active"
+              href="/"
+            >
+              Home
+            </a>
+            <a
+              class="navbar-item"
+              href="#services"
+            >
+              Services
+            </a>
+            <a
+              class="navbar-item"
+              href="#testimonials"
+            >
+              Testimonial
+            </a>
+            <span
+              class="navbar-item"
+            >
+              <a
+                class="button is-gold is-inverted"
+                href="#works"
+              >
+                <span>
+                  Works
+                </span>
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <section
+      class="slider"
+    >
+      <input
+        checked=""
+        id="carousel-1"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-3"
+        name="carousel"
+        type="radio"
+      />
+      <input
+        id="carousel-2"
+        name="carousel"
+        type="radio"
+      />
+      <div
+        class="carousel-slides"
+      >
+        <div
+          class="carousel-inner"
+        >
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
+            <div
+              class="container has-text-centered"
+            >
+              <p
+                class="title is-uppercase"
+              >
+                Building for the future
+              </p>
+              <p
+                class="subtitle"
+              >
+                We have been responsible for some of the best buildings commissioned in Nigeria
+              </p>
+            </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
+            <div
+              class="container has-text-centered"
+            >
+              <p
+                class="title is-uppercase"
+              >
+                With over 20 years of experience
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
+            </div>
+          </div>
+          <div
+            class="hero carousel-item is-gold is-large"
+          >
+            <div
+              class="container has-text-centered"
+            >
+              <p
+                class="title is-uppercase"
+              >
+                We put a roof on your head with a penny
+              </p>
+              <p
+                class="subtitle"
+              >
+                We leverage our technical expertise and vest experience to give the best possible outcome
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="carousel-nav"
+      >
+        <label
+          class="has-background-gold"
+          for="carousel-1"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-2"
+        />
+        <label
+          class="has-background-gold"
+          for="carousel-3"
+        />
+      </div>
+    </section>
+    <section
+      class="section about is-medium"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="margin-bottom-50 has-text-centered"
+        >
+          <h1
+            class="title is-spaced has-bottomline-gold is-uppercase"
+          >
+            About us
+          </h1>
+          <h2
+            class="subtitle"
+          >
+            Get to know some things about us
+          </h2>
+          <img
+            alt="about"
+            src="https://buzznigeria.com/wp-content/uploads/2015/03/NNPC.jpg"
+            style="border-radius: 4px;"
+            width="50%"
+          />
+        </div>
+        <div
+          class="tile is-ancestor"
+        >
+          <div
+            class="tile is-parent is-vertical has-text-right has-text-centered-mobile"
+          >
+            <div
+              class="tile is-child content"
+            >
+              <h2>
+                Company History
+              </h2>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit blanditiis minus
+              </p>
+            </div>
+          </div>
+          <div
+            class="tile is-parent is-vertical has-text-left has-text-centered-mobile"
+          >
+            <div
+              class="tile is-child content"
+            >
+              <h2>
+                20 years and Still counting
+              </h2>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit adipisicing elit.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section is-medium services"
+      id="services"
+    >
+      <div
+        class="container has-text-centered"
+      >
+        <div
+          class="margin-bottom-50"
+        >
+          <h1
+            class="title is-spaced has-bottomline-gold is-uppercase"
+          >
+            What we do
+          </h1>
+          <h2
+            class="subtitle"
+          >
+            Some of the things we offer
+          </h2>
+        </div>
+        <div
+          class="columns is-centered"
+        >
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="service-item animate-fadeUp border-color-gold"
+            >
+              <span
+                class="icon has-text-gold"
+              >
+                <i
+                  class="mdi mdi-puzzle-edit-outline mdi-48px"
+                />
+              </span>
+              <h3
+                class="is-size-4 margin-top-bottom-15"
+              >
+                Construction
+              </h3>
+              <p />
+            </div>
+          </div>
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="service-item animate-fadeUp border-color-gold"
+            >
+              <span
+                class="icon has-text-gold"
+              >
+                <i
+                  class="mdi mdi-puzzle-edit-outline mdi-48px"
+                />
+              </span>
+              <h3
+                class="is-size-4 margin-top-bottom-15"
+              >
+                Consultancy
+              </h3>
+              <p />
+            </div>
+          </div>
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="service-item animate-fadeUp border-color-gold"
+            >
+              <span
+                class="icon has-text-gold"
+              >
+                <i
+                  class="mdi mdi-puzzle-edit-outline mdi-48px"
+                />
+              </span>
+              <h3
+                class="is-size-4 margin-top-bottom-15"
+              >
+                Chips Manufacturing
+              </h3>
+              <p />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section projects has-text-centered"
+      id="works"
+    >
+      <div
+        class="container is-narrow"
+      >
+        <h1
+          class="title has-bottomline-gold is-spaced is-size-3-desktop is-size-4-mobile is-uppercase"
+        >
+          Recent Works
+        </h1>
+        <h2
+          class="subtitle is-size-5-desktop"
+        >
+          Here are a few design projects I've worked on recently.
+        </h2>
+        <div
+          class="project-grid"
+        >
+          <div
+            class="columns is-multiline is-mobile"
+          >
+            <div
+              class="column is-12-mobile is-half-tablet is-one-third-desktop"
+              id="works"
+            >
+              <figure
+                class="image is-3by2"
+              >
+                <img
+                  alt="project icon"
+                  class="work"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                />
+                <figcaption
+                  class="has-text-centered"
+                >
+                  <h1
+                    class="title is-size-5 is-size-4-widescreen"
+                  >
+                    A platform that enables collaboration amongst businesses and works
+                  </h1>
+                  <a
+                    class="button is-gold-invert is-outlined is-rounded cto"
+                    href="http://www.worksfair.com/works/undefined"
+                    rel="noopener noreferrer"
+                    style="margin: 0px auto;"
+                    target="_blank"
+                  >
+                    <span>
+                      More details
+                    </span>
+                    <span
+                      class="icon"
+                    >
+                      <i
+                        class="fa fa-angle-right"
+                      />
+                    </span>
+                  </a>
+                </figcaption>
+                <div
+                  class="overlay has-background-gold"
+                />
+              </figure>
+            </div>
+            <div
+              class="column is-12-mobile is-half-tablet is-one-third-desktop"
+              id="works"
+            >
+              <figure
+                class="image is-3by2"
+              >
+                <img
+                  alt="project icon"
+                  class="work"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                />
+                <figcaption
+                  class="has-text-centered"
+                >
+                  <h1
+                    class="title is-size-5 is-size-4-widescreen"
+                  >
+                    A platform for growing businesses and skilled professionals.
+                  </h1>
+                  <a
+                    class="button is-gold-invert is-outlined is-rounded cto"
+                    href="http://www.worksfair.com/works/undefined"
+                    rel="noopener noreferrer"
+                    style="margin: 0px auto;"
+                    target="_blank"
+                  >
+                    <span>
+                      More details
+                    </span>
+                    <span
+                      class="icon"
+                    >
+                      <i
+                        class="fa fa-angle-right"
+                      />
+                    </span>
+                  </a>
+                </figcaption>
+                <div
+                  class="overlay has-background-gold"
+                />
+              </figure>
+            </div>
+            <div
+              class="column is-12-mobile is-half-tablet is-one-third-desktop"
+              id="works"
+            >
+              <figure
+                class="image is-3by2"
+              >
+                <img
+                  alt="project icon"
+                  class="work"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                />
+                <figcaption
+                  class="has-text-centered"
+                >
+                  <h1
+                    class="title is-size-5 is-size-4-widescreen"
+                  >
+                    A platform for searching for works that interests you
+                  </h1>
+                  <a
+                    class="button is-gold-invert is-outlined is-rounded cto"
+                    href="http://www.worksfair.com/works/undefined"
+                    rel="noopener noreferrer"
+                    style="margin: 0px auto;"
+                    target="_blank"
+                  >
+                    <span>
+                      More details
+                    </span>
+                    <span
+                      class="icon"
+                    >
+                      <i
+                        class="fa fa-angle-right"
+                      />
+                    </span>
+                  </a>
+                </figcaption>
+                <div
+                  class="overlay has-background-gold"
+                />
+              </figure>
+            </div>
+          </div>
+        </div>
+        <div
+          class="columns is-centered"
+        >
+          <div
+            class="column"
+          >
+            <a
+              class="button is-gold is-medium"
+              href="https://github.com/TheoOkafor"
+            >
+              <span>
+                See more works
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="section testimonials is-medium is-white has-text-centered has-border-top"
+      id="testimonials"
+    >
+      <div
+        class="container is-narrow"
+      >
+        <h1
+          class="title is-spaced has-bottomline-gold is-uppercase"
+        >
+          Testimonials
+        </h1>
+        <h2
+          class="subtitle is-size-5-desktop"
+        >
+          People I've worked with have said these...
+        </h2>
+        <div
+          class="columns has-text-centered is-centered"
+        >
+          <div
+            class="column is-one-third"
+          >
+            <div
+              class="testimonial-block"
+            >
+              <img
+                alt="avatar"
+                class="avatar"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+              />
+              <p
+                class="is-size-6"
+              >
+                <span
+                  class="margin-right-10"
+                >
+                  Stan Ndunwere
+                  ,
+                </span>
+                <span
+                  class="has-text-gold"
+                >
+                  Software Engineer
+                </span>
+              </p>
+              <p
+                class="is-italic is-size-5"
+              >
+                “
+                Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                ”
+              </p>
+            </div>
+          </div>
+          <div
+            class="column is-one-third"
+          >
+            <div
+              class="testimonial-block"
+            >
+              <img
+                alt="avatar"
+                class="avatar"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+              />
+              <p
+                class="is-size-6"
+              >
+                <span
+                  class="margin-right-10"
+                >
+                  Lotanna Amaechi
+                  ,
+                </span>
+                <span
+                  class="has-text-gold"
+                >
+                  Software Engineer at Andela
+                </span>
+              </p>
+              <p
+                class="is-italic is-size-5"
+              >
+                “
+                Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                ”
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer
+      class="section is-light"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="columns is-centered has-text-centered"
+        >
+          <div
+            class="column is-one-third-desktop"
+          >
+            <h3
+              class="is-size-4 has-text-gold"
+            >
+              My Website
+            </h3>
+          </div>
+          <div
+            class="column is-half-tablet is-one-quarter-desktop"
+          >
+            <h5
+              class="is-size-5 margin-bottom-5"
+            >
+              Quick Links
+            </h5>
+            <ul
+              class="content quick-links has-text-gold"
+            >
+              <li>
+                <a
+                  alt="home"
+                  href="#home"
+                >
+                  Home
+                </a>
+              </li>
+              <li>
+                <a
+                  alt="about"
+                  href="#about"
+                >
+                  About
+                </a>
+              </li>
+              <li>
+                <a
+                  alt="services"
+                  href="#service"
+                >
+                  Services
+                </a>
+              </li>
+              <li>
+                <a
+                  alt="works"
+                  href="#works"
+                >
+                  Works
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="column is-one-third-desktop"
+          >
+            <div
+              class="content margin-bottom-20"
+            >
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
+                >
+                  <i
+                    class="fa fa-map-marker"
+                  />
+                </span>
+                12 works road, Awka, Anambra, Nigeria
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
+                >
+                  <i
+                    class="fa fa-mobile"
+                  />
+                </span>
+                +23480000000000
+              </p>
+              <p
+                class="has-text-grey-dark"
+              >
+                <span
+                  class="icon"
+                >
+                  <i
+                    class="fa fa-envelope-o"
+                  />
+                </span>
+                example@example.com
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="columns is-centered mt-5"
+        >
+          <div
+            class="social-icons has-text-centered"
+          >
+            <p
+              class="field"
+            >
+              <a
+                class="button is-medium has-background-gold"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+              </a>
+              <a
+                class="button is-medium has-background-gold"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+              </a>
+            </p>
+          </div>
+        </div>
+        <div
+          class="copyright undefined has-text-centered"
+        >
+          Built with
+           
+          <a
+            href="http://www.worksfair.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            worksfair.com
+          </a>
+           
+          <span
+            class="icon has-white-text"
+          >
+            <i
+              class="fa fa-copyright"
+            />
+          </span>
+          2020
+        </div>
+      </div>
+    </footer>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

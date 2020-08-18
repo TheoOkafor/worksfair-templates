@@ -1,0 +1,2981 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PersonalPerfect.js test that it renders correctly with the given data 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <nav
+          aria-label="main navigation"
+          class="navbar is-transparent"
+          role="navigation"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="navbar-brand"
+            >
+              <a
+                class="navbar-item"
+                href="/"
+              >
+                <h2
+                  class="webpage-title is-size-4 has-text-gold"
+                >
+                  <strong>
+                    My Website
+                  </strong>
+                </h2>
+              </a>
+              <a
+                aria-expanded="false"
+                aria-label="menu"
+                class="navbar-burger"
+                data-target="#navMenu"
+                href="#navMenu"
+                role="button"
+              >
+                <span
+                  aria-hidden="true"
+                />
+                <span
+                  aria-hidden="true"
+                />
+                <span
+                  aria-hidden="true"
+                />
+              </a>
+            </div>
+            <div
+              class="navbar-menu"
+              id="navMenu"
+            >
+              <div
+                class="navbar-start"
+              />
+              <div
+                class="navbar-end"
+              >
+                <div
+                  class="navbar-item"
+                >
+                  <a
+                    class="button is-gold is-outlined is-rounded"
+                    href="#works"
+                  >
+                    Checkout my works
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <div>
+          <section
+            class="hero is-none has-text-centered animate-fadeUp"
+          >
+            <div
+              class="hero-body"
+            >
+              <div
+                class="container"
+              >
+                <div
+                  class="columns is-centered"
+                >
+                  <div
+                    class="column has-text-centered"
+                  >
+                    <h1
+                      class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
+                    >
+                      Lorem ipsum dolor sit amet consectetur
+                    </h1>
+                    <h2
+                      class="subtitle is-size-4-desktop"
+                    >
+                       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="hero-foot"
+            >
+              <div
+                class="container"
+              >
+                <img
+                  alt="hero"
+                  class="is-bottom"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png"
+                  width="500"
+                />
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section 
+      is-small
+      is-gold
+      has-text-centered is-long"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column is-three-fifths"
+                >
+                  <h1
+                    class="title is-spaced is-size-3-desktop is-size-4-mobile"
+                  >
+                    Hi, my name is Theo Okafor.
+                  </h1>
+                  <h2
+                    class="subtitle is-size-5-desktop"
+                  >
+                    
+      I started my journey 2 years ago as a software developer. 
+      I have done remote work for agencies, consulted for
+      startups, and collaborated with talented people to create
+      digital products for both business and consumer use. 
+      I am a very hardworking person and I love what I do.
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section is-none skills has-text-centered"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <div
+                class="box"
+              >
+                <div
+                  class="content"
+                >
+                  <div
+                    class="columns is-centered"
+                  >
+                    <div
+                      class="column"
+                    >
+                      <h1
+                        class="title is-size-4 is-spaced"
+                      >
+                        Designer
+                      </h1>
+                      <p>
+                        I value simple designs and structure. I design for the future.
+                      </p>
+                      <p
+                        class="list-title has-text-gold has-text-weight-normal"
+                      >
+                        Things I enjoy designing
+                        :
+                      </p>
+                      <p>
+                        UX, UI, Web, Mobile, Apps, Logos
+                      </p>
+                      <p
+                        class="list-title has-text-gold has-text-weight-normal"
+                      >
+                        Design Tools:
+                      </p>
+                      <p>
+                        Figma, Invision, Marvel, Pen & paper, Sketch, Zeplin
+                      </p>
+                    </div>
+                    <div
+                      class="column"
+                    >
+                      <h1
+                        class="title is-size-4 is-spaced"
+                      >
+                        Frontend Developer
+                      </h1>
+                      <p>
+                        I build web applications using easy-to-figure design patterns.
+                      </p>
+                      <p
+                        class="list-title has-text-gold has-text-weight-normal"
+                      >
+                        Languages I speak
+                        :
+                      </p>
+                      <p>
+                        HTML, CSS, Sass, JavaScript
+                      </p>
+                      <p
+                        class="list-title has-text-gold has-text-weight-normal"
+                      >
+                        Dev Tools:
+                      </p>
+                      <p>
+                        ReactJS, Redux, Vanilla, Bootstrap, Bulma, Debug Tools, Webpack
+                      </p>
+                    </div>
+                    <div
+                      class="column"
+                    >
+                      <h1
+                        class="title is-size-4 is-spaced"
+                      >
+                        Fullstack Developer
+                      </h1>
+                      <p>
+                        I have an extensive fullstack experience and skills.
+                      </p>
+                      <p
+                        class="list-title has-text-gold has-text-weight-normal"
+                      >
+                        Languages I speak (plus frontend skills)
+                        :
+                      </p>
+                      <p>
+                        NodeJS, Python, Java
+                      </p>
+                      <p
+                        class="list-title has-text-gold has-text-weight-normal"
+                      >
+                        Dev Tools: 
+                      </p>
+                      <p>
+                        Django, Express, Celery, PostgreSQL, MariaDB, Redis, Heroku
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section projects is-medium is-white has-text-centered"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <h1
+                class="title is-spaced is-size-3-desktop is-size-4-mobile"
+              >
+                Recent Works
+              </h1>
+              <h2
+                class="subtitle is-size-5-desktop"
+              >
+                Here are a few design projects I've worked on recently.
+              </h2>
+              <div
+                class="project-grid"
+              >
+                <div
+                  class="columns is-multiline is-mobile"
+                >
+                  <div
+                    class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                    id="works"
+                  >
+                    <figure
+                      class="image is-3by2"
+                    >
+                      <img
+                        alt="project icon"
+                        class="work"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                      />
+                      <figcaption
+                        class="has-text-centered"
+                      >
+                        <h1
+                          class="title is-size-5 is-size-4-widescreen"
+                        >
+                          A platform that enables collaboration amongst businesses and works
+                        </h1>
+                        <a
+                          class="button is-gold-invert is-outlined is-rounded cto"
+                          href="http://www.worksfair.com/works/undefined"
+                          rel="noopener noreferrer"
+                          style="margin: 0px auto;"
+                          target="_blank"
+                        >
+                          <span>
+                            More details
+                          </span>
+                          <span
+                            class="icon"
+                          >
+                            <i
+                              class="fa fa-angle-right"
+                            />
+                          </span>
+                        </a>
+                      </figcaption>
+                      <div
+                        class="overlay has-background-gold"
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                    id="works"
+                  >
+                    <figure
+                      class="image is-3by2"
+                    >
+                      <img
+                        alt="project icon"
+                        class="work"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                      />
+                      <figcaption
+                        class="has-text-centered"
+                      >
+                        <h1
+                          class="title is-size-5 is-size-4-widescreen"
+                        >
+                          A platform for growing businesses and skilled professionals.
+                        </h1>
+                        <a
+                          class="button is-gold-invert is-outlined is-rounded cto"
+                          href="http://www.worksfair.com/works/undefined"
+                          rel="noopener noreferrer"
+                          style="margin: 0px auto;"
+                          target="_blank"
+                        >
+                          <span>
+                            More details
+                          </span>
+                          <span
+                            class="icon"
+                          >
+                            <i
+                              class="fa fa-angle-right"
+                            />
+                          </span>
+                        </a>
+                      </figcaption>
+                      <div
+                        class="overlay has-background-gold"
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                    id="works"
+                  >
+                    <figure
+                      class="image is-3by2"
+                    >
+                      <img
+                        alt="project icon"
+                        class="work"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                      />
+                      <figcaption
+                        class="has-text-centered"
+                      >
+                        <h1
+                          class="title is-size-5 is-size-4-widescreen"
+                        >
+                          A platform for searching for works that interests you
+                        </h1>
+                        <a
+                          class="button is-gold-invert is-outlined is-rounded cto"
+                          href="http://www.worksfair.com/works/undefined"
+                          rel="noopener noreferrer"
+                          style="margin: 0px auto;"
+                          target="_blank"
+                        >
+                          <span>
+                            More details
+                          </span>
+                          <span
+                            class="icon"
+                          >
+                            <i
+                              class="fa fa-angle-right"
+                            />
+                          </span>
+                        </a>
+                      </figcaption>
+                      <div
+                        class="overlay has-background-gold"
+                      />
+                    </figure>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column"
+                >
+                  <a
+                    class="button is-gold is-outlined is-rounded is-medium"
+                    href="https://github.com/TheoOkafor"
+                  >
+                    <span>
+                      See more works
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section clients is-medium is-white has-text-centered has-border-top"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column is-half"
+                >
+                  <h1
+                    class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile"
+                  >
+                    Former Clients & Employers
+                  </h1>
+                  <h2
+                    class="subtitle is-size-5"
+                  >
+                    Some awesome companies that I've worked with
+                  </h2>
+                </div>
+              </div>
+              <div
+                class="client-grid"
+              >
+                <div
+                  class="columns is-multiline is-mobile"
+                >
+                  <div
+                    class="column is-half-mobile is-one-third-tablet"
+                    style="padding: 40px;"
+                  >
+                    <figure
+                      class="image is-2x1"
+                    >
+                      <img
+                        alt="worksfair"
+                        class="client-logo"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    class="column is-half-mobile is-one-third-tablet"
+                    style="padding: 40px;"
+                  >
+                    <figure
+                      class="image is-2x1"
+                    >
+                      <img
+                        alt="andela"
+                        class="client-logo"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1586791687/oprku6kcibycsa6ywb4r.png"
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    class="column is-half-mobile is-one-third-tablet"
+                    style="padding: 40px;"
+                  >
+                    <figure
+                      class="image is-2x1"
+                    >
+                      <img
+                        alt="ideo.org"
+                        class="client-logo"
+                        src="https://www.theimpactguild.com/wp-content/uploads/2018/06/IDEOorg_logo_web.jpg"
+                      />
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section testimonials is-medium is-white has-text-centered has-border-top"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <h1
+                class="title is-spaced is-size-3-desktop is-size-4-mobile"
+              >
+                Testimonials
+              </h1>
+              <h2
+                class="subtitle is-size-5-desktop"
+              >
+                People I've worked with have said these...
+              </h2>
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column is-two-thirds"
+                >
+                  <div
+                    class="testimonials-slider"
+                  >
+                    <input
+                      checked=""
+                      id="carousel-1"
+                      name="carousel"
+                      type="radio"
+                    />
+                    <input
+                      id="carousel-2"
+                      name="carousel"
+                      type="radio"
+                    />
+                    <input
+                      id="carousel-3"
+                      name="carousel"
+                      type="radio"
+                    />
+                    <div
+                      class="carousel-slides"
+                    >
+                      <div
+                        class="carousel-inner"
+                      >
+                        <div
+                          class="carousel-item"
+                        >
+                          <div
+                            class="testimonial-block"
+                          >
+                            <img
+                              alt="avatar"
+                              class="avatar"
+                              src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+                            />
+                            <p
+                              class="quote"
+                            >
+                              “
+                              Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                              ”
+                            </p>
+                            <h1
+                              class="title is-size-5"
+                            >
+                              Stan Ndunwere
+                            </h1>
+                            <h2
+                              class="subtitle is-size-6"
+                            >
+                              Software Engineer
+                            </h2>
+                          </div>
+                        </div>
+                        <div
+                          class="carousel-item"
+                        >
+                          <div
+                            class="testimonial-block"
+                          >
+                            <img
+                              alt="avatar"
+                              class="avatar"
+                              src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+                            />
+                            <p
+                              class="quote"
+                            >
+                              “
+                              Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                              ”
+                            </p>
+                            <h1
+                              class="title is-size-5"
+                            >
+                              Lotanna Amaechi
+                            </h1>
+                            <h2
+                              class="subtitle is-size-6"
+                            >
+                              Software Engineer at Andela
+                            </h2>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="carousel-nav"
+                    >
+                      <label
+                        class="has-background-gold"
+                        for="carousel-1"
+                      />
+                      <label
+                        class="has-background-gold"
+                        for="carousel-2"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section call-to-action is-gold has-text-centered"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <div
+                class="box"
+              >
+                <div
+                  class="columns level"
+                >
+                  <div
+                    class="column level-item"
+                  >
+                    <h1
+                      class="title"
+                    >
+                      Start a project
+                    </h1>
+                  </div>
+                  <div
+                    class="column level-item"
+                  >
+                    <p>
+                      Interested in working with me?
+                    </p>
+                  </div>
+                  <div
+                    class="column level-item"
+                  >
+                    <a
+                      class="button is-gold is-outlined is-rounded is-medium"
+                      href="mailto:example@example.com?subject=Website: Collaboration Request"
+                      target="_top"
+                    >
+                      Let's do this
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <footer
+          class="section is-gold is-small has-text-centered"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column is-one-third"
+              >
+                <h1
+                  class="title is-size-4-touch"
+                >
+                  Keep moving forward...
+                </h1>
+              </div>
+            </div>
+            <div
+              class="social-icons"
+            >
+              <p
+                class="field"
+              >
+                <a
+                  class="button is-medium"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                </a>
+                <a
+                  class="button is-medium"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                </a>
+                <a
+                  class="button is-medium"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                </a>
+                <a
+                  class="button is-medium"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                </a>
+              </p>
+            </div>
+            <div
+              class="copyright"
+            >
+              Design was inspired by 
+               
+              <a
+                href="https://mattfarley.ca/"
+              >
+                mattfarley.ca
+              </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
+            </div>
+            <div
+              class="copyright undefined has-text-centered"
+            >
+              Built with
+               
+              <a
+                href="http://www.worksfair.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                worksfair.com
+              </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <nav
+        aria-label="main navigation"
+        class="navbar is-transparent"
+        role="navigation"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="navbar-brand"
+          >
+            <a
+              class="navbar-item"
+              href="/"
+            >
+              <h2
+                class="webpage-title is-size-4 has-text-gold"
+              >
+                <strong>
+                  My Website
+                </strong>
+              </h2>
+            </a>
+            <a
+              aria-expanded="false"
+              aria-label="menu"
+              class="navbar-burger"
+              data-target="#navMenu"
+              href="#navMenu"
+              role="button"
+            >
+              <span
+                aria-hidden="true"
+              />
+              <span
+                aria-hidden="true"
+              />
+              <span
+                aria-hidden="true"
+              />
+            </a>
+          </div>
+          <div
+            class="navbar-menu"
+            id="navMenu"
+          >
+            <div
+              class="navbar-start"
+            />
+            <div
+              class="navbar-end"
+            >
+              <div
+                class="navbar-item"
+              >
+                <a
+                  class="button is-gold is-outlined is-rounded"
+                  href="#works"
+                >
+                  Checkout my works
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div>
+        <section
+          class="hero is-none has-text-centered animate-fadeUp"
+        >
+          <div
+            class="hero-body"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column has-text-centered"
+                >
+                  <h1
+                    class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
+                  >
+                    Lorem ipsum dolor sit amet consectetur
+                  </h1>
+                  <h2
+                    class="subtitle is-size-4-desktop"
+                  >
+                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="hero-foot"
+          >
+            <div
+              class="container"
+            >
+              <img
+                alt="hero"
+                class="is-bottom"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png"
+                width="500"
+              />
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section 
+      is-small
+      is-gold
+      has-text-centered is-long"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column is-three-fifths"
+              >
+                <h1
+                  class="title is-spaced is-size-3-desktop is-size-4-mobile"
+                >
+                  Hi, my name is Theo Okafor.
+                </h1>
+                <h2
+                  class="subtitle is-size-5-desktop"
+                >
+                  
+      I started my journey 2 years ago as a software developer. 
+      I have done remote work for agencies, consulted for
+      startups, and collaborated with talented people to create
+      digital products for both business and consumer use. 
+      I am a very hardworking person and I love what I do.
+                </h2>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section is-none skills has-text-centered"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="box"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="columns is-centered"
+                >
+                  <div
+                    class="column"
+                  >
+                    <h1
+                      class="title is-size-4 is-spaced"
+                    >
+                      Designer
+                    </h1>
+                    <p>
+                      I value simple designs and structure. I design for the future.
+                    </p>
+                    <p
+                      class="list-title has-text-gold has-text-weight-normal"
+                    >
+                      Things I enjoy designing
+                      :
+                    </p>
+                    <p>
+                      UX, UI, Web, Mobile, Apps, Logos
+                    </p>
+                    <p
+                      class="list-title has-text-gold has-text-weight-normal"
+                    >
+                      Design Tools:
+                    </p>
+                    <p>
+                      Figma, Invision, Marvel, Pen & paper, Sketch, Zeplin
+                    </p>
+                  </div>
+                  <div
+                    class="column"
+                  >
+                    <h1
+                      class="title is-size-4 is-spaced"
+                    >
+                      Frontend Developer
+                    </h1>
+                    <p>
+                      I build web applications using easy-to-figure design patterns.
+                    </p>
+                    <p
+                      class="list-title has-text-gold has-text-weight-normal"
+                    >
+                      Languages I speak
+                      :
+                    </p>
+                    <p>
+                      HTML, CSS, Sass, JavaScript
+                    </p>
+                    <p
+                      class="list-title has-text-gold has-text-weight-normal"
+                    >
+                      Dev Tools:
+                    </p>
+                    <p>
+                      ReactJS, Redux, Vanilla, Bootstrap, Bulma, Debug Tools, Webpack
+                    </p>
+                  </div>
+                  <div
+                    class="column"
+                  >
+                    <h1
+                      class="title is-size-4 is-spaced"
+                    >
+                      Fullstack Developer
+                    </h1>
+                    <p>
+                      I have an extensive fullstack experience and skills.
+                    </p>
+                    <p
+                      class="list-title has-text-gold has-text-weight-normal"
+                    >
+                      Languages I speak (plus frontend skills)
+                      :
+                    </p>
+                    <p>
+                      NodeJS, Python, Java
+                    </p>
+                    <p
+                      class="list-title has-text-gold has-text-weight-normal"
+                    >
+                      Dev Tools: 
+                    </p>
+                    <p>
+                      Django, Express, Celery, PostgreSQL, MariaDB, Redis, Heroku
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section projects is-medium is-white has-text-centered"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <h1
+              class="title is-spaced is-size-3-desktop is-size-4-mobile"
+            >
+              Recent Works
+            </h1>
+            <h2
+              class="subtitle is-size-5-desktop"
+            >
+              Here are a few design projects I've worked on recently.
+            </h2>
+            <div
+              class="project-grid"
+            >
+              <div
+                class="columns is-multiline is-mobile"
+              >
+                <div
+                  class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                  id="works"
+                >
+                  <figure
+                    class="image is-3by2"
+                  >
+                    <img
+                      alt="project icon"
+                      class="work"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                    />
+                    <figcaption
+                      class="has-text-centered"
+                    >
+                      <h1
+                        class="title is-size-5 is-size-4-widescreen"
+                      >
+                        A platform that enables collaboration amongst businesses and works
+                      </h1>
+                      <a
+                        class="button is-gold-invert is-outlined is-rounded cto"
+                        href="http://www.worksfair.com/works/undefined"
+                        rel="noopener noreferrer"
+                        style="margin: 0px auto;"
+                        target="_blank"
+                      >
+                        <span>
+                          More details
+                        </span>
+                        <span
+                          class="icon"
+                        >
+                          <i
+                            class="fa fa-angle-right"
+                          />
+                        </span>
+                      </a>
+                    </figcaption>
+                    <div
+                      class="overlay has-background-gold"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                  id="works"
+                >
+                  <figure
+                    class="image is-3by2"
+                  >
+                    <img
+                      alt="project icon"
+                      class="work"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                    />
+                    <figcaption
+                      class="has-text-centered"
+                    >
+                      <h1
+                        class="title is-size-5 is-size-4-widescreen"
+                      >
+                        A platform for growing businesses and skilled professionals.
+                      </h1>
+                      <a
+                        class="button is-gold-invert is-outlined is-rounded cto"
+                        href="http://www.worksfair.com/works/undefined"
+                        rel="noopener noreferrer"
+                        style="margin: 0px auto;"
+                        target="_blank"
+                      >
+                        <span>
+                          More details
+                        </span>
+                        <span
+                          class="icon"
+                        >
+                          <i
+                            class="fa fa-angle-right"
+                          />
+                        </span>
+                      </a>
+                    </figcaption>
+                    <div
+                      class="overlay has-background-gold"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                  id="works"
+                >
+                  <figure
+                    class="image is-3by2"
+                  >
+                    <img
+                      alt="project icon"
+                      class="work"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                    />
+                    <figcaption
+                      class="has-text-centered"
+                    >
+                      <h1
+                        class="title is-size-5 is-size-4-widescreen"
+                      >
+                        A platform for searching for works that interests you
+                      </h1>
+                      <a
+                        class="button is-gold-invert is-outlined is-rounded cto"
+                        href="http://www.worksfair.com/works/undefined"
+                        rel="noopener noreferrer"
+                        style="margin: 0px auto;"
+                        target="_blank"
+                      >
+                        <span>
+                          More details
+                        </span>
+                        <span
+                          class="icon"
+                        >
+                          <i
+                            class="fa fa-angle-right"
+                          />
+                        </span>
+                      </a>
+                    </figcaption>
+                    <div
+                      class="overlay has-background-gold"
+                    />
+                  </figure>
+                </div>
+              </div>
+            </div>
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column"
+              >
+                <a
+                  class="button is-gold is-outlined is-rounded is-medium"
+                  href="https://github.com/TheoOkafor"
+                >
+                  <span>
+                    See more works
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section clients is-medium is-white has-text-centered has-border-top"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column is-half"
+              >
+                <h1
+                  class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile"
+                >
+                  Former Clients & Employers
+                </h1>
+                <h2
+                  class="subtitle is-size-5"
+                >
+                  Some awesome companies that I've worked with
+                </h2>
+              </div>
+            </div>
+            <div
+              class="client-grid"
+            >
+              <div
+                class="columns is-multiline is-mobile"
+              >
+                <div
+                  class="column is-half-mobile is-one-third-tablet"
+                  style="padding: 40px;"
+                >
+                  <figure
+                    class="image is-2x1"
+                  >
+                    <img
+                      alt="worksfair"
+                      class="client-logo"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="column is-half-mobile is-one-third-tablet"
+                  style="padding: 40px;"
+                >
+                  <figure
+                    class="image is-2x1"
+                  >
+                    <img
+                      alt="andela"
+                      class="client-logo"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1586791687/oprku6kcibycsa6ywb4r.png"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="column is-half-mobile is-one-third-tablet"
+                  style="padding: 40px;"
+                >
+                  <figure
+                    class="image is-2x1"
+                  >
+                    <img
+                      alt="ideo.org"
+                      class="client-logo"
+                      src="https://www.theimpactguild.com/wp-content/uploads/2018/06/IDEOorg_logo_web.jpg"
+                    />
+                  </figure>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section testimonials is-medium is-white has-text-centered has-border-top"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <h1
+              class="title is-spaced is-size-3-desktop is-size-4-mobile"
+            >
+              Testimonials
+            </h1>
+            <h2
+              class="subtitle is-size-5-desktop"
+            >
+              People I've worked with have said these...
+            </h2>
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column is-two-thirds"
+              >
+                <div
+                  class="testimonials-slider"
+                >
+                  <input
+                    checked=""
+                    id="carousel-1"
+                    name="carousel"
+                    type="radio"
+                  />
+                  <input
+                    id="carousel-2"
+                    name="carousel"
+                    type="radio"
+                  />
+                  <input
+                    id="carousel-3"
+                    name="carousel"
+                    type="radio"
+                  />
+                  <div
+                    class="carousel-slides"
+                  >
+                    <div
+                      class="carousel-inner"
+                    >
+                      <div
+                        class="carousel-item"
+                      >
+                        <div
+                          class="testimonial-block"
+                        >
+                          <img
+                            alt="avatar"
+                            class="avatar"
+                            src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+                          />
+                          <p
+                            class="quote"
+                          >
+                            “
+                            Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                            ”
+                          </p>
+                          <h1
+                            class="title is-size-5"
+                          >
+                            Stan Ndunwere
+                          </h1>
+                          <h2
+                            class="subtitle is-size-6"
+                          >
+                            Software Engineer
+                          </h2>
+                        </div>
+                      </div>
+                      <div
+                        class="carousel-item"
+                      >
+                        <div
+                          class="testimonial-block"
+                        >
+                          <img
+                            alt="avatar"
+                            class="avatar"
+                            src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+                          />
+                          <p
+                            class="quote"
+                          >
+                            “
+                            Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                            ”
+                          </p>
+                          <h1
+                            class="title is-size-5"
+                          >
+                            Lotanna Amaechi
+                          </h1>
+                          <h2
+                            class="subtitle is-size-6"
+                          >
+                            Software Engineer at Andela
+                          </h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="carousel-nav"
+                  >
+                    <label
+                      class="has-background-gold"
+                      for="carousel-1"
+                    />
+                    <label
+                      class="has-background-gold"
+                      for="carousel-2"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section call-to-action is-gold has-text-centered"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="box"
+            >
+              <div
+                class="columns level"
+              >
+                <div
+                  class="column level-item"
+                >
+                  <h1
+                    class="title"
+                  >
+                    Start a project
+                  </h1>
+                </div>
+                <div
+                  class="column level-item"
+                >
+                  <p>
+                    Interested in working with me?
+                  </p>
+                </div>
+                <div
+                  class="column level-item"
+                >
+                  <a
+                    class="button is-gold is-outlined is-rounded is-medium"
+                    href="mailto:example@example.com?subject=Website: Collaboration Request"
+                    target="_top"
+                  >
+                    Let's do this
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <footer
+        class="section is-gold is-small has-text-centered"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column is-one-third"
+            >
+              <h1
+                class="title is-size-4-touch"
+              >
+                Keep moving forward...
+              </h1>
+            </div>
+          </div>
+          <div
+            class="social-icons"
+          >
+            <p
+              class="field"
+            >
+              <a
+                class="button is-medium"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+              </a>
+              <a
+                class="button is-medium"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+              </a>
+              <a
+                class="button is-medium"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+              </a>
+              <a
+                class="button is-medium"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+              </a>
+            </p>
+          </div>
+          <div
+            class="copyright"
+          >
+            Design was inspired by 
+             
+            <a
+              href="https://mattfarley.ca/"
+            >
+              mattfarley.ca
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+          <div
+            class="copyright undefined has-text-centered"
+          >
+            Built with
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`PersonalPerfect.js test that it renders correctly without some sections 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <nav
+          aria-label="main navigation"
+          class="navbar is-transparent"
+          role="navigation"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="navbar-brand"
+            >
+              <a
+                class="navbar-item"
+                href="/"
+              >
+                <h2
+                  class="webpage-title is-size-4 has-text-gold"
+                >
+                  <strong>
+                    My Website
+                  </strong>
+                </h2>
+              </a>
+              <a
+                aria-expanded="false"
+                aria-label="menu"
+                class="navbar-burger"
+                data-target="#navMenu"
+                href="#navMenu"
+                role="button"
+              >
+                <span
+                  aria-hidden="true"
+                />
+                <span
+                  aria-hidden="true"
+                />
+                <span
+                  aria-hidden="true"
+                />
+              </a>
+            </div>
+            <div
+              class="navbar-menu"
+              id="navMenu"
+            >
+              <div
+                class="navbar-start"
+              />
+              <div
+                class="navbar-end"
+              >
+                <div
+                  class="navbar-item"
+                >
+                  <a
+                    class="button is-gold is-outlined is-rounded"
+                    href="#works"
+                  >
+                    Checkout my works
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <div>
+          <section
+            class="hero is-none has-text-centered animate-fadeUp"
+          >
+            <div
+              class="hero-body"
+            >
+              <div
+                class="container"
+              >
+                <div
+                  class="columns is-centered"
+                >
+                  <div
+                    class="column has-text-centered"
+                  >
+                    <h1
+                      class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
+                    >
+                      Lorem ipsum dolor sit amet consectetur
+                    </h1>
+                    <h2
+                      class="subtitle is-size-4-desktop"
+                    >
+                       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="hero-foot"
+            >
+              <div
+                class="container"
+              >
+                <img
+                  alt="hero"
+                  class="is-bottom"
+                  src="https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png"
+                  width="500"
+                />
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section 
+      is-small
+      is-gold
+      has-text-centered is-long"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column is-three-fifths"
+                >
+                  <h1
+                    class="title is-spaced is-size-3-desktop is-size-4-mobile"
+                  >
+                    Hi, my name is Theo Okafor.
+                  </h1>
+                  <h2
+                    class="subtitle is-size-5-desktop"
+                  >
+                    
+      I started my journey 2 years ago as a software developer. 
+      I have done remote work for agencies, consulted for
+      startups, and collaborated with talented people to create
+      digital products for both business and consumer use. 
+      I am a very hardworking person and I love what I do.
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section projects is-medium is-white has-text-centered"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <h1
+                class="title is-spaced is-size-3-desktop is-size-4-mobile"
+              >
+                Recent Works
+              </h1>
+              <h2
+                class="subtitle is-size-5-desktop"
+              >
+                Here are a few design projects I've worked on recently.
+              </h2>
+              <div
+                class="project-grid"
+              >
+                <div
+                  class="columns is-multiline is-mobile"
+                >
+                  <div
+                    class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                    id="works"
+                  >
+                    <figure
+                      class="image is-3by2"
+                    >
+                      <img
+                        alt="project icon"
+                        class="work"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                      />
+                      <figcaption
+                        class="has-text-centered"
+                      >
+                        <h1
+                          class="title is-size-5 is-size-4-widescreen"
+                        >
+                          A platform that enables collaboration amongst businesses and works
+                        </h1>
+                        <a
+                          class="button is-gold-invert is-outlined is-rounded cto"
+                          href="http://www.worksfair.com/works/undefined"
+                          rel="noopener noreferrer"
+                          style="margin: 0px auto;"
+                          target="_blank"
+                        >
+                          <span>
+                            More details
+                          </span>
+                          <span
+                            class="icon"
+                          >
+                            <i
+                              class="fa fa-angle-right"
+                            />
+                          </span>
+                        </a>
+                      </figcaption>
+                      <div
+                        class="overlay has-background-gold"
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                    id="works"
+                  >
+                    <figure
+                      class="image is-3by2"
+                    >
+                      <img
+                        alt="project icon"
+                        class="work"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                      />
+                      <figcaption
+                        class="has-text-centered"
+                      >
+                        <h1
+                          class="title is-size-5 is-size-4-widescreen"
+                        >
+                          A platform for growing businesses and skilled professionals.
+                        </h1>
+                        <a
+                          class="button is-gold-invert is-outlined is-rounded cto"
+                          href="http://www.worksfair.com/works/undefined"
+                          rel="noopener noreferrer"
+                          style="margin: 0px auto;"
+                          target="_blank"
+                        >
+                          <span>
+                            More details
+                          </span>
+                          <span
+                            class="icon"
+                          >
+                            <i
+                              class="fa fa-angle-right"
+                            />
+                          </span>
+                        </a>
+                      </figcaption>
+                      <div
+                        class="overlay has-background-gold"
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                    id="works"
+                  >
+                    <figure
+                      class="image is-3by2"
+                    >
+                      <img
+                        alt="project icon"
+                        class="work"
+                        src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                      />
+                      <figcaption
+                        class="has-text-centered"
+                      >
+                        <h1
+                          class="title is-size-5 is-size-4-widescreen"
+                        >
+                          A platform for searching for works that interests you
+                        </h1>
+                        <a
+                          class="button is-gold-invert is-outlined is-rounded cto"
+                          href="http://www.worksfair.com/works/undefined"
+                          rel="noopener noreferrer"
+                          style="margin: 0px auto;"
+                          target="_blank"
+                        >
+                          <span>
+                            More details
+                          </span>
+                          <span
+                            class="icon"
+                          >
+                            <i
+                              class="fa fa-angle-right"
+                            />
+                          </span>
+                        </a>
+                      </figcaption>
+                      <div
+                        class="overlay has-background-gold"
+                      />
+                    </figure>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column"
+                >
+                  <a
+                    class="button is-gold is-outlined is-rounded is-medium"
+                    href="https://github.com/TheoOkafor"
+                  >
+                    <span>
+                      See more works
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section testimonials is-medium is-white has-text-centered has-border-top"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <h1
+                class="title is-spaced is-size-3-desktop is-size-4-mobile"
+              >
+                Testimonials
+              </h1>
+              <h2
+                class="subtitle is-size-5-desktop"
+              >
+                People I've worked with have said these...
+              </h2>
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column is-two-thirds"
+                >
+                  <div
+                    class="testimonials-slider"
+                  >
+                    <input
+                      checked=""
+                      id="carousel-1"
+                      name="carousel"
+                      type="radio"
+                    />
+                    <input
+                      id="carousel-2"
+                      name="carousel"
+                      type="radio"
+                    />
+                    <input
+                      id="carousel-3"
+                      name="carousel"
+                      type="radio"
+                    />
+                    <div
+                      class="carousel-slides"
+                    >
+                      <div
+                        class="carousel-inner"
+                      >
+                        <div
+                          class="carousel-item"
+                        >
+                          <div
+                            class="testimonial-block"
+                          >
+                            <img
+                              alt="avatar"
+                              class="avatar"
+                              src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+                            />
+                            <p
+                              class="quote"
+                            >
+                              “
+                              Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                              ”
+                            </p>
+                            <h1
+                              class="title is-size-5"
+                            >
+                              Stan Ndunwere
+                            </h1>
+                            <h2
+                              class="subtitle is-size-6"
+                            >
+                              Software Engineer
+                            </h2>
+                          </div>
+                        </div>
+                        <div
+                          class="carousel-item"
+                        >
+                          <div
+                            class="testimonial-block"
+                          >
+                            <img
+                              alt="avatar"
+                              class="avatar"
+                              src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+                            />
+                            <p
+                              class="quote"
+                            >
+                              “
+                              Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                              ”
+                            </p>
+                            <h1
+                              class="title is-size-5"
+                            >
+                              Lotanna Amaechi
+                            </h1>
+                            <h2
+                              class="subtitle is-size-6"
+                            >
+                              Software Engineer at Andela
+                            </h2>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="carousel-nav"
+                    >
+                      <label
+                        class="has-background-gold"
+                        for="carousel-1"
+                      />
+                      <label
+                        class="has-background-gold"
+                        for="carousel-2"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div>
+          <section
+            class="section call-to-action is-gold has-text-centered"
+          >
+            <div
+              class="container is-narrow"
+            >
+              <div
+                class="box"
+              >
+                <div
+                  class="columns level"
+                >
+                  <div
+                    class="column level-item"
+                  >
+                    <h1
+                      class="title"
+                    >
+                      Start a project
+                    </h1>
+                  </div>
+                  <div
+                    class="column level-item"
+                  >
+                    <p>
+                      Interested in working with me?
+                    </p>
+                  </div>
+                  <div
+                    class="column level-item"
+                  >
+                    <a
+                      class="button is-gold is-outlined is-rounded is-medium"
+                      href="mailto:example@example.com?subject=Website: Collaboration Request"
+                      target="_top"
+                    >
+                      Let's do this
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <footer
+          class="section is-gold is-small has-text-centered"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column is-one-third"
+              >
+                <h1
+                  class="title is-size-4-touch"
+                >
+                  Keep moving forward...
+                </h1>
+              </div>
+            </div>
+            <div
+              class="social-icons"
+            >
+              <p
+                class="field"
+              >
+                <a
+                  class="button is-medium"
+                  href="https://twitter.com/theo_dot_io"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-twitter"
+                  />
+                </a>
+                <a
+                  class="button is-medium"
+                  href="https://github.com/TheoOkafor"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-github"
+                  />
+                </a>
+                <a
+                  class="button is-medium"
+                  href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-linkedin"
+                  />
+                </a>
+                <a
+                  class="button is-medium"
+                  href="https://web.facebook.com/okafor.theodore/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i
+                    class="fa fa-facebook"
+                  />
+                </a>
+              </p>
+            </div>
+            <div
+              class="copyright"
+            >
+              Design was inspired by 
+               
+              <a
+                href="https://mattfarley.ca/"
+              >
+                mattfarley.ca
+              </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
+            </div>
+            <div
+              class="copyright undefined has-text-centered"
+            >
+              Built with
+               
+              <a
+                href="http://www.worksfair.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                worksfair.com
+              </a>
+               
+              <span
+                class="icon has-white-text"
+              >
+                <i
+                  class="fa fa-copyright"
+                />
+              </span>
+              2020
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <nav
+        aria-label="main navigation"
+        class="navbar is-transparent"
+        role="navigation"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="navbar-brand"
+          >
+            <a
+              class="navbar-item"
+              href="/"
+            >
+              <h2
+                class="webpage-title is-size-4 has-text-gold"
+              >
+                <strong>
+                  My Website
+                </strong>
+              </h2>
+            </a>
+            <a
+              aria-expanded="false"
+              aria-label="menu"
+              class="navbar-burger"
+              data-target="#navMenu"
+              href="#navMenu"
+              role="button"
+            >
+              <span
+                aria-hidden="true"
+              />
+              <span
+                aria-hidden="true"
+              />
+              <span
+                aria-hidden="true"
+              />
+            </a>
+          </div>
+          <div
+            class="navbar-menu"
+            id="navMenu"
+          >
+            <div
+              class="navbar-start"
+            />
+            <div
+              class="navbar-end"
+            >
+              <div
+                class="navbar-item"
+              >
+                <a
+                  class="button is-gold is-outlined is-rounded"
+                  href="#works"
+                >
+                  Checkout my works
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div>
+        <section
+          class="hero is-none has-text-centered animate-fadeUp"
+        >
+          <div
+            class="hero-body"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="columns is-centered"
+              >
+                <div
+                  class="column has-text-centered"
+                >
+                  <h1
+                    class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile"
+                  >
+                    Lorem ipsum dolor sit amet consectetur
+                  </h1>
+                  <h2
+                    class="subtitle is-size-4-desktop"
+                  >
+                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit
+    ea vitae eius saepe minima cupiditate!
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="hero-foot"
+          >
+            <div
+              class="container"
+            >
+              <img
+                alt="hero"
+                class="is-bottom"
+                src="https://res.cloudinary.com/worksfair/image/upload/v1589784709/dev/ssjp84rmgtpkrct6fxwl.png"
+                width="500"
+              />
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section 
+      is-small
+      is-gold
+      has-text-centered is-long"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column is-three-fifths"
+              >
+                <h1
+                  class="title is-spaced is-size-3-desktop is-size-4-mobile"
+                >
+                  Hi, my name is Theo Okafor.
+                </h1>
+                <h2
+                  class="subtitle is-size-5-desktop"
+                >
+                  
+      I started my journey 2 years ago as a software developer. 
+      I have done remote work for agencies, consulted for
+      startups, and collaborated with talented people to create
+      digital products for both business and consumer use. 
+      I am a very hardworking person and I love what I do.
+                </h2>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section projects is-medium is-white has-text-centered"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <h1
+              class="title is-spaced is-size-3-desktop is-size-4-mobile"
+            >
+              Recent Works
+            </h1>
+            <h2
+              class="subtitle is-size-5-desktop"
+            >
+              Here are a few design projects I've worked on recently.
+            </h2>
+            <div
+              class="project-grid"
+            >
+              <div
+                class="columns is-multiline is-mobile"
+              >
+                <div
+                  class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                  id="works"
+                >
+                  <figure
+                    class="image is-3by2"
+                  >
+                    <img
+                      alt="project icon"
+                      class="work"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1565020005/dev/409A4051_1_s5oknl.jpg"
+                    />
+                    <figcaption
+                      class="has-text-centered"
+                    >
+                      <h1
+                        class="title is-size-5 is-size-4-widescreen"
+                      >
+                        A platform that enables collaboration amongst businesses and works
+                      </h1>
+                      <a
+                        class="button is-gold-invert is-outlined is-rounded cto"
+                        href="http://www.worksfair.com/works/undefined"
+                        rel="noopener noreferrer"
+                        style="margin: 0px auto;"
+                        target="_blank"
+                      >
+                        <span>
+                          More details
+                        </span>
+                        <span
+                          class="icon"
+                        >
+                          <i
+                            class="fa fa-angle-right"
+                          />
+                        </span>
+                      </a>
+                    </figcaption>
+                    <div
+                      class="overlay has-background-gold"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                  id="works"
+                >
+                  <figure
+                    class="image is-3by2"
+                  >
+                    <img
+                      alt="project icon"
+                      class="work"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1572711078/ru0cvposhpq4nxmaitai.png"
+                    />
+                    <figcaption
+                      class="has-text-centered"
+                    >
+                      <h1
+                        class="title is-size-5 is-size-4-widescreen"
+                      >
+                        A platform for growing businesses and skilled professionals.
+                      </h1>
+                      <a
+                        class="button is-gold-invert is-outlined is-rounded cto"
+                        href="http://www.worksfair.com/works/undefined"
+                        rel="noopener noreferrer"
+                        style="margin: 0px auto;"
+                        target="_blank"
+                      >
+                        <span>
+                          More details
+                        </span>
+                        <span
+                          class="icon"
+                        >
+                          <i
+                            class="fa fa-angle-right"
+                          />
+                        </span>
+                      </a>
+                    </figcaption>
+                    <div
+                      class="overlay has-background-gold"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="column is-12-mobile is-half-tablet is-one-third-desktop"
+                  id="works"
+                >
+                  <figure
+                    class="image is-3by2"
+                  >
+                    <img
+                      alt="project icon"
+                      class="work"
+                      src="https://res.cloudinary.com/worksfair/image/upload/v1570663069/zzdlgbdu5quf9lfmvsjc.jpg"
+                    />
+                    <figcaption
+                      class="has-text-centered"
+                    >
+                      <h1
+                        class="title is-size-5 is-size-4-widescreen"
+                      >
+                        A platform for searching for works that interests you
+                      </h1>
+                      <a
+                        class="button is-gold-invert is-outlined is-rounded cto"
+                        href="http://www.worksfair.com/works/undefined"
+                        rel="noopener noreferrer"
+                        style="margin: 0px auto;"
+                        target="_blank"
+                      >
+                        <span>
+                          More details
+                        </span>
+                        <span
+                          class="icon"
+                        >
+                          <i
+                            class="fa fa-angle-right"
+                          />
+                        </span>
+                      </a>
+                    </figcaption>
+                    <div
+                      class="overlay has-background-gold"
+                    />
+                  </figure>
+                </div>
+              </div>
+            </div>
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column"
+              >
+                <a
+                  class="button is-gold is-outlined is-rounded is-medium"
+                  href="https://github.com/TheoOkafor"
+                >
+                  <span>
+                    See more works
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section testimonials is-medium is-white has-text-centered has-border-top"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <h1
+              class="title is-spaced is-size-3-desktop is-size-4-mobile"
+            >
+              Testimonials
+            </h1>
+            <h2
+              class="subtitle is-size-5-desktop"
+            >
+              People I've worked with have said these...
+            </h2>
+            <div
+              class="columns is-centered"
+            >
+              <div
+                class="column is-two-thirds"
+              >
+                <div
+                  class="testimonials-slider"
+                >
+                  <input
+                    checked=""
+                    id="carousel-1"
+                    name="carousel"
+                    type="radio"
+                  />
+                  <input
+                    id="carousel-2"
+                    name="carousel"
+                    type="radio"
+                  />
+                  <input
+                    id="carousel-3"
+                    name="carousel"
+                    type="radio"
+                  />
+                  <div
+                    class="carousel-slides"
+                  >
+                    <div
+                      class="carousel-inner"
+                    >
+                      <div
+                        class="carousel-item"
+                      >
+                        <div
+                          class="testimonial-block"
+                        >
+                          <img
+                            alt="avatar"
+                            class="avatar"
+                            src="https://res.cloudinary.com/worksfair/image/upload/v1586788331/cvo7ef20judnjba56cq3.jpg"
+                          />
+                          <p
+                            class="quote"
+                          >
+                            “
+                            Working with Theodore is the smoothest experience anybody can have.
+          He is a no excuses guy with commendable focus and determination.
+          He is very analytical and objective engineer.
+          With his astute leadership skills it is difficult to have an uninspired team member around him.
+          As a master delegator and natural creative, he is capable of turning the dourest projects to the most exciting.
+          You absolutely need him on your team.
+                            ”
+                          </p>
+                          <h1
+                            class="title is-size-5"
+                          >
+                            Stan Ndunwere
+                          </h1>
+                          <h2
+                            class="subtitle is-size-6"
+                          >
+                            Software Engineer
+                          </h2>
+                        </div>
+                      </div>
+                      <div
+                        class="carousel-item"
+                      >
+                        <div
+                          class="testimonial-block"
+                        >
+                          <img
+                            alt="avatar"
+                            class="avatar"
+                            src="https://res.cloudinary.com/worksfair/image/upload/v1586788432/ppgh7wy58ja1wljhlgt4.jpg"
+                          />
+                          <p
+                            class="quote"
+                          >
+                            “
+                            Theodore Okafor is one exceptional purpose driven individual whose love for excellence and targeted result is next to non. 
+            Highly resourceful, tech-prenuer and an excellent orator.
+          His also, highly dependable, trustworthy and with an impeccable integrity base.
+          Time spent with him in school was and would still be highly cherished.
+          Highly recommended, and your company would be glad
+                            ”
+                          </p>
+                          <h1
+                            class="title is-size-5"
+                          >
+                            Lotanna Amaechi
+                          </h1>
+                          <h2
+                            class="subtitle is-size-6"
+                          >
+                            Software Engineer at Andela
+                          </h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="carousel-nav"
+                  >
+                    <label
+                      class="has-background-gold"
+                      for="carousel-1"
+                    />
+                    <label
+                      class="has-background-gold"
+                      for="carousel-2"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div>
+        <section
+          class="section call-to-action is-gold has-text-centered"
+        >
+          <div
+            class="container is-narrow"
+          >
+            <div
+              class="box"
+            >
+              <div
+                class="columns level"
+              >
+                <div
+                  class="column level-item"
+                >
+                  <h1
+                    class="title"
+                  >
+                    Start a project
+                  </h1>
+                </div>
+                <div
+                  class="column level-item"
+                >
+                  <p>
+                    Interested in working with me?
+                  </p>
+                </div>
+                <div
+                  class="column level-item"
+                >
+                  <a
+                    class="button is-gold is-outlined is-rounded is-medium"
+                    href="mailto:example@example.com?subject=Website: Collaboration Request"
+                    target="_top"
+                  >
+                    Let's do this
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <footer
+        class="section is-gold is-small has-text-centered"
+      >
+        <div
+          class="container is-narrow"
+        >
+          <div
+            class="columns is-centered"
+          >
+            <div
+              class="column is-one-third"
+            >
+              <h1
+                class="title is-size-4-touch"
+              >
+                Keep moving forward...
+              </h1>
+            </div>
+          </div>
+          <div
+            class="social-icons"
+          >
+            <p
+              class="field"
+            >
+              <a
+                class="button is-medium"
+                href="https://twitter.com/theo_dot_io"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-twitter"
+                />
+              </a>
+              <a
+                class="button is-medium"
+                href="https://github.com/TheoOkafor"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-github"
+                />
+              </a>
+              <a
+                class="button is-medium"
+                href="https://www.linkedin.com/in/theodore-okafor-511087aa/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-linkedin"
+                />
+              </a>
+              <a
+                class="button is-medium"
+                href="https://web.facebook.com/okafor.theodore/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i
+                  class="fa fa-facebook"
+                />
+              </a>
+            </p>
+          </div>
+          <div
+            class="copyright"
+          >
+            Design was inspired by 
+             
+            <a
+              href="https://mattfarley.ca/"
+            >
+              mattfarley.ca
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+          <div
+            class="copyright undefined has-text-centered"
+          >
+            Built with
+             
+            <a
+              href="http://www.worksfair.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              worksfair.com
+            </a>
+             
+            <span
+              class="icon has-white-text"
+            >
+              <i
+                class="fa fa-copyright"
+              />
+            </span>
+            2020
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
